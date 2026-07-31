@@ -1,16 +1,92 @@
 [
-  {"slug": "best-ac-under-40000-india", "category": "ac", "target_keywords": ["best AC under 40000", "split AC India", "inverter AC"], "status": "todo"},
-  {"slug": "best-refrigerator-under-30000-india", "category": "refrigerator", "target_keywords": ["best fridge under 30000", "frost free refrigerator India"], "status": "todo"},
-  {"slug": "best-washing-machine-under-25000-india", "category": "washing-machine", "target_keywords": ["best washing machine under 25000", "front load washing machine India"], "status": "todo"},
-  {"slug": "best-soundbar-under-10000-india", "category": "soundbar", "target_keywords": ["best soundbar under 10000 India", "Dolby Atmos soundbar"], "status": "todo"},
-  {"slug": "best-vacuum-cleaner-under-10000-india", "category": "vacuum", "target_keywords": ["best vacuum cleaner under 10000 India", "robot vacuum India"], "status": "todo"},
-  {"slug": "best-microwave-under-15000-india", "category": "microwave", "target_keywords": ["best microwave under 15000", "convection microwave India"], "status": "todo"},
-  {"slug": "best-geyser-under-10000-india", "category": "geyser", "target_keywords": ["best geyser under 10000 India", "instant geyser"], "status": "todo"},
-  {"slug": "best-trimmer-under-2000-india", "category": "trimmer", "target_keywords": ["best trimmer under 2000 India", "beard trimmer India"], "status": "todo"},
-  {"slug": "best-water-purifier-under-15000-india", "category": "water-purifier", "target_keywords": ["best water purifier under 15000", "RO water purifier India"], "status": "todo"},
-  {"slug": "best-smartphone-under-15000-india", "category": "smartphones", "target_keywords": ["best phone under 15000 India", "budget smartphone 2026"], "status": "todo"},
-  {"slug": "best-laptop-under-40000-india", "category": "laptops", "target_keywords": ["best laptop under 40000", "student laptop budget India"], "status": "todo"},
-  {"slug": "best-tws-earbuds-under-1500-india", "category": "earbuds", "target_keywords": ["best TWS under 1500 India", "cheap earbuds India"], "status": "todo"},
-  {"slug": "best-smartwatch-under-3000-india", "category": "smartwatch", "target_keywords": ["best smartwatch under 3000", "cheap smartwatch India"], "status": "todo"},
-  {"slug": "best-tablet-under-20000-india", "category": "smartphones", "target_keywords": ["best tablet under 20000 India", "budget tablet 2026"], "status": "todo"}
+  {
+    "slug": "best-vacuum-cleaner-under-10000-india",
+    "category": "vacuum",
+    "target_keywords": [
+      "best vacuum cleaner under 10000 India",
+      "robot vacuum India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-microwave-under-15000-india",
+    "category": "microwave",
+    "target_keywords": [
+      "best microwave under 15000",
+      "convection microwave India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-geyser-under-10000-india",
+    "category": "geyser",
+    "target_keywords": [
+      "best geyser under 10000 India",
+      "instant geyser"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-trimmer-under-2000-india",
+    "category": "trimmer",
+    "target_keywords": [
+      "best trimmer under 2000 India",
+      "beard trimmer India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-water-purifier-under-15000-india",
+    "category": "water-purifier",
+    "target_keywords": [
+      "best water purifier under 15000",
+      "RO water purifier India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-smartphone-under-15000-india",
+    "category": "smartphones",
+    "target_keywords": [
+      "best phone under 15000 India",
+      "budget smartphone 2026"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-laptop-under-40000-india",
+    "category": "laptops",
+    "target_keywords": [
+      "best laptop under 40000",
+      "student laptop budget India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-tws-earbuds-under-1500-india",
+    "category": "earbuds",
+    "target_keywords": [
+      "best TWS under 1500 India",
+      "cheap earbuds India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-smartwatch-under-3000-india",
+    "category": "smartwatch",
+    "target_keywords": [
+      "best smartwatch under 3000",
+      "cheap smartwatch India"
+    ],
+    "status": "todo"
+  },
+  {
+    "slug": "best-tablet-under-20000-india",
+    "category": "smartphones",
+    "target_keywords": [
+      "best tablet under 20000 India",
+      "budget tablet 2026"
+    ],
+    "status": "todo"
+  }
 ]
