@@ -225,7 +225,7 @@ def build():
         print(f"  ✓ budget/under-{budget_key}.html ({len(budget_articles)} articles)")
 
     # ---- Build sitemap ----
-    base = "https://indian-deals.example"
+    base = "https://joshclaw-sys.github.io/indian-deals"
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>']
     sitemap.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
     sitemap.append(f'  <url><loc>{base}/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>')
