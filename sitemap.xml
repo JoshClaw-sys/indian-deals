@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://indian-deals.example/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>
   <url><loc>https://indian-deals.example/articles/best-5g-phone-under-20000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://indian-deals.example/articles/best-ac-under-40000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/articles/best-air-fryer-under-5000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/articles/best-laptop-under-50000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/articles/best-mixer-grinder-under-3000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://indian-deals.example/articles/best-refrigerator-under-30000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/articles/best-smartwatch-under-5000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://indian-deals.example/articles/best-soundbar-under-10000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/articles/best-tws-earbuds-under-2000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://indian-deals.example/articles/best-washing-machine-under-25000-india.html</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://indian-deals.example/category/laptops.html</loc><priority>0.7</priority></url>
   <url><loc>https://indian-deals.example/category/earbuds.html</loc><priority>0.7</priority></url>
   <url><loc>https://indian-deals.example/category/smartphones.html</loc><priority>0.7</priority></url>
