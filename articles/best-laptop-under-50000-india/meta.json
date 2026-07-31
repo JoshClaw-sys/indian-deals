@@ -1,0 +1,58 @@
+{
+  "slug": "best-laptop-under-50000-india",
+  "title": "Best Laptop Under ₹50,000 in India (2026): Specs Decoded, Real Picks",
+  "short_title": "Best Laptop Under ₹50,000",
+  "description": "Buying a laptop under ₹50,000 in India is confusing — too many options, specs that lie. Here's what actually matters and the 5 models worth buying.",
+  "short_desc": "Spec sheets decoded — pick by use, not by brand.",
+  "keywords": [
+    "best laptop under 50000 India",
+    "laptop under 50k India 2026",
+    "student laptop India",
+    "best laptop for coding India"
+  ],
+  "category": "laptops",
+  "tag": "Computing",
+  "price": "₹38,000–₹50,000",
+  "read_time": "12 min",
+  "date": "2026-08-01",
+  "modified": "2026-08-01",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a laptop under ₹50,000"
+    },
+    {
+      "id": "use-cases",
+      "text": "Pick by use case, not by brand"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our 5 top picks"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Not sure what specs you need?",
+    "sub": "Tell us what you'll use it for — we'll recommend the exact model.",
+    "link": "#",
+    "button": "Get a recommendation"
+  },
+  "faq": [
+    {
+      "q": "Should I buy Intel or AMD?",
+      "a": "AMD wins in this segment. Ryzen 5 (5500U, 5600H) and Ryzen 7 (5700U) outperform equivalent Intel i5/i7 chips on both performance and battery."
+    },
+    {
+      "q": "How much RAM do I need?",
+      "a": "8GB is the minimum in 2026 — Chrome alone eats 4GB. 16GB is ideal but rare under ₹50,000."
+    },
+    {
+      "q": "Is integrated graphics enough?",
+      "a": "For studying, coding, browsing, and even light photo editing — yes. For gaming or video editing, you need a dedicated GPU."
+    }
+  ]
+}
