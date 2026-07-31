@@ -71,7 +71,6 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
     """Fill the article template."""
     cat = meta["category"]
     cat_title = CATEGORIES[cat]["title"]
-    cat_singular = cat_title.rstrip("s") if cat_title.endswith("s") and not cat_title.endswith("ss") else cat_title
 
     # Build FAQ schema (JSON string for inline script)
     faq_items = meta.get("faq", [])
@@ -123,7 +122,9 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
         "ARTICLE_RELATED_CTA": related_cta,
         "RELATED_ARTICLES": related_js,
     }
-    for k, v in replacements.items():
+    # Sort replacements by key length descending so "ARTICLE_CATEGORY_TITLE"
+    # is replaced before "ARTICLE_CATEGORY" (which would otherwise mangle it).
+    for k, v in sorted(replacements.items(), key=lambda kv: -len(kv[0])):
         out = out.replace(k, v)
     return out
 
@@ -148,7 +149,7 @@ def render_category(cat_key: str, articles: list) -> str:
         "CATEGORY_URL": f"category/{cat_key}.html",
         "CATEGORY_ARTICLES": articles_js,
     }
-    for k, v in replacements.items():
+    for k, v in sorted(replacements.items(), key=lambda kv: -len(kv[0])):
         out = out.replace(k, v)
     return out
 
@@ -173,7 +174,7 @@ def render_budget(budget_key: str, articles: list) -> str:
         "CATEGORY_URL": f"budget/under-{budget_key}.html",
         "CATEGORY_ARTICLES": articles_js,
     }
-    for k, v in replacements.items():
+    for k, v in sorted(replacements.items(), key=lambda kv: -len(kv[0])):
         out = out.replace(k, v)
     return out
 
