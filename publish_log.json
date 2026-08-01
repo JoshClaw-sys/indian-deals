@@ -21,5 +21,28 @@
       "id": 4284885,
       "timestamp": "2026-08-01T04:31:48.228470+00:00"
     }
+  },
+  "best-tws-earbuds-under-2000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-01T04:32:58.237202+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-01T04:33:33.237562+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-01T04:33:33.237685+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-tws-earbuds-under-2000-in-india-2026-real-anc-no-junk-309c",
+      "id": 4284890,
+      "timestamp": "2026-08-01T04:33:34.619167+00:00"
+    }
   }
 }
