@@ -23,108 +23,14 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 from datetime import datetime, timezone
-from html.parser import HTMLParser
+from markdown_converter import html_to_markdown  # replaces inline HTMLParser
+# from html.parser import HTMLParser  # removed
 
 ROOT = Path(__file__).parent
 ARTICLES_DIR = ROOT / "articles"
 
 # Platform-specific markdown converter
-class MarkdownConverter(HTMLParser):
-    """Convert article body HTML to Markdown for platforms that don't accept HTML."""
-    def __init__(self):
-        super().__init__()
-        self.out = []
-        self.in_skip = 0  # skip unwanted tags
 
-    def handle_starttag(self, tag, attrs):
-        attrs = dict(attrs)
-        if tag in ('script', 'style', 'noscript'):
-            self.in_skip += 1
-            return
-        if self.in_skip:
-            return
-
-        if tag == 'h2':
-            self.out.append('\n\n## ')
-        elif tag == 'h3':
-            self.out.append('\n\n### ')
-        elif tag == 'h4':
-            self.out.append('\n#### ')
-        elif tag == 'p':
-            self.out.append('\n\n')
-        elif tag == 'br':
-            self.out.append('  \n')
-        elif tag == 'strong' or tag == 'b':
-            self.out.append('**')
-        elif tag == 'em' or tag == 'i':
-            self.out.append('*')
-        elif tag == 'a':
-            href = attrs.get('href', '')
-            self.out.append(f'[')
-            self._href_buffer = href
-        elif tag == 'blockquote':
-            self.out.append('\n\n> ')
-        elif tag == 'li':
-            self.out.append('\n- ')
-        elif tag in ('ul', 'ol'):
-            self.out.append('\n')
-        elif tag == 'div':
-            cls = attrs.get('class', '')
-            if 'product-card' in cls:
-                self.out.append('\n\n---\n\n')
-            elif 'quick-specs' in cls:
-                self.out.append('\n\n')  # product specs - convert to table-like list
-            elif 'pros-cons' in cls:
-                self.out.append('\n\n')
-
-    def handle_endtag(self, tag):
-        if self.in_skip:
-            if tag in ('script', 'style', 'noscript'):
-                self.in_skip -= 1
-            return
-
-        if tag in ('h2', 'h3', 'h4', 'blockquote'):
-            self.out.append('\n\n')
-        elif tag == 'p':
-            self.out.append('\n\n')
-        elif tag in ('strong', 'b'):
-            self.out.append('**')
-        elif tag in ('em', 'i'):
-            self.out.append('*')
-        elif tag == 'a':
-            href = getattr(self, '_href_buffer', '#')
-            self.out.append(f']({href})')
-        elif tag in ('ul', 'ol'):
-            self.out.append('\n')
-        elif tag == 'div':
-            cls = getattr(self, '_current_div_class', '')
-            if 'product-card' in cls:
-                self.out.append('\n\n')
-
-    def handle_data(self, data):
-        if self.in_skip:
-            return
-        clean = data.strip()
-        if clean:
-            self.out.append(clean)
-
-    def get_markdown(self):
-        text = ''.join(self.out)
-        while '\n\n\n' in text:
-            text = text.replace('\n\n\n', '\n\n')
-        # Remove stray asterisks that come from <strong>**</strong> closures
-        import re
-        # Fix double asterisks from nested or repeated <strong> tags
-        text = re.sub(r'\*\*+', '**', text)
-        # Fix space-stared-number: "₹4,499 *2 years" — collapse leftover *
-        text = re.sub(r'([^\s])\*(\d|\w)', r'\1 \2', text)
-        return text.strip()
-
-
-def html_to_markdown(html):
-    p = MarkdownConverter()
-    p.feed(html)
-    return p.get_markdown()
 
 
 def load_article(slug):
