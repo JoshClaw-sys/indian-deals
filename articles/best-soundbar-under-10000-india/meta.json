@@ -112,9 +112,9 @@
     }
   ],
   "spec_headers": [
-    "C",
-    "P",
-    "C",
-    "D"
+    "Channels",
+    "Power",
+    "Connectivity",
+    "Dolby"
   ]
 }

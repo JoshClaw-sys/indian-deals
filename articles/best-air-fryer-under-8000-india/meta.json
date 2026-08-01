@@ -148,9 +148,9 @@
     }
   ],
   "spec_headers": [
-    "C",
-    "P",
-    "T",
-    "P"
+    "Capacity",
+    "Power",
+    "Temperature",
+    "Programs"
   ]
 }

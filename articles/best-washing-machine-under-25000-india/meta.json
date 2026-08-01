@@ -116,9 +116,9 @@
     }
   ],
   "spec_headers": [
-    "C",
-    "T",
-    "S",
-    "R"
+    "Capacity",
+    "Type",
+    "Star",
+    "RPM"
   ]
 }

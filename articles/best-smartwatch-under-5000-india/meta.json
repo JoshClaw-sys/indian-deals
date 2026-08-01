@@ -131,9 +131,9 @@
     }
   ],
   "spec_headers": [
-    "D",
-    "G",
-    "B",
-    "S"
+    "Display",
+    "GPS",
+    "Battery",
+    "Sensors"
   ]
 }

@@ -106,9 +106,9 @@
     }
   ],
   "spec_headers": [
-    "M",
-    "J",
-    "W",
-    "S"
+    "Motor",
+    "Jars",
+    "Warranty",
+    "Speed"
   ]
 }

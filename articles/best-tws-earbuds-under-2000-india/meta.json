@@ -135,9 +135,9 @@
     }
   ],
   "spec_headers": [
-    "A",
-    "B",
-    "D",
-    "C"
+    "ANC",
+    "Battery",
+    "Drivers",
+    "Codec"
   ]
 }

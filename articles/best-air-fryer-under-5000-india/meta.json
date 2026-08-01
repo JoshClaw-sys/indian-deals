@@ -136,7 +136,7 @@
   "spec_headers": [
     "Capacity",
     "Wattage",
-    "Temp",
+    "Temp Range",
     "Warranty"
   ]
 }

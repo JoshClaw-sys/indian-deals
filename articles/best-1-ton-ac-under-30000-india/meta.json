@@ -148,9 +148,9 @@
     }
   ],
   "spec_headers": [
-    "C",
-    "C",
-    "C",
-    "S"
+    "Capacity",
+    "Compressor",
+    "Condenser",
+    "Suitable room"
   ]
 }
