@@ -63,5 +63,94 @@
       "q": "Does the online AC price include installation?",
       "a": "Usually no. Standard installation may be charged separately, and extra copper pipe, outdoor-unit stand, core cutting and electrical work cost more."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Five inverter split ACs for small rooms, ranked by efficiency and ownership cost.</strong>. Compare the best 1 ton ACs under ₹30,000 in India by ISEER, ambient cooling, warranty and installation cost, with one tempting model to skip.",
+  "key_takeaways": [
+    "Inverter ACs save 30-40% electricity — payback period is 2-3 years.",
+    "1.5 ton is the right answer for 70% of Indian homes (100-180 sq ft).",
+    "Copper condenser lasts longer than aluminum — worth the ₹2-3k extra.",
+    "Brand service network matters more than brand prestige — LG/Samsung/Voltas have widest reach."
+  ],
+  "who_for": "Anyone buying an air conditioner in India. Whether you need a 1-ton AC for a small room or a 2-ton split for a large bedroom, this guide ranks the best picks at this price.",
+  "methodology": "We compared air conditioners available on Amazon India and Flipkart in this price range. For each, we evaluated tonnage, star rating, inverter technology, copper condenser, compressor warranty, and brand service network. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. LG 1 Ton 3-Star Dual Inverter Split AC (current TS-Q12 series)",
+      "price": "Usually ₹29,000–₹31,000",
+      "specs": [
+        "1 ton",
+        "Dual inverter",
+        "Copper",
+        "Up to ~110 sq ft"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Voltas 123V Vectra Elegant 1 Ton 3-Star Inverter Split AC",
+      "price": "Usually ₹27,500–₹29,500",
+      "specs": [
+        "1 ton",
+        "3 star",
+        "Copper",
+        "Adjustable cooling"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Blue Star 1 Ton 3-Star Inverter Split AC (IC312 series)",
+      "price": "Usually ₹28,500–₹30,500",
+      "specs": [
+        "1 ton",
+        "Inverter",
+        "Copper",
+        "Up to ~52°C on select model"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Godrej 1 Ton 3-Star Inverter Split AC (GIC 12 series)",
+      "price": "Usually ₹27,000–₹29,500",
+      "specs": [
+        "1 ton",
+        "Inverter",
+        "Copper",
+        "R32 on current models"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Lloyd 1 Ton 3-Star Inverter Split AC (GLS12I3 series)",
+      "price": "Usually ₹28,000–₹30,000",
+      "specs": [
+        "1 ton",
+        "Inverter",
+        "Copper",
+        "Variable/convertible"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Cheap fixed-speed 1 Ton 2-Star split ACs at ₹24,000–₹26,000",
+      "price": "",
+      "specs": [
+        "Fixed speed",
+        "Often 2 star",
+        "₹2,000–₹4,000",
+        "Very occasional only"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "C",
+    "C",
+    "C",
+    "S"
   ]
 }

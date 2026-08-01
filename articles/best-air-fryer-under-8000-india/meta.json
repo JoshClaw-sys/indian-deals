@@ -63,5 +63,94 @@
       "q": "What warranty should I expect?",
       "a": "One year is common; Philips and some Indian brands may offer two years on selected models. Verify the exact model and seller invoice."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Reliable basket fryers and one versatile oven, ranked by real cooking fundamentals.</strong>. Compare the best air fryers under ₹8,000 in India by wattage, basket size, cooking consistency and service—plus the oversized model to skip.",
+  "key_takeaways": [
+    "Wattage matters most: 1400W cooks evenly, 1200W leaves uneven results.",
+    "Skip low-wattage models even at tempting prices — they undercook.",
+    "5L for families, 4L for couples: pick capacity by household, not by price.",
+    "2-year warranty is the standard — anything less means the brand doesn't trust the motor."
+  ],
+  "who_for": "Anyone buying their first air fryer or upgrading from a budget model. If you cook for 1-4 people and want restaurant-level crisp without deep frying, this guide ranks the best picks in this price range.",
+  "methodology": "We compared air fryers available on Amazon India in this price range. For each, we evaluated cooking wattage, basket design, temperature range, build quality, warranty, and user reviews. Picks were validated against manufacturer specs and current pricing. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Philips HD9252/90 Digital Air Fryer",
+      "price": "Usually ₹6,800–₹8,000",
+      "specs": [
+        "4.1L",
+        "1400W",
+        "Up to 200°C",
+        "7 presets"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Instant Vortex 4L Air Fryer",
+      "price": "Usually ₹6,500–₹7,999",
+      "specs": [
+        "4L",
+        "1600W",
+        "6 functions",
+        "Up to 205°C"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Nutricook Air Fryer 2, 5.5L",
+      "price": "Usually ₹7,000–₹8,000",
+      "specs": [
+        "5.5L",
+        "1700W",
+        "10 presets",
+        "Digital"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Havells Prolife Digi 4L",
+      "price": "Usually ₹5,800–₹7,000",
+      "specs": [
+        "4L",
+        "About 1230W",
+        "Up to 60 min",
+        "2 years on select listings"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. AGARO Regency 12L Air Fryer Oven",
+      "price": "Usually ₹7,000–₹8,000",
+      "specs": [
+        "12L oven",
+        "1800W",
+        "Bake/roast/rotisserie",
+        "Racks + basket"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "No-name dual-basket “10L” models under ₹8,000",
+      "price": "",
+      "specs": [
+        "Two zones",
+        "Often inflated",
+        "Frequently shared",
+        "Uncertain"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "C",
+    "P",
+    "T",
+    "P"
   ]
 }

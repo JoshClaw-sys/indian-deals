@@ -127,6 +127,16 @@ def main():
                 print(f"  {icon} {label}: {code}")
         except Exception as e:
             print(f"  ⚠ Ping failed (non-blocking): {e}")
+
+        # Cross-post to third-party platforms (Medium, LinkedIn, Hashnode, Dev.to)
+        # Will gracefully skip any platform whose credentials aren't set yet.
+        try:
+            from publish_third_party import publish_one
+            print("\nCross-posting to third-party platforms...")
+            for slug in written:
+                publish_one(slug)
+        except Exception as e:
+            print(f"  ⚠ Third-party publishing failed (non-blocking): {e}")
     else:
         print(f"\n⚠ Build succeeded but git push failed")
 

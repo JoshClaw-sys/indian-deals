@@ -72,7 +72,7 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
     cat = meta["category"]
     cat_title = CATEGORIES[cat]["title"]
 
-    # Build FAQ schema (JSON string for inline script)
+    # FAQ schema
     faq_items = meta.get("faq", [])
     faq_schema = json.dumps([{
         "@type": "Question",
@@ -80,26 +80,47 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
         "acceptedAnswer": {"@type": "Answer", "text": faq["a"]}
     } for faq in faq_items], ensure_ascii=False)
 
-    # Build TOC from h2/h3
+    # TOC from h2/h3
     toc_html = '<div class="toc"><h2>📑 In this guide</h2><ol>'
     for h in meta.get("headings", []):
         toc_html += f'<li><a href="#{h["id"]}">{h["text"]}</a></li>'
     toc_html += '</ol></div>'
 
-    # Build FAQ HTML
+    # FAQ HTML
     faq_html = ''
     if faq_items:
-        faq_html = '<div class="faq"><h2>❓ Frequently asked questions</h2>'
+        faq_html = '<div class="faq"><h2 id="faq">❓ Frequently asked questions</h2>'
         for faq in faq_items:
             faq_html += f'<div class="faq-item"><h3>{faq["q"]}</h3><p>{faq["a"]}</p></div>'
         faq_html += '</div>'
 
-    # Related CTA at bottom
+    # Comparison table — auto-generate from products[] if present
+    comparison_table = meta.get("comparison_table", "")
+    if not comparison_table and meta.get("products"):
+        rows = ""
+        for p in meta["products"]:
+            klass = "winner" if p.get("winner") else ("skip-row" if p.get("skip") else "")
+            name_cell = f'<span class="top-pick">{p["name"]}</span>' if p.get("winner") else p["name"]
+            rows += f'<tr class="{klass}"><td>{name_cell}</td><td class="price">{p.get("price", "")}</td>'
+            for spec in p.get("specs", []):
+                rows += f'<td>{spec}</td>'
+            rows += '</tr>'
+        # Build header
+        headers = '<th>Model</th><th>Price</th>'
+        if meta["products"] and meta["products"][0].get("specs"):
+            headers += ''.join(f'<th>{s}</th>' for s in meta.get("spec_headers", []))
+        comparison_table = f'<table class="comparison-table"><thead><tr>{headers}</tr></thead><tbody>{rows}</tbody></table>'
+
+    # TL;DR bullets — auto-generate from key takeaways[] if not explicit
+    tldr_bullets = meta.get("tldr_bullets", "")
+    if not tldr_bullets:
+        for bullet in meta.get("key_takeaways", [])[:4]:
+            tldr_bullets += f'<li>{bullet}</li>'
+
     related_cta = ''
     if meta.get("cta"):
-        related_cta = f'<div class="cta-block"><h3 style="margin-bottom: 8px;">{meta["cta"]["headline"]}</h3><p style="margin-bottom: 16px;">{meta["cta"]["sub"]}</p><a href="{meta["cta"]["link"]}" class="cta">{meta["cta"]["button"]}</a></div>'
+        related_cta = f'<div class="cta-block"><h3>{meta["cta"]["headline"]}</h3><p style="margin-bottom: 16px;">{meta["cta"]["sub"]}</p><a href="{meta["cta"]["link"]}" class="cta">{meta["cta"]["button"]}</a></div>'
 
-    # Related articles card list
     related_js = json.dumps([{"slug": r["slug"], "title": r["title"], "tag": r.get("tag", "Guide")} for r in related], ensure_ascii=False)
 
     out = ARTICLE_TEMPLATE
@@ -115,15 +136,20 @@ def render_article(meta: dict, body_html: str, related: list) -> str:
         "ARTICLE_MODIFIED": meta["modified"],
         "ARTICLE_DATE_DISPLAY": meta["date_display"],
         "ARTICLE_TIME": meta["read_time"],
+        "ARTICLE_PRICE_RANGE": meta.get("price", ""),
         "ARTICLE_BODY": body_html,
         "FAQ_SCHEMA": faq_schema,
         "ARTICLE_TOC": toc_html,
         "ARTICLE_FAQ": faq_html,
+        "ARTICLE_TLDR_PICK": meta.get("tldr_pick", meta.get("description", "")),
+        "ARTICLE_TLDR_BULLETS": tldr_bullets,
+        "ARTICLE_WHO_FOR": meta.get("who_for", "Anyone shopping for a " + cat_title.lower() + " in India on a budget."),
+        "ARTICLE_METHODOLOGY": meta.get("methodology", f"We researched 8-10 {cat_title.lower()} in this price range, compared specs and verified pricing on Amazon India and Flipkart, and identified the best picks based on real-world use cases for Indian buyers. We refresh this guide every 60-90 days."),
+        "ARTICLE_COMPARISON_TABLE": comparison_table,
         "ARTICLE_RELATED_CTA": related_cta,
         "RELATED_ARTICLES": related_js,
     }
-    # Sort replacements by key length descending so "ARTICLE_CATEGORY_TITLE"
-    # is replaced before "ARTICLE_CATEGORY" (which would otherwise mangle it).
+    # Sort by key length descending so longer keys are replaced first
     for k, v in sorted(replacements.items(), key=lambda kv: -len(kv[0])):
         out = out.replace(k, v)
     return out

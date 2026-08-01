@@ -45,5 +45,70 @@
       "q": "Are copper motors worth it?",
       "a": "Yes — copper motors last 2-3x longer than aluminum. Always check for '100% copper motor' in the specs."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Three jars, copper motor, and what to skip.</strong>. A mixer grinder is the most-used appliance in an Indian kitchen. Here's what to buy under ₹3,000 for real grinding power.",
+  "key_takeaways": [
+    "750W copper motor is the minimum for idli batter and heavy masalas.",
+    "Copper motor lasts 2-3x longer than aluminum — always check the specs.",
+    "3 stainless steel jars (1.5L + 1L + 0.4L chutney) cover every use case.",
+    "2-year warranty with service network matters more than brand name."
+  ],
+  "who_for": "Anyone buying a mixer grinder for an Indian kitchen. If you make idli batter, masalas, chutneys, or milkshakes regularly, this guide ranks the best picks at this price.",
+  "methodology": "We compared mixer grinders available on Amazon India in this price range. For each, we evaluated motor wattage, motor material (copper vs aluminum), jar configuration, warranty, and build quality. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Prestige Iris Plus 750W",
+      "price": "₹2,599",
+      "specs": [
+        "750W copper",
+        "3 (1.5L, 1L, 0.4L chutney)",
+        "2 years",
+        "3 + pulse"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Bajaj Rex 750W",
+      "price": "₹2,299",
+      "specs": [
+        "750W copper",
+        "3 (1.5L, 1L, 0.4L)",
+        "2 years",
+        "3 + pulse"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Maharaja Whiteline Turbo 500W",
+      "price": "₹1,899",
+      "specs": [
+        "500W copper",
+        "3",
+        "2 years",
+        "3 + pulse"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Philips HL7706/00 750W",
+      "price": "₹2,899",
+      "specs": [
+        "750W copper",
+        "3",
+        "2 years",
+        "3 + pulse"
+      ],
+      "winner": false,
+      "skip": false
+    }
+  ],
+  "spec_headers": [
+    "M",
+    "J",
+    "W",
+    "S"
   ]
 }

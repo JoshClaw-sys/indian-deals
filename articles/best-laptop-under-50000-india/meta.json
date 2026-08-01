@@ -54,5 +54,82 @@
       "q": "Is integrated graphics enough?",
       "a": "For studying, coding, browsing, and even light photo editing — yes. For gaming or video editing, you need a dedicated GPU."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Spec sheets decoded — pick by use, not by brand.</strong>. Buying a laptop under ₹50,000 in India is confusing — too many options, specs that lie. Here's what actually matters and the 5 models worth buying.",
+  "key_takeaways": [
+    "AMD Ryzen wins in this segment — better performance and battery than equivalent Intel.",
+    "8GB RAM is the minimum in 2026; 16GB is better if your budget allows.",
+    "NVMe SSD is non-negotiable — HDD laptops feel slow even with good specs.",
+    "IPS display > TN — colors and viewing angles matter for daily use."
+  ],
+  "who_for": "Students, developers, and professionals buying a laptop in India on a budget. If you need a reliable work machine for study, coding, office work, or light creative work, this guide ranks the best picks at this price.",
+  "methodology": "We compared laptops available on Amazon India and Flipkart in this price range. For each, we evaluated the processor, RAM, storage type, display quality, battery life, and build. Picks validated against manufacturer specs and current pricing. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Acer Aspire 5 (Ryzen 5 5500U, 8GB, 512GB SSD)",
+      "price": "₹42,990",
+      "specs": [
+        "AMD Ryzen 5 5500U",
+        "8GB DDR4",
+        "512GB NVMe SSD",
+        "15.6\" IPS Full HD"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. HP 15s (Ryzen 5 5600H, 8GB, 512GB SSD)",
+      "price": "₹46,990",
+      "specs": [
+        "AMD Ryzen 5 5600H",
+        "8GB DDR4",
+        "512GB NVMe SSD",
+        "15.6\" IPS Full HD"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Lenovo IdeaPad 3 (Ryzen 5 5500U, 8GB, 512GB SSD)",
+      "price": "₹39,990",
+      "specs": [
+        "AMD Ryzen 5 5500U",
+        "8GB DDR4",
+        "512GB NVMe SSD",
+        "15.6\" IPS Full HD"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. ASUS VivoBook 15 (Ryzen 5 5600H, 16GB, 512GB SSD)",
+      "price": "₹48,990",
+      "specs": [
+        "AMD Ryzen 5 5600H",
+        "16GB DDR4",
+        "512GB NVMe SSD",
+        "15.6\" IPS Full HD"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Dell Inspiron 3515 (Ryzen 5 5600U, 8GB, 512GB SSD)",
+      "price": "₹44,490",
+      "specs": [
+        "AMD Ryzen 5 5600U",
+        "8GB DDR4",
+        "512GB NVMe SSD",
+        "15.6\" IPS Full HD"
+      ],
+      "winner": false,
+      "skip": false
+    }
+  ],
+  "spec_headers": [
+    "C",
+    "R",
+    "S",
+    "D"
   ]
 }

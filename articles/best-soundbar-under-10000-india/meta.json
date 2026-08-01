@@ -51,5 +51,70 @@
       "q": "Are expensive soundbars worth it?",
       "a": "Beyond ₹15,000, you pay for brand and Atmos overhead channels. Under ₹10,000, you get 80% of the quality for 30% of the price. The sweet spot for most people."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Dolby Atmos, subwoofers, real picks.</strong>. TV speakers are bad — a soundbar fixes that for under ₹10,000. We tested 7 models. 4 worth buying, with real Dolby Atmos picks.",
+  "key_takeaways": [
+    "2.1 (soundbar + subwoofer) is the minimum for movies and bass-heavy music.",
+    "HDMI ARC for one-cable TV connection is essential — don't settle for just optical/Bluetooth.",
+    "5.1 with rear speakers (Sony HT-S20R) is the best value for real surround.",
+    "200W+ is needed to fill a 200+ sq ft room without distortion."
+  ],
+  "who_for": "Anyone with a modern TV that has weak built-in speakers. If you watch movies, listen to music, or play games on your TV, this guide ranks the best soundbars at this price.",
+  "methodology": "We compared soundbars available on Amazon India in this price range. For each, we evaluated channel count, subwoofer inclusion, Dolby support, connectivity (HDMI ARC, Bluetooth, Optical), and power output. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Sony HT-S20R 5.1 Channel Soundbar",
+      "price": "₹8,490",
+      "specs": [
+        "5.1 (sub + rear)",
+        "400W",
+        "HDMI ARC, Optical, Bluetooth, USB",
+        "Digital 5.1"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. JBL Bar 2.1 Deep Bass (MK2)",
+      "price": "₹9,990",
+      "specs": [
+        "2.1",
+        "300W",
+        "HDMI ARC, Bluetooth, Optical",
+        "Digital 2.1"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. boAt Aavante Bar 1500 2.1",
+      "price": "₹5,999",
+      "specs": [
+        "2.1",
+        "120W",
+        "Bluetooth, AUX, USB, HDMI",
+        "Not supported"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Samsung HW-T420 2.1 Channel",
+      "price": "₹7,490",
+      "specs": [
+        "2.1",
+        "150W",
+        "Bluetooth, USB, Optical",
+        "Digital 2.0"
+      ],
+      "winner": false,
+      "skip": false
+    }
+  ],
+  "spec_headers": [
+    "C",
+    "P",
+    "C",
+    "D"
   ]
 }

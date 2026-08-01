@@ -59,5 +59,84 @@
       "q": "Can I bake in an air fryer?",
       "a": "Yes — most modern air fryers handle cookies, small cakes, and even grilled sandwiches."
     }
+  ],
+  "tldr_pick": "The <strong>Philips HD9200/90</strong> is the best air fryer under ₹5,000 in India — it's the only one in this range with rapid air technology that actually crisps food without leaving soggy bottoms. Buy it at ₹4,499 on Amazon.",
+  "key_takeaways": [
+    "<strong>Wattage matters most:</strong> 1400W cooks evenly, 1200W leaves uneven results.",
+    "<strong>Skip the Prestige PAP 4.0:</strong> ₹4,800 for underwhelming cooking — better value exists.",
+    "<strong>5L for families, 4L for couples:</strong> pick capacity by household, not by price.",
+    "<strong>2-year warranty is the standard:</strong> anything less means the brand doesn't trust the motor."
+  ],
+  "who_for": "Anyone buying their first air fryer or upgrading from a ₹2,500 model. If you cook for 1-4 people and want restaurant-level crisp without deep frying, this guide ranks the 5 best options under ₹5,000.",
+  "methodology": "We compared 6 air fryers under ₹5,000 available on Amazon India in 2026. For each, we evaluated cooking wattage, basket design, temperature range, build quality, warranty, and user reviews. Picks were validated against manufacturer specs and current pricing. This guide was first published in August 2026 and is reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Philips HD9200/90",
+      "price": "₹4,499",
+      "specs": [
+        "4.1L",
+        "1400W",
+        "80-200°C",
+        "2 yr"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Havells Prolife Digi",
+      "price": "₹4,999",
+      "specs": [
+        "5L",
+        "1400W",
+        "80-200°C",
+        "2 yr"
+      ]
+    },
+    {
+      "name": "Agaro Regency",
+      "price": "₹3,599",
+      "specs": [
+        "4L",
+        "1300W",
+        "80-200°C",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "Inalsa Fry-Light",
+      "price": "₹4,299",
+      "specs": [
+        "4.5L",
+        "1400W",
+        "80-200°C",
+        "2 yr"
+      ]
+    },
+    {
+      "name": "Pigeon by Stovekraft",
+      "price": "₹3,899",
+      "specs": [
+        "4L",
+        "1200W",
+        "80-200°C",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "Prestige PAP 4.0 V2",
+      "price": "₹4,799",
+      "specs": [
+        "4L",
+        "1200W",
+        "80-200°C",
+        "1 yr"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Capacity",
+    "Wattage",
+    "Temp",
+    "Warranty"
   ]
 }

@@ -63,5 +63,94 @@
       "q": "Is a digital air fryer better than a manual one?",
       "a": "Not necessarily. Digital presets add convenience, but heater power, airflow and basket loading affect browning more than the control panel."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Five genuinely useful budget fryers, compared without the preset hype.</strong>. Find the best air fryer under ₹3,000 in India with real wattage and capacity comparisons, practical trade-offs, and one popular model to avoid.",
+  "key_takeaways": [
+    "Wattage matters most: 1400W cooks evenly, 1200W leaves uneven results.",
+    "Skip low-wattage models even at tempting prices — they undercook.",
+    "5L for families, 4L for couples: pick capacity by household, not by price.",
+    "2-year warranty is the standard — anything less means the brand doesn't trust the motor."
+  ],
+  "who_for": "Anyone buying their first air fryer or upgrading from a budget model. If you cook for 1-4 people and want restaurant-level crisp without deep frying, this guide ranks the best picks in this price range.",
+  "methodology": "We compared air fryers available on Amazon India in this price range. For each, we evaluated cooking wattage, basket design, temperature range, build quality, warranty, and user reviews. Picks were validated against manufacturer specs and current pricing. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Inalsa Fry-Light 4L Air Fryer",
+      "price": "Usually ₹2,700–₹3,000",
+      "specs": [
+        "4L",
+        "1400W",
+        "Manual dials",
+        "80–200°C"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Pigeon Healthifry Manual Air Fryer",
+      "price": "Usually ₹2,500–₹2,900",
+      "specs": [
+        "About 4.2L",
+        "1200W",
+        "Up to 60 min",
+        "80–200°C"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Lifelong Fryo 4.5L Air Fryer",
+      "price": "Usually ₹2,600–₹3,000",
+      "specs": [
+        "4.5L",
+        "1400W",
+        "30 min",
+        "80–200°C"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. SOLARA Small Air Fryer 3.5L",
+      "price": "Usually ₹2,800–₹3,200",
+      "specs": [
+        "3.5L",
+        "1400W",
+        "Manual",
+        "1–2 people"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Amazon Basics 3.5L Manual Air Fryer",
+      "price": "Usually ₹2,400–₹2,900",
+      "specs": [
+        "3.5L",
+        "Around 1300W",
+        "Manual",
+        "Check listing"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Generic “8L Digital” air fryers below ₹3,000",
+      "price": "",
+      "specs": [
+        "7–8L",
+        "1200–1400W",
+        "Unclear",
+        "Rare"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "C",
+    "P",
+    "C",
+    "T"
   ]
 }

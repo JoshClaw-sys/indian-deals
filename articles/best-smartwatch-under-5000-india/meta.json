@@ -51,5 +51,89 @@
       "q": "AMOLED vs LCD — does it matter?",
       "a": "Massively. AMOLED is brighter outdoors, has true blacks, and uses less battery when displaying dark watch faces. Always pick AMOLED in 2026."
     }
+  ],
+  "tldr_pick": "Our top pick is the <strong>AMOLED, GPS, week-long battery — the real picks.</strong>. Budget smartwatches have gotten genuinely good — AMOLED displays, built-in GPS, 7-day battery. Here are the 5 worth buying.",
+  "key_takeaways": [
+    "AMOLED display is brighter outdoors and uses less battery than LCD.",
+    "Built-in GPS (not connected GPS) tracks runs accurately without your phone.",
+    "7-day battery is the minimum acceptable in 2026.",
+    "Heart rate + SpO2 sensors must be verified accurate, not just 'present'."
+  ],
+  "who_for": "Anyone buying a smartwatch or fitness band in India on a budget. Whether you prioritize health tracking, display quality, battery life, or built-in GPS, this guide ranks the best picks at this price.",
+  "methodology": "We compared smartwatches available on Amazon India in this price range. For each, we evaluated display type, battery life, GPS support, sensor accuracy, IP rating, and app ecosystem. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "1. Amazfit Bip 5 (46mm)",
+      "price": "₹4,499",
+      "specs": [
+        "1.91\" AMOLED",
+        "Built-in (5 systems)",
+        "14 days typical",
+        "HR, SpO2, stress"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Fire-Boltt Phoenix Ultra",
+      "price": "₹3,999",
+      "specs": [
+        "1.75\" AMOLED",
+        "No (connected only)",
+        "7 days",
+        "HR, SpO2"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. boAt Wave Sigma",
+      "price": "₹1,999",
+      "specs": [
+        "1.96\" HD",
+        "No",
+        "7 days",
+        "HR, SpO2"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Noise ColorFit Pro 5",
+      "price": "₹3,499",
+      "specs": [
+        "1.85\" AMOLED",
+        "No",
+        "7 days",
+        "HR, SpO2, stress"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Redmi Watch 4",
+      "price": "₹4,799",
+      "specs": [
+        "1.97\" AMOLED",
+        "Built-in",
+        "10 days",
+        "HR, SpO2, stress"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Generic \"smart watches\" on Amazon under ₹2,000",
+      "price": "",
+      "specs": [],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "D",
+    "G",
+    "B",
+    "S"
   ]
 }
