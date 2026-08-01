@@ -61,7 +61,7 @@ class MarkdownConverter(HTMLParser):
         elif tag == 'a':
             href = attrs.get('href', '')
             self.out.append(f'[')
-            self._href_buffer = href  # store for handle_endtag
+            self._href_buffer = href
         elif tag == 'blockquote':
             self.out.append('\n\n> ')
         elif tag == 'li':
@@ -72,6 +72,10 @@ class MarkdownConverter(HTMLParser):
             cls = attrs.get('class', '')
             if 'product-card' in cls:
                 self.out.append('\n\n---\n\n')
+            elif 'quick-specs' in cls:
+                self.out.append('\n\n')  # product specs - convert to table-like list
+            elif 'pros-cons' in cls:
+                self.out.append('\n\n')
 
     def handle_endtag(self, tag):
         if self.in_skip:
@@ -79,7 +83,9 @@ class MarkdownConverter(HTMLParser):
                 self.in_skip -= 1
             return
 
-        if tag in ('h2', 'h3', 'h4', 'p', 'blockquote'):
+        if tag in ('h2', 'h3', 'h4', 'blockquote'):
+            self.out.append('\n\n')
+        elif tag == 'p':
             self.out.append('\n\n')
         elif tag in ('strong', 'b'):
             self.out.append('**')
@@ -90,20 +96,28 @@ class MarkdownConverter(HTMLParser):
             self.out.append(f']({href})')
         elif tag in ('ul', 'ol'):
             self.out.append('\n')
+        elif tag == 'div':
+            cls = getattr(self, '_current_div_class', '')
+            if 'product-card' in cls:
+                self.out.append('\n\n')
 
     def handle_data(self, data):
         if self.in_skip:
             return
-        # Clean up product card price/specs noise
         clean = data.strip()
         if clean:
             self.out.append(clean)
 
     def get_markdown(self):
-        # Collapse 3+ newlines to 2
         text = ''.join(self.out)
         while '\n\n\n' in text:
             text = text.replace('\n\n\n', '\n\n')
+        # Remove stray asterisks that come from <strong>**</strong> closures
+        import re
+        # Fix double asterisks from nested or repeated <strong> tags
+        text = re.sub(r'\*\*+', '**', text)
+        # Fix space-stared-number: "₹4,499 *2 years" — collapse leftover *
+        text = re.sub(r'([^\s])\*(\d|\w)', r'\1 \2', text)
         return text.strip()
 
 
