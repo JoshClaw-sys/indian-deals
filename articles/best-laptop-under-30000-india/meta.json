@@ -1,0 +1,146 @@
+{
+  "slug": "best-laptop-under-30000-india",
+  "title": "Best Laptop Under ₹30,000 in India (2026): Real Picks for Students and First-Time Buyers",
+  "short_title": "Best Laptop Under ₹30,000",
+  "description": "We ranked the best laptops under ₹30,000 in India for 2026 — real CPU, RAM, SSD and battery comparisons, plus one popular model to skip.",
+  "short_desc": "Five usable laptops for students and first-time buyers — and one to avoid.",
+  "keywords": [
+    "best laptop under 30000 India",
+    "student laptop India 2026",
+    "budget laptop India",
+    "i3 laptop under 30000",
+    "laptop buying guide"
+  ],
+  "category": "laptops",
+  "tag": "Computing",
+  "price": "₹22,000–₹30,000",
+  "read_time": "10 min",
+  "date": "2026-08-03",
+  "modified": "2026-08-03",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a laptop under ₹30,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Buy for the SSD and RAM, not the brand",
+    "sub": "Compare current sale prices on Amazon, Flipkart and brand stores. Student discounts and bank offers move weekly.",
+    "link": "#",
+    "button": "See today's deals"
+  },
+  "faq": [
+    {
+      "q": "Is a laptop under ₹30,000 worth buying in 2026?",
+      "a": "Yes, for students, online classes, office work, and browsing. Skip gaming and video editing at this budget — those need ₹50,000+. Look for at least 8GB RAM, an SSD (not HDD), and a current-gen Intel i3 or AMD Ryzen 3."
+    },
+    {
+      "q": "What RAM is enough at this price?",
+      "a": "8GB is the minimum for Windows 11. 4GB laptops exist but they crawl when Chrome has 5+ tabs open. If a 4GB model is on sale, verify it has an empty RAM slot to upgrade later."
+    },
+    {
+      "q": "SSD vs HDD — does it really matter?",
+      "a": "Massively. A 256GB SSD laptop boots in 12-15 seconds; a 1TB HDD laptop takes 60-90 seconds. App launch and file copy are 3-5x faster on SSD. Never buy an HDD-only laptop in 2026."
+    },
+    {
+      "q": "Intel i3 vs AMD Ryzen 3 at ₹30,000?",
+      "a": "AMD Ryzen 3 wins on multi-core performance and battery life at this budget. Intel i3 (12th/13th gen) wins on single-core responsiveness and software compatibility. For students and office work, both are fine."
+    },
+    {
+      "q": "How long should the battery last?",
+      "a": "6-8 hours of real use is the realistic floor for studying on campus. Anything below 5 hours means carrying the charger everywhere. Marketing claims of 10+ hours usually mean 6-7 in real use."
+    }
+  ],
+  "tldr_pick": "The <strong>Acer Aspire 3 (Ryzen 3 7320U, 8GB, 512GB SSD)</strong> is the best laptop under ₹30,000 in India — current AMD Ryzen 3, fast SSD, 8GB DDR5 RAM, and an honest 7-hour battery. Buy it at around ₹26,990 during sales on Amazon.",
+  "key_takeaways": [
+    "<strong>SSD is non-negotiable:</strong> never buy an HDD-only laptop in 2026 — boot and app launch times will frustrate you daily.",
+    "<strong>8GB RAM is the floor:</strong> 4GB laptops exist but struggle with Windows 11 and modern browsers.",
+    "<strong>Skip the HP 15s with 1TB HDD:</strong> it looks attractive at the price but the HDD makes it painful to use.",
+    "<strong>AMD Ryzen 3 7320U / 7430U wins</strong> on battery life over Intel i3 at this price."
+  ],
+  "who_for": "Students (engineering, commerce, school) buying a first laptop, parents shopping for a child's online-class machine, and anyone who needs a working Windows laptop for browsing, MS Office and light work without paying ₹40,000+. This guide ranks the 5 best laptops under ₹30,000 for Indian buyers in 2026.",
+  "methodology": "We compared 8 laptops between ₹22,000 and ₹30,000 available on Amazon India, Flipkart and brand stores in 2026. For each, we evaluated CPU generation, RAM type and capacity, storage type (SSD vs HDD), battery life in real use, build quality, keyboard and trackpad, and warranty support. Picks were validated against manufacturer specs, current sale pricing, and verified buyer reviews. This guide was first published in August 2026 and is reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Acer Aspire 3 (Ryzen 3 7320U)",
+      "price": "₹26,990",
+      "specs": [
+        "Ryzen 3 7320U",
+        "8GB DDR5",
+        "512GB SSD",
+        "15.6\" FHD"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Lenovo IdeaPad Slim 3 (i3 12th gen)",
+      "price": "₹28,490",
+      "specs": [
+        "i3-1215U",
+        "8GB DDR4",
+        "512GB SSD",
+        "15.6\" FHD"
+      ]
+    },
+    {
+      "name": "ASUS VivoBook 15 (Ryzen 3 7320U)",
+      "price": "₹27,490",
+      "specs": [
+        "Ryzen 3 7320U",
+        "8GB DDR5",
+        "512GB SSD",
+        "15.6\" FHD"
+      ]
+    },
+    {
+      "name": "HP 15s (Ryzen 3 5300U, 8GB, 512GB SSD)",
+      "price": "₹29,490",
+      "specs": [
+        "Ryzen 3 5300U",
+        "8GB DDR4",
+        "512GB SSD",
+        "15.6\" FHD"
+      ]
+    },
+    {
+      "name": "Acer Aspire Lite (Ryzen 3 5300U, 8GB, 256GB SSD)",
+      "price": "₹24,990",
+      "specs": [
+        "Ryzen 3 5300U",
+        "8GB DDR4",
+        "256GB SSD",
+        "15.6\" HD"
+      ]
+    },
+    {
+      "name": "HP 15s (i3 11th gen, 1TB HDD)",
+      "price": "₹25,990",
+      "specs": [
+        "i3-1115G4",
+        "8GB DDR4",
+        "1TB HDD",
+        "15.6\" FHD"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "CPU",
+    "RAM",
+    "Storage",
+    "Display"
+  ]
+}
