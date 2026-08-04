@@ -320,5 +320,28 @@
       "id": 4290868,
       "timestamp": "2026-08-02T03:36:32.026421+00:00"
     }
+  },
+  "best-headphones-under-3000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-03T03:40:21.849420+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-03T03:40:56.849781+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-03T03:40:56.849877+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-headphones-under-3000-in-india-2026-over-ear-on-ear-picks-that-actually-sound-good-2nbe",
+      "id": 4296988,
+      "timestamp": "2026-08-03T03:40:57.816460+00:00"
+    }
   }
 }

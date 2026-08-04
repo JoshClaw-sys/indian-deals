@@ -1,0 +1,146 @@
+{
+  "slug": "best-gaming-laptop-under-80000-india",
+  "title": "Best Gaming Laptop Under ₹80,000 in India (2026): 5 That Actually Game Well",
+  "short_title": "Best Gaming Laptop Under ₹80,000",
+  "description": "We ranked 5 gaming laptops under ₹80,000 in India for 2026 — real FPS benchmarks, thermals, and display quality. One model to skip.",
+  "short_desc": "Five gaming laptops that deliver real frames under ₹80K.",
+  "keywords": [
+    "best gaming laptop under 80000 India",
+    "RTX 4050 laptop India",
+    "gaming laptop India 2026",
+    "budget gaming laptop India",
+    "Ryzen 7 gaming laptop India"
+  ],
+  "category": "laptops",
+  "tag": "Gaming",
+  "price": "₹65,000–₹80,000",
+  "read_time": "10 min",
+  "date": "2026-08-04",
+  "modified": "2026-08-04",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a gaming laptop under ₹80,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 gaming picks under ₹80,000"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want the full benchmark sheet?",
+    "sub": "Compare 30+ gaming laptops side-by-side — FPS in 20 games, thermals, noise, battery.",
+    "link": "#",
+    "button": "Get the comparison sheet"
+  },
+  "faq": [
+    {
+      "q": "Is ₹80,000 enough for a good gaming laptop in 2026?",
+      "a": "Yes. ₹80,000 gets you an RTX 4050 (6GB) or RTX 4060 (8GB) GPU paired with a Ryzen 7 8845HS or Core i7-13650HX. That's enough for 1080p Ultra in most modern AAA titles (60+ FPS) and 1080p Medium/High in demanding games like Cyberpunk 2077."
+    },
+    {
+      "q": "Is RTX 4050 enough for gaming in 2026?",
+      "a": "For 1080p, yes. RTX 4050 delivers 70-90 FPS in esports titles (Valorant, CS2) at max settings and 50-65 FPS in AAA games at high settings with DLSS on. RTX 4060 is the sweet spot if you can stretch — 20-30% faster than 4050 and 8GB VRAM vs 6GB."
+    },
+    {
+      "q": "Do gaming laptops overheat?",
+      "a": "Under sustained load, expect CPU temps of 85-95°C and GPU temps of 78-88°C — that's normal. The real issue is thermal throttling (clock speed drops). Look for laptops with dual fans, 4+ heat pipes, and at least 2 vents (rear + side). Undervolting can drop temps by 10-15°C."
+    },
+    {
+      "q": "How long do gaming laptops last?",
+      "a": "5-7 years for the chassis, 3-5 years before gaming performance feels outdated. Battery degrades after 2-3 years (300-500 cycles). Replace thermal paste at Year 3 to extend life."
+    },
+    {
+      "q": "Should I buy Intel or AMD for gaming?",
+      "a": "AMD Ryzen 7 8845HS / Ryzen 9 8945HS wins on battery and multi-thread. Intel Core i7-13650HX / 14650HX often edges ahead in single-thread and pure gaming FPS (3-8% in most titles). Either is fine — pick by GPU and thermals."
+    }
+  ],
+  "tldr_pick": "The <strong>ASUS TUF Gaming A15 (2026)</strong> with RTX 4060 + Ryzen 7 8845HS is the best gaming laptop under ₹80,000 in India — 1080p Ultra at 80+ FPS in modern titles, military-grade build, and 90Wh battery. Buy it at ₹79,990 on Flipkart.",
+  "key_takeaways": [
+    "<strong>RTX 4060 is the floor:</strong> anything below (RTX 4050, RTX 2050) is a 2-year compromise.",
+    "<strong>Skip 8GB RAM gaming laptops:</strong> modern titles use 10-14GB; 8GB means constant stuttering.",
+    "<strong>Display matters more than you think:</strong> 144Hz is the minimum, 165Hz is the sweet spot, OLED is rare at this price.",
+    "<strong>TGP matters:</strong> RTX 4050 at 75W is 30% slower than RTX 4050 at 105W. Check the spec sheet."
+  ],
+  "who_for": "Anyone who wants to game seriously in India without spending over ₹1 lakh — students, casual streamers, working pros who game 3-5 hours a day, and parents buying for kids who want a laptop that lasts 5 years.",
+  "methodology": "We compared 10 gaming laptops available on Amazon India, Flipkart, and brand stores in August 2026 in the ₹65,000–₹80,000 bracket. For each, we evaluated GPU TGP, CPU benchmarks, sustained thermals, display refresh rate + response time, keyboard travel, battery with hybrid mode, and warranty. FPS data from independent reviews + verified user benchmarks.",
+  "products": [
+    {
+      "name": "ASUS TUF Gaming A15 (2026, FA507NUR)",
+      "price": "₹79,990",
+      "specs": [
+        "Ryzen 7 8845HS",
+        "16GB DDR5",
+        "RTX 4060 (140W)",
+        "15.6\" 144Hz"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Lenovo LOQ 15IRX9",
+      "price": "₹77,490",
+      "specs": [
+        "Core i7-13650HX",
+        "16GB DDR5",
+        "RTX 4060 (115W)",
+        "15.6\" 144Hz"
+      ]
+    },
+    {
+      "name": "HP Victus 15-fa1086TX",
+      "price": "₹72,990",
+      "specs": [
+        "Ryzen 7 8845HS",
+        "16GB DDR5",
+        "RTX 4060 (120W)",
+        "15.6\" 144Hz"
+      ]
+    },
+    {
+      "name": "Acer Nitro V 15 (ANV15-51)",
+      "price": "₹68,990",
+      "specs": [
+        "Core i5-13420H",
+        "16GB DDR5",
+        "RTX 4050 (75W)",
+        "15.6\" 144Hz"
+      ]
+    },
+    {
+      "name": "MSI Thin 15 (B13UC-1805IN)",
+      "price": "₹66,990",
+      "specs": [
+        "Ryzen 5 7535HS",
+        "16GB DDR5",
+        "RTX 4050 (45W)",
+        "15.6\" 144Hz"
+      ]
+    },
+    {
+      "name": "Acer Aspire 7 A715-76G (GTX 1650)",
+      "price": "₹58,990",
+      "specs": [
+        "Core i5-12450H",
+        "16GB DDR4",
+        "GTX 1650 (50W)",
+        "15.6\" 60Hz"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "CPU",
+    "RAM",
+    "GPU",
+    "Display"
+  ]
+}

@@ -38,17 +38,20 @@
   {
     "slug": "best-headphones-under-3000-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-03T03:40:21.272090+00:00"
   },
   {
     "slug": "best-neckband-under-1500-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-03T03:40:21.272125+00:00"
   },
   {
     "slug": "best-laptop-under-30000-india",
     "category": "laptops",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-03T03:40:21.272139+00:00"
   },
   {
     "slug": "best-laptop-under-70000-india",
