@@ -56,17 +56,20 @@
   {
     "slug": "best-laptop-under-70000-india",
     "category": "laptops",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-04T03:35:43.364043+00:00"
   },
   {
     "slug": "best-gaming-laptop-under-80000-india",
     "category": "laptops",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-04T03:35:43.364073+00:00"
   },
   {
     "slug": "best-phone-under-10000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-04T03:35:43.364083+00:00"
   },
   {
     "slug": "best-phone-under-25000-india",

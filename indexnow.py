@@ -59,7 +59,7 @@ def submit_urls(urls, key):
     payload = {
         "host": "joshclaw-sys.github.io",
         "key": key,
-        "keyLocation": f"https://joshclaw-sys.github.io/{key}.txt",
+        "keyLocation": f"https://joshclaw-sys.github.io/indian-deals/{key}.txt",
         "urlList": urls,
     }
     data = json.dumps(payload).encode("utf-8")
