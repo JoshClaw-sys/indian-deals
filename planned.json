@@ -1,5 +1,20 @@
 [
   {
+    "slug": "best-laptop-under-70000-india",
+    "category": "laptops",
+    "status": "todo"
+  },
+  {
+    "slug": "best-gaming-laptop-under-80000-india",
+    "category": "laptops",
+    "status": "todo"
+  },
+  {
+    "slug": "best-phone-under-10000-india",
+    "category": "smartphones",
+    "status": "todo"
+  },
+  {
     "slug": "best-air-fryer-under-3000-india",
     "category": "air-fryers",
     "status": "done",
@@ -52,24 +67,6 @@
     "category": "laptops",
     "status": "done",
     "done_at": "2026-08-03T03:40:21.272139+00:00"
-  },
-  {
-    "slug": "best-laptop-under-70000-india",
-    "category": "laptops",
-    "status": "done",
-    "done_at": "2026-08-04T03:35:43.364043+00:00"
-  },
-  {
-    "slug": "best-gaming-laptop-under-80000-india",
-    "category": "laptops",
-    "status": "done",
-    "done_at": "2026-08-04T03:35:43.364073+00:00"
-  },
-  {
-    "slug": "best-phone-under-10000-india",
-    "category": "smartphones",
-    "status": "done",
-    "done_at": "2026-08-04T03:35:43.364083+00:00"
   },
   {
     "slug": "best-phone-under-25000-india",
