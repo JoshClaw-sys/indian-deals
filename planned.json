@@ -74,17 +74,20 @@
   {
     "slug": "best-phone-under-25000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-05T03:37:01.133690+00:00"
   },
   {
     "slug": "best-phone-under-35000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-05T03:37:01.133725+00:00"
   },
   {
     "slug": "best-single-door-fridge-under-20000-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-05T03:37:01.133738+00:00"
   },
   {
     "slug": "best-fridge-under-50000-india",
