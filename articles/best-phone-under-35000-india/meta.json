@@ -1,0 +1,163 @@
+{
+  "slug": "best-phone-under-35000-india",
+  "title": "Best Phone Under ₹35,000 in India (2026): Upper Mid-Range Phones Worth the Stretch",
+  "short_title": "Best Phone Under ₹35,000",
+  "description": "Find the best phone under ₹35,000 in India with real chipset, display, camera and battery comparisons, plus one popular model to avoid in 2026.",
+  "short_desc": "Five upper-mid-range phones that compete with last year's flagships.",
+  "keywords": [
+    "best phone under 35000 India",
+    "upper mid range phone India 2026",
+    "telephoto phone under 35000",
+    "best camera phone 35000",
+    "phone buying guide India"
+  ],
+  "category": "smartphones",
+  "tag": "Smartphones",
+  "price": "₹28,000–₹35,000",
+  "read_time": "14 min",
+  "date": "2026-08-05",
+  "modified": "2026-08-05",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a phone under ₹35,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Don't overbuy — the ₹25K-₹35K band is the sweet spot",
+    "sub": "Above ₹35,000 you pay for telephoto, wireless charging and IP68. Decide if those features actually matter before stretching.",
+    "link": "#",
+    "button": "Compare today's offers"
+  },
+  "faq": [
+    {
+      "q": "Is spending ₹35,000 on a phone better than ₹25,000?",
+      "a": "Mostly yes if you want a Snapdragon 8s Gen 3 or Dimensity 8300 chip, telephoto or high-end ultrawide camera, faster 100W+ charging, or an aluminium-frame build. If you only need solid daily use, the ₹25,000 list already covers it."
+    },
+    {
+      "q": "Should I wait for a phone under ₹35,000 with a telephoto lens?",
+      "a": "Realme GT 6T and OnePlus Nord 4 offer 2x telephoto or a 50MP main that crops to a clean 2x. True 3x optical zoom is rare until ₹45,000+. If telephoto is essential, wait for a sale or stretch the budget."
+    },
+    {
+      "q": "Are Snapdragon 8s Gen 3 phones reliable for long-term use?",
+      "a": "Yes. They are thermally efficient, support modern AI features, and 2-3 years of OS updates is standard. Real-world battery life and sustained performance are noticeably better than Snapdragon 7s Gen 2 in heavy use."
+    },
+    {
+      "q": "Is 100W+ charging safe for the battery?",
+      "a": "Modern phones with 100W+ charging have multiple temperature sensors and step-down profiles. Two-year battery health above 80% is realistic. The bigger risk is using a third-party cable that does not support the right PPS profile."
+    },
+    {
+      "q": "Does a phone under ₹35,000 need wireless charging?",
+      "a": "Not in India. Wireless charging pads are uncommon, and 80-100W wired charging fills the phone faster than any 15W Qi pad. Skip wireless charging if you would rather spend on chipset or camera."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Realme GT 6T (12/256GB)</strong>. The Snapdragon 8s Gen 3, 120Hz LTPO AMOLED, 5,500mAh battery and 120W SUPERVOOC charging make it the most balanced upper-mid-range phone in 2026.",
+  "key_takeaways": [
+    "Snapdragon 8s Gen 3 or Dimensity 8300 — anything less is wasted budget in this band.",
+    "LTPO 120Hz AMOLED is the new baseline — true 1Hz to 120Hz saves significant battery.",
+    "100W+ wired charging matters more than wireless at this price.",
+    "Look for telephoto or a 50MP main that crops cleanly to 2x — macro sensors are filler."
+  ],
+  "who_for": "Heavy users moving up from a budget phone, mobile photographers who want a real ultrawide or 2x telephoto, and gamers who want sustained high frame rates. Also suits buyers who keep phones for 3+ years and want a chipset that stays fast.",
+  "methodology": "We compared current 2026 upper-mid-range phones from OnePlus, Realme, iQOO, Nothing, Samsung, and Xiaomi. For each, we evaluated chipset, display, battery, charging, camera system, software support, and thermal performance. Picks were validated against manufacturer specs, professional reviews, and current sale pricing. Refreshed monthly.",
+  "products": [
+    {
+      "name": "1. Realme GT 6T (12/256GB)",
+      "price": "Usually ₹30,000–₹34,000",
+      "specs": [
+        "Snapdragon 8s Gen 3",
+        "6.78\" 1.5K LTPO 120Hz",
+        "5,500mAh + 120W",
+        "50MP Sony LYT-808 + 50MP 2x tele",
+        "Aluminium frame"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. OnePlus Nord 4 (12/256GB)",
+      "price": "Usually ₹29,000–₹33,000",
+      "specs": [
+        "Snapdragon 7+ Gen 3",
+        "6.74\" 120Hz AMOLED",
+        "5,500mAh + 100W",
+        "50MP Sony LYT-600 + 8MP UW",
+        "All-metal unibody"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. iQOO Neo 10 Pro (12/256GB)",
+      "price": "Usually ₹31,000–₹35,000",
+      "specs": [
+        "Dimensity 9300+",
+        "6.78\" 1.5K 144Hz LTPO",
+        "5,160mAh + 120W",
+        "50MP IMX921 + OIS",
+        "Gaming-focused cooling"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Nothing Phone (3a) Pro (12/256GB)",
+      "price": "Usually ₹28,000–₹32,000",
+      "specs": [
+        "Snapdragon 7s Gen 2",
+        "6.77\" 120Hz AMOLED",
+        "5,000mAh + 50W",
+        "50MP + 50MP 2x tele",
+        "Glyph Interface 3.0"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Samsung Galaxy A55 5G (8/128GB)",
+      "price": "Usually ₹28,000–₹32,000",
+      "specs": [
+        "Exynos 1480",
+        "6.6\" 120Hz Super AMOLED",
+        "5,000mAh + 25W",
+        "50MP main with OIS",
+        "4 yrs OS updates"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "“Flagship” phones on heavy discount at ₹35,000 with one year of updates left",
+      "price": "",
+      "specs": [
+        "Often Snapdragon 8 Gen 1",
+        "60Hz LTPS",
+        "Updates end soon",
+        "Heating issues",
+        "Slower than 8s Gen 3"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Chipset",
+    "Display",
+    "Battery + charging",
+    "Camera",
+    "Build / software"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "slug": "best-phone-under-25000-india",
+  "title": "Best Phone Under ₹25,000 in India (2026): Mid-Range Picks That Punch Above Their Price",
+  "short_title": "Best Phone Under ₹25,000",
+  "description": "Find the best phone under ₹25,000 in India with real chipset, display, camera and battery comparisons, practical trade-offs, and one popular model to avoid.",
+  "short_desc": "Five mid-range phones that genuinely compete with last year's flagships.",
+  "keywords": [
+    "best phone under 25000 India",
+    "mid range phone India 2026",
+    "AMOLED phone under 25000",
+    "best camera phone under 25000",
+    "phone buying guide India"
+  ],
+  "category": "smartphones",
+  "tag": "Smartphones",
+  "price": "₹19,000–₹25,000",
+  "read_time": "14 min",
+  "date": "2026-08-05",
+  "modified": "2026-08-05",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a phone under ₹25,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Compare offers before you commit",
+    "sub": "Listings in this band rotate weekly. Bank card cashback and exchange bonuses often decide the final price.",
+    "link": "#",
+    "button": "Check today's deals"
+  },
+  "faq": [
+    {
+      "q": "Is a phone under ₹25,000 good enough for gaming?",
+      "a": "Yes. Snapdragon 7s Gen 2, Dimensity 8200 and Dimensity 8300-class chipsets handle BGMI and Genshin at medium-to-high settings. Pair with a phone that has a 120Hz AMOLED and a vapour-chamber cooling system for sustained performance."
+    },
+    {
+      "q": "Should I get AMOLED or LCD in this range?",
+      "a": "AMOLED is the default at ₹25,000 now. You get true blacks, better outdoor visibility on 1,800+ nit panels, and lower battery drain when using dark mode. LCD only makes sense if you specifically want the cheapest possible phone."
+    },
+    {
+      "q": "How much RAM is enough?",
+      "a": "8GB is the practical minimum in 2026, 12GB is comfortable for heavy multitasking and on-device AI. Storage: 128GB is the floor, 256GB is worth the ₹1,500–₹2,000 premium if you shoot a lot of video."
+    },
+    {
+      "q": "Are mid-range phones good for photography?",
+      "a": "Mid-range phones with a 50MP Sony IMX890/IMX882 or Samsung GN8 main sensor and OIS take genuinely good daylight and low-light photos. Telephoto is rare; expect a competent 2MP macro that you will rarely use."
+    },
+    {
+      "q": "How long will software updates last?",
+      "a": "Samsung offers 4 years of OS + 5 years of security on Galaxy A and M series. OnePlus, Nothing, Motorola and Realme offer 2-3 years of OS updates. If long-term updates matter, Samsung and Pixel A-series are the safer picks."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>OnePlus Nord CE 4 Lite 5G (current 8/256GB variant)</strong>. You get a 120Hz AMOLED, 5,500mAh battery, 80W SUPERVOOC charging, and three years of OxygenOS updates. It is the easiest mid-range phone to live with for the next three years.",
+  "key_takeaways": [
+    "AMOLED 120Hz is the new default at ₹25,000 — never settle for LCD at this price.",
+    "Snapdragon 7-series or Dimensity 8200+ chipsets handle gaming and AI features without lag.",
+    "5,000mAh+ battery with 67W+ fast charging is the practical minimum for heavy users.",
+    "OIS on the main camera matters more than a high megapixel count in this range."
+  ],
+  "who_for": "Anyone upgrading from a budget phone under ₹15,000 or replacing a 3-year-old mid-ranger. This list suits people who use their phone heavily for photos, social media, light gaming, and want two-to-three years of updates.",
+  "methodology": "We compared current 2026 mid-range phones available on Amazon India, Flipkart and brand stores. For each, we evaluated chipset, display, battery, charging, camera, software support, and build. Picks were validated against manufacturer specs, BGR/91mobiles reviews, and current sale pricing. Refreshed monthly.",
+  "products": [
+    {
+      "name": "1. OnePlus Nord CE 4 Lite 5G (8/256GB)",
+      "price": "Usually ₹22,000–₹24,500",
+      "specs": [
+        "Snapdragon 695",
+        "6.67\" 120Hz AMOLED",
+        "5,500mAh + 80W",
+        "50MP + OIS",
+        "3 yrs OS updates"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "2. Realme P3 Pro 5G (8/256GB)",
+      "price": "Usually ₹21,000–₹24,000",
+      "specs": [
+        "Snapdragon 7s Gen 2",
+        "6.7\" 120Hz AMOLED",
+        "5,500mAh + 67W",
+        "50MP Sony IMX896 + OIS",
+        "IP69 rating"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "3. Motorola Edge 60 Fusion (8/256GB)",
+      "price": "Usually ₹22,000–₹25,000",
+      "specs": [
+        "Dimensity 7300",
+        "6.67\" 120Hz pOLED",
+        "5,200mAh + 68W",
+        "50MP + 13MP UW",
+        "Hello UI, near-stock"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "4. Samsung Galaxy M35 5G (8/128GB)",
+      "price": "Usually ₹19,500–₹22,000",
+      "specs": [
+        "Exynos 1380",
+        "6.6\" 120Hz sAMOLED",
+        "6,000mAh + 25W",
+        "50MP + OIS",
+        "4 yrs OS + 5 yrs sec"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "5. Nothing CMF Phone 1 (8/128GB)",
+      "price": "Usually ₹19,000–₹21,500",
+      "specs": [
+        "Dimensity 7300",
+        "6.67\" 120Hz AMOLED",
+        "5,000mAh + 33W",
+        "50MP + accessory point",
+        "Modular back case"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Unbranded “flagship-killer” listings at ₹22,000 with no service network",
+      "price": "",
+      "specs": [
+        "Often Helio G99",
+        "AMOLED 60-90Hz",
+        "Misleading specs",
+        "No authorised service",
+        "Drops support in 1 yr"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Chipset",
+    "Display",
+    "Battery + charging",
+    "Camera",
+    "Support"
+  ]
+}
