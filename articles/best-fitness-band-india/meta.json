@@ -1,0 +1,150 @@
+{
+  "slug": "best-fitness-band-india",
+  "title": "Best Fitness Band in India (2026): 5 Bands That Track Steps, Sleep and Heart Rate Right",
+  "short_title": "Best Fitness Band in India",
+  "description": "Compare the best fitness bands in India by sensor accuracy, battery, AMOLED display and app quality. Five picks under ₹5,000 plus one to skip.",
+  "short_desc": "Five fitness bands under ₹5,000 that track steps, sleep, and heart rate reliably — plus one to skip.",
+  "keywords": [
+    "best fitness band India 2026",
+    "budget fitness tracker India",
+    "Mi Band India",
+    "boAt fitness band",
+    "AMOLED fitness band"
+  ],
+  "category": "smartwatch",
+  "tag": "Smartwatches",
+  "price": "₹900–₹4,500",
+  "read_time": "10 min",
+  "date": "2026-08-07",
+  "modified": "2026-08-07",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a fitness band in 2026"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want more than a band?",
+    "sub": "Our ₹2,000–₹10,000 smartwatch guide covers AMOLED + GPS + always-on displays in the budget smartwatch band.",
+    "link": "#",
+    "button": "See the smartwatch guide"
+  },
+  "faq": [
+    {
+      "q": "Are fitness bands better than smartwatches for step tracking?",
+      "a": "Not really. Both use the same 3-axis accelerometer technology. The advantage of fitness bands is form factor (lighter, smaller, more comfortable for sleep tracking) and battery life (often 10–14 days vs 3–7 on a smartwatch). If you only care about steps, sleep, and heart rate, a band is the right tool."
+    },
+    {
+      "q": "Can a fitness band measure blood oxygen (SpO2)?",
+      "a": "Most bands under ₹3,000 advertise SpO2, but the sensor is small and the reading is best taken when you sit still and follow the on-screen instructions. Treat it as a spot check, not medical-grade. Bands like the Xiaomi Smart Band 8 and OnePlus Band 2 are reasonably consistent for trend tracking."
+    },
+    {
+      "q": "How accurate is the heart rate sensor on these bands?",
+      "a": "Good for trend tracking and steady-state exercise (walking, jogging), typically within 5–8 bpm of a chest strap. During high-intensity intervals or weight training, expect more variance. The Mi Band 8 and OnePlus Band 2 lead this category; the cheapest boAt / Noise bands are noticeably less accurate."
+    },
+    {
+      "q": "Do fitness bands work with iPhone?",
+      "a": "Yes. All five picks here work with both Android and iOS through the brand{APOS}s companion app (Mi Fitness, boAt Crest, Noise Health, OnePlus Buds app for the band). iPhone gets notifications and basic fitness tracking, but you may miss some advanced features like quick-replies on WhatsApp that are Android-only."
+    },
+    {
+      "q": "Should I worry about water resistance?",
+      "a": "5 ATM (50 m) is the practical minimum for swim tracking. The Xiaomi Smart Band 8 and OnePlus Band 2 carry 5 ATM ratings. Bands rated IP67/IP68 only are splash-safe, not swim-safe. None of these bands are rated for diving or high-velocity water sports."
+    }
+  ],
+  "tldr_pick": "The <strong>Xiaomi Smart Band 8</strong> is the best fitness band in India for most buyers — 1.62\" AMOLED at 192×490, accurate optical heart-rate + SpO2 sensors, 16-day battery, 5 ATM water resistance, and the cleanest app (Mi Fitness) on both Android and iOS, for around ₹3,000–₹3,500. For a tighter budget, the <strong>OnePlus Band 2</strong> at ₹2,500 gives you a bigger 1.74\" AMOLED with the same 5 ATM rating.",
+  "key_takeaways": [
+    "<strong>AMOLED is now standard</strong> across bands above ₹1,500 — the cheapest bands still use washed-out TFT.",
+    "<strong>5 ATM is the floor for swim tracking</strong> — Mi Band 8, OnePlus Band 2, and Redmi Smart Band 2 all qualify.",
+    "<strong>Heart-rate accuracy varies widely</strong>: Mi Band 8 and OnePlus Band 2 are within 5–8 bpm of a chest strap; sub-₹1,500 bands can swing 15+ bpm.",
+    "<strong>App quality matters as much as the band</strong> — Mi Fitness is the most polished; boAt Crest and Noise Health trail."
+  ],
+  "who_for": "Anyone who wants step tracking, sleep tracking, heart-rate monitoring, and a battery that lasts a week or more on a budget — without paying for a full smartwatch. Bands are especially well-suited to sleep tracking (lighter, more comfortable to wear at night) and to first-time fitness tracker buyers.",
+  "methodology": "We evaluated 7 popular fitness bands available on Amazon India and Flipkart — across Xiaomi, OnePlus, Redmi, boAt, and Noise. For each we compared display type and resolution, sensor accuracy (heart rate, SpO2), water resistance rating, battery life, app quality, and reported reliability from user reviews. Picks were validated against August 2026 sale pricing. We did not perform first-hand testing — recommendations are based on spec comparison, user-reported reliability, and value-for-money analysis.",
+  "products": [
+    {
+      "name": "Xiaomi Smart Band 8",
+      "price": "₹2,800–₹3,800",
+      "specs": [
+        "1.62\" AMOLED",
+        "HR + SpO2",
+        "5 ATM",
+        "16 days"
+      ],
+      "winner": true
+    },
+    {
+      "name": "OnePlus Band 2",
+      "price": "₹2,200–₹2,800",
+      "specs": [
+        "1.74\" AMOLED",
+        "HR + SpO2",
+        "5 ATM",
+        "14 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Redmi Smart Band 2",
+      "price": "₹1,500–₹2,000",
+      "specs": [
+        "1.47\" AMOLED",
+        "HR + SpO2",
+        "5 ATM",
+        "14 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "boAt Wave Sigma",
+      "price": "₹1,200–₹1,500",
+      "specs": [
+        "1.96\" AMOLED",
+        "HR + SpO2",
+        "IP68",
+        "7 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Noise ColorFit Pulse 2",
+      "price": "₹900–₹1,400",
+      "specs": [
+        "1.85\" AMOLED",
+        "HR + SpO2",
+        "IP68",
+        "7 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Sub-₹700 unbranded bands",
+      "price": "₹500–₹700",
+      "specs": [
+        "TFT",
+        "Unreliable",
+        "Unrated",
+        "1–2 days"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Display",
+    "Sensors",
+    "Water",
+    "Battery"
+  ]
+}

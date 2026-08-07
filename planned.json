@@ -109,12 +109,14 @@
   {
     "slug": "best-smartwatch-under-2000-india",
     "category": "smartwatch",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-07T03:41:19.985655+00:00"
   },
   {
     "slug": "best-smartwatch-under-10000-india",
     "category": "smartwatch",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-07T03:41:19.985690+00:00"
   },
   {
     "slug": "best-fitness-band-india",
