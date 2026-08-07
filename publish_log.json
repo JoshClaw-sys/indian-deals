@@ -541,5 +541,27 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-08-07T03:43:40.758670+00:00"
     }
+  },
+  "best-fitness-band-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-07T03:45:10.823903+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-07T03:45:45.824210+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-07T03:45:45.824298+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-07T03:45:45.824356+00:00"
+    }
   }
 }
