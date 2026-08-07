@@ -92,12 +92,14 @@
   {
     "slug": "best-fridge-under-50000-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-06T03:37:30.706634+00:00"
   },
   {
     "slug": "best-semi-automatic-washing-machine-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-06T03:37:30.706669+00:00"
   },
   {
     "slug": "best-washer-dryer-india",

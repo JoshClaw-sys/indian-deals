@@ -453,5 +453,49 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-08-05T03:41:07.029013+00:00"
     }
+  },
+  "best-fridge-under-50000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-06T03:37:31.483013+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-06T03:38:06.483374+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-06T03:38:06.483465+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-06T03:38:06.483523+00:00"
+    }
+  },
+  "best-semi-automatic-washing-machine-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-06T03:39:16.497217+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-06T03:39:51.497477+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-06T03:39:51.497566+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-06T03:39:51.497623+00:00"
+    }
   }
 }

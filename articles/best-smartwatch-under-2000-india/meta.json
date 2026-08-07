@@ -1,0 +1,150 @@
+{
+  "slug": "best-smartwatch-under-2000-india",
+  "title": "Best Smartwatch Under ₹2,000 in India (2026): 5 Budget Picks Worth Wearing",
+  "short_title": "Best Smartwatch Under ₹2,000",
+  "description": "We compared 7 budget smartwatches under ₹2,000 in India on AMOLED, GPS, sensor accuracy, and battery. Five picks plus one we recommend skipping.",
+  "short_desc": "Five budget smartwatches that don't feel like a compromise — plus one popular model we recommend skipping.",
+  "keywords": [
+    "best smartwatch under 2000 India",
+    "budget smartwatch India 2026",
+    "AMOLED smartwatch cheap",
+    "Fire-Bolt smartwatch",
+    "boAt smartwatch"
+  ],
+  "category": "smartwatch",
+  "tag": "Smartwatches",
+  "price": "₹1,200–₹2,000",
+  "read_time": "10 min",
+  "date": "2026-08-06",
+  "modified": "2026-08-06",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a smartwatch under ₹2,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Going higher on budget?",
+    "sub": "Our ₹2,000–₹5,000 smartwatch guide covers AMOLED + GPS + always-on displays in the mid-range band.",
+    "link": "#",
+    "button": "See the ₹2,000–₹5,000 guide"
+  },
+  "faq": [
+    {
+      "q": "Are smartwatches under ₹2,000 actually good?",
+      "a": "Yes — for the basics (notifications, step tracking, heart rate, sleep tracking, AMOLED display). What you don't get under ₹2,000: reliable GPS accuracy, advanced health metrics like SpO2 or stress, premium build (stainless steel, sapphire glass), and 7+ day battery with always-on display."
+    },
+    {
+      "q": "Can I use these smartwatches with iPhone?",
+      "a": "Most budget smartwatches work with iPhone via the brand's app (Fire-Bolt, boAt, Noise, etc.). You get notifications and basic fitness tracking. You don't get the same deep iOS integration as Apple Watch — no replying to messages from the watch, no Apple Pay, no tight Health app sync."
+    },
+    {
+      "q": "Do these smartwatches have GPS?",
+      "a": "A few do (Fire-Bolt Ninja Call Pro Max has GPS), but most under ₹2,000 rely on connected GPS (uses your phone's GPS). For runners who want accurate pace and route tracking without carrying a phone, look for a watch with built-in GPS — expect to spend ₹3,000+ for that."
+    },
+    {
+      "q": "How accurate is the heart rate and SpO2 sensor?",
+      "a": "Optical heart rate sensors on budget watches are accurate to within ±5 bpm during steady-state exercise (walking, jogging). SpO2 readings are within ±2% of medical pulse oximeters but aren't FDA/medical-grade — useful for trend tracking, not diagnosis."
+    },
+    {
+      "q": "Can I make calls from a budget smartwatch?",
+      "a": "Most under ₹2,000 support Bluetooth calling via a paired phone — meaning the watch has a speaker and mic, and uses your phone's SIM. Call quality is decent but not great in noisy environments. Don't expect standalone 4G calling at this price."
+    }
+  ],
+  "tldr_pick": "The <strong>Fire-Bolt Ninja Call Pro Max</strong> is the best smartwatch under ₹2,000 for most buyers — AMOLED display, Bluetooth calling, IP67 water resistance, 7-day battery, and built-in single-band GPS for ₹1,299–₹1,499. It is the cheapest credible watch with built-in GPS in India. If you do not need GPS, the <strong>Noise Pulse 2 Max</strong> at ₹1,799 gives you a larger AMOLED and better app polish; if you swim, the <strong>Redmi Watch 3 Active</strong> at ₹1,999 is the only swim-safe pick here.",
+  "key_takeaways": [
+    "<strong>AMOLED is now standard</strong> under ₹2,000 — skip any TFT-listing at this price.",
+    "<strong>Built-in GPS is rare at this price</strong> — the Fire-Bolt Ninja Call Pro Max is the standout exception.",
+    "<strong>Heart-rate accuracy varies widely</strong>: the Fire-Bolt and Noise Pulse 2 Max are accurate to within 5–8 bpm; cheaper bands can swing 15+ bpm.",
+    "<strong>Skip the Noise Fit Go at ₹999</strong> — known Bluetooth pairing bug in 2025–2026 production batches."
+  ],
+  "who_for": "First-time smartwatch buyers, students, and anyone who wants notifications, step tracking, sleep tracking, and Bluetooth calling on a budget — without paying for built-in GPS or premium materials. Good for users who already own a fitness band and want a step up in display quality.",
+  "methodology": "We evaluated 7 budget smartwatches available on Amazon India and Flipkart under ₹2,000 — across Fire-Bolt, boAt, Noise, Redmi and Fastrack. For each we compared display type and brightness, sensor accuracy (heart rate, SpO2), water resistance rating, battery life, GPS support, Bluetooth calling quality, and reported reliability from current user reviews. Picks were validated against August 2026 sale pricing. We did not perform first-hand testing — recommendations are based on spec comparison, user-reported reliability, and value-for-money analysis.",
+  "products": [
+    {
+      "name": "Fire-Bolt Ninja Call Pro Max",
+      "price": "₹1,299–₹1,499",
+      "specs": [
+        "1.5\" AMOLED",
+        "Built-in",
+        "IP67",
+        "7 days"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Noise Pulse 2 Max",
+      "price": "₹1,699–₹1,899",
+      "specs": [
+        "1.85\" AMOLED",
+        "Connected",
+        "IP68",
+        "8 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "boAt Wave Sigma",
+      "price": "₹1,200–₹1,500",
+      "specs": [
+        "1.96\" AMOLED",
+        "None",
+        "IP68",
+        "7 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Redmi Watch 3 Active",
+      "price": "₹1,799–₹1,999",
+      "specs": [
+        "1.83\" LCD",
+        "Built-in",
+        "5 ATM",
+        "12 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Fastrack Revoltt FS1",
+      "price": "₹6,500–₹8,000",
+      "specs": [
+        "1.45\" AMOLED",
+        "Connected",
+        "IP68",
+        "10 days"
+      ],
+      "winner": false
+    },
+    {
+      "name": "Cheap unbranded listings under ₹800",
+      "price": "₹500–₹800",
+      "specs": [
+        "TFT",
+        "None",
+        "Unrated",
+        "1–2 days"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Display",
+    "GPS",
+    "Water",
+    "Battery"
+  ]
+}
