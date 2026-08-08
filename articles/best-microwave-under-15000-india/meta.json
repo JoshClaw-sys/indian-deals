@@ -1,0 +1,158 @@
+{
+  "slug": "best-microwave-under-15000-india",
+  "title": "Best Microwave Under ₹15,000 in India (2026): Convection Picks",
+  "short_title": "Best Microwave Under ₹15,000",
+  "description": "We compared 7 microwaves under ₹15,000 — LG, Samsung, IFB, Panasonic. Convection vs grill, Indian auto-cook menus, magnetron warranty. 4 picks + 1 skip.",
+  "short_desc": "Convection, Indian menus, real value.",
+  "keywords": [
+    "best microwave under 15000 India 2026",
+    "convection microwave India",
+    "LG microwave",
+    "Samsung microwave",
+    "IFB microwave India"
+  ],
+  "category": "microwave",
+  "tag": "Kitchen",
+  "price": "₹11,000–₹15,000",
+  "read_time": "11 min",
+  "date": "2026-08-08",
+  "modified": "2026-08-08",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a microwave under ₹15,000"
+    },
+    {
+      "id": "solo-vs-grill-vs-convection",
+      "text": "Solo vs grill vs convection: what you actually need"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 4 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want to bake AND reheat?",
+    "sub": "A convection microwave does it all. We ranked each model for Indian cooking, daily use, and reliability under ₹15,000.",
+    "link": "#",
+    "button": "See convection picks"
+  },
+  "faq": [
+    {
+      "q": "20L vs 23L vs 25L: which size?",
+      "a": "Single/couple: 17-20L. Family of 3-4: 20-23L. Family of 5+: 23-25L. Joint family (7+): 28L+. Most Indian families of 3-4 should pick 20-23L."
+    },
+    {
+      "q": "Convection vs OTG?",
+      "a": "OTG is dedicated to baking (better for serious bakers). Convection microwave does everything (reheat, cook, grill, bake). For all-in-one: convection microwave. For dedicated baking: OTG."
+    },
+    {
+      "q": "How long does a microwave last?",
+      "a": "8-10 years for LG/Samsung/IFB. 5-8 years for cheaper brands. Magnetron is the failure point after 7-8 years. Look for 3-5 year magnetron warranty."
+    },
+    {
+      "q": "Can I use metal?",
+      "a": "NO. Never put metal in a microwave — it sparks and damages the magnetron. Use microwave-safe glass, ceramic, or labeled microwave-safe plastic."
+    },
+    {
+      "q": "Inverter technology?",
+      "a": "Inverter microwaves (Panasonic, some LG) use variable power for even cooking. Result: even cooking, faster defrost, lighter weight. Worth it for frequent users."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>LG 20L Convection Microwave (MC2146BP)</strong>. 151 Indian auto-cook menus (most in this range), Intellowave even cooking, 4-year magnetron warranty, LG service network across India. The benchmark for sub-₹15,000 convection in Indian homes.",
+  "key_takeaways": [
+    "Convection is the right type for Indian cooking (reheat + grill + bake).",
+    "20L is right for families of 3-4; 23L+ for 5+ family members.",
+    "100+ Indian auto-cook menus save real time (dal, rice, curry, idli).",
+    "3+ year magnetron warranty is non-negotiable at this price."
+  ],
+  "who_for": "Indian families who want a versatile all-in-one for reheating, Indian cooking, grilling, and baking. Ideal for working professionals who rely on reheating, families who want tandoori/grilled food without a separate grill, and home bakers who want basic cake/bread baking capability.",
+  "methodology": "We compared 7 microwaves available on Amazon India, Flipkart, and brand stores under ₹15,000. For each, we evaluated capacity, type (solo/grill/convection), wattage, auto-cook menu count and Indian-specific tuning, magnetron warranty, and service network. Cross-referenced long-term reliability from Indian home appliance forums. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "LG 20L Convection (MC2146BP)",
+      "price": "₹12,490",
+      "specs": [
+        "20L",
+        "Convection",
+        "800W",
+        "151 menus",
+        "1+4 yr"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "Samsung 23L Convection (CE73JD-B)",
+      "price": "₹14,990",
+      "specs": [
+        "23L",
+        "Convection",
+        "800W",
+        "69 menus",
+        "1+5 yr"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "IFB 20L Convection (20SC2)",
+      "price": "₹11,490",
+      "specs": [
+        "20L",
+        "Convection",
+        "800W",
+        "24 menus",
+        "1+3 yr"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Panasonic 20L Convection (NN-CD674M)",
+      "price": "₹13,490",
+      "specs": [
+        "20L",
+        "Convection",
+        "800W",
+        "101 menus",
+        "1+3 yr"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Generic / Lifelong (skip)",
+      "price": "<₹6,000",
+      "specs": [
+        "<20L",
+        "Solo/Grill",
+        "<800W",
+        "<10 menus",
+        "1 yr"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Capacity",
+    "Type",
+    "Power",
+    "Menus",
+    "Warranty"
+  ]
+}

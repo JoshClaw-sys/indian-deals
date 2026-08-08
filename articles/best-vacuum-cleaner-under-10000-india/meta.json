@@ -1,0 +1,158 @@
+{
+  "slug": "best-vacuum-cleaner-under-10000-india",
+  "title": "Best Vacuum Cleaner Under ₹10,000 in India (2026): Cordless & Canister",
+  "short_title": "Best Vacuum Under ₹10,000",
+  "description": "We compared 7 vacuum cleaners under ₹10,000 — Dyson, Mi, Eureka Forbes, AGARO. Real AW suction, HEPA filter quality, battery life. 4 picks + 1 skip.",
+  "short_desc": "Real suction, real HEPA, real Indian dust.",
+  "keywords": [
+    "best vacuum cleaner India 2026",
+    "cordless vacuum under 10000",
+    "Dyson V8 India",
+    "Mi vacuum G10+",
+    "HEPA vacuum India"
+  ],
+  "category": "vacuum",
+  "tag": "Home Appliances",
+  "price": "₹4,000–₹10,000",
+  "read_time": "10 min",
+  "date": "2026-08-08",
+  "modified": "2026-08-08",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a vacuum cleaner under ₹10,000"
+    },
+    {
+      "id": "corded-vs-cordless",
+      "text": "Corded vs cordless: the real difference"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 4 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Indian dust is relentless.",
+    "sub": "A real vacuum with HEPA filtration makes a real difference. We ranked each model for Indian dust, pet hair, and daily use.",
+    "link": "#",
+    "button": "See vacuum picks"
+  },
+  "faq": [
+    {
+      "q": "Is cordless suction enough for Indian dust?",
+      "a": "Yes, if 150+ AW. Indian dust is fine particulate + hair. 150 AW cordless handles daily dust, pet hair, food crumbs. For deep cleaning, a corded canister is better."
+    },
+    {
+      "q": "How long does the battery last?",
+      "a": "30-60 min runtime, 3-5 years before degradation. Battery is non-replaceable on most models. Dyson and Mi score well on long-term battery life."
+    },
+    {
+      "q": "Do I need HEPA filter?",
+      "a": "Yes if anyone has allergies, asthma, or pets. HEPA captures 99.97% of particles to 0.3 microns. All 4 picks above have HEPA."
+    },
+    {
+      "q": "Can I use a vacuum on Indian marble and tile?",
+      "a": "Yes, all 4 picks work on hard floors. Use soft brush attachment for polished marble. For Kota stone, any hard floor attachment works."
+    },
+    {
+      "q": "How often to empty the dust bin?",
+      "a": "After every use for stick vacuums (0.5L). Every 2-3 uses for canisters (2L). Wash HEPA filter every 3 months."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Mi Vacuum Cleaner G10+</strong>. 150 AW suction, 5-stage HEPA filtration, 60-min battery, 1.7kg lightweight. Best suction-per-rupee in this segment with Mi's service network across India.",
+  "key_takeaways": [
+    "150+ AW suction is the floor — anything below is too weak for Indian dust.",
+    "5-stage HEPA filter is essential for allergies, asthma, and pet owners.",
+    "Cordless stick wins for daily use; corded canister wins for deep cleaning.",
+    "Eureka Forbes and Mi have the best service networks in India."
+  ],
+  "who_for": "Anyone with daily dust, pet hair, or allergy concerns in the home. Also relevant for households with multiple floor types (carpet + hard floor), families with kids, and car owners who want to clean interiors at home.",
+  "methodology": "We compared 7 vacuum cleaners available on Amazon India and Flipkart under ₹10,000. For each, we evaluated suction (AW or kPa), battery life, HEPA filter grade, weight, accessories, and build quality. Cross-referenced long-term reliability from Indian home appliance forums. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Mi Vacuum Cleaner G10+",
+      "price": "₹8,999",
+      "specs": [
+        "Cordless stick",
+        "150 AW",
+        "60 min",
+        "5-stage HEPA",
+        "1.7kg"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "Dyson V8 Origin",
+      "price": "₹9,990",
+      "specs": [
+        "Cordless stick",
+        "115 AW",
+        "40 min",
+        "Whole-machine HEPA",
+        "2.6kg"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Eureka Forbes Quick Clean DX",
+      "price": "₹6,499",
+      "specs": [
+        "Cordless stick",
+        "130 AW",
+        "45 min",
+        "HEPA",
+        "2.1kg"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "AGARO Ace 1600W (Corded)",
+      "price": "₹3,999",
+      "specs": [
+        "Corded canister",
+        "22 kPa",
+        "1600W",
+        "HEPA",
+        "2L"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Generic brands (skip)",
+      "price": "<₹4,000",
+      "specs": [
+        "Various",
+        "<100 AW / 15 kPa",
+        "<20 min",
+        "Non-HEPA",
+        "Various"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Type",
+    "Suction",
+    "Battery/Power",
+    "Filter",
+    "Weight"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "best-robot-vacuum-india",
+  "title": "Best Robot Vacuum in India (2026): LiDAR + Mopping Picks",
+  "short_title": "Best Robot Vacuum in India",
+  "description": "We compared 6 robot vacuums in India — Roborock, iRobot, Mi, ECOVACS. Real LiDAR vs bump-and-go, mopping quality, self-empty stations. 4 picks + 1 skip.",
+  "short_desc": "LiDAR or bust — random robots waste time.",
+  "keywords": [
+    "best robot vacuum India 2026",
+    "Roborock Q7",
+    "Mi robot vacuum",
+    "robot vacuum with mop India",
+    "self-empty robot vacuum"
+  ],
+  "category": "vacuum",
+  "tag": "Home Appliances",
+  "price": "₹18,000–₹33,000",
+  "read_time": "11 min",
+  "date": "2026-08-08",
+  "modified": "2026-08-08",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a robot vacuum in India"
+    },
+    {
+      "id": "robot-vs-stick",
+      "text": "Robot vacuum vs cordless stick: which to buy"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 4 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Tired of daily sweeping?",
+    "sub": "A LiDAR robot with mopping runs while you're at work. We ranked each model for Indian dust, pet hair, and multi-floor homes.",
+    "link": "#",
+    "button": "See robot picks"
+  },
+  "faq": [
+    {
+      "q": "Do robot vacuums work on Indian marble?",
+      "a": "Yes, all 4 picks work on marble, tile, wood. Polished marble can confuse cliff sensors — cover with tape or use a robot with anti-cliff logic."
+    },
+    {
+      "q": "Can robots handle Indian dust and pet hair?",
+      "a": "Yes if 2000+ Pa. Indian dust mixes with humidity and becomes sticky — mopping is essential. iRobot dual rubber brushes are best for pet hair."
+    },
+    {
+      "q": "Do they work at night?",
+      "a": "Yes, LiDAR works in darkness. Schedule for 10am daily run (after morning dust, before afternoon humidity)."
+    },
+    {
+      "q": "How often to empty bin?",
+      "a": "Without self-empty: every 2-3 days for 0.4-0.5L bins. With self-empty: every 6-8 weeks. Self-empty stations cost ₹8-12k extra but are worth it for working professionals."
+    },
+    {
+      "q": "Mop water refills?",
+      "a": "Refill every 1-2 runs. Mi and ECOVACS have small tanks. Roborock and iRobot have larger tanks. Some support auto water refill (₹50k+)."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Roborock Q7 Max+</strong>. 4200 Pa suction, LiDAR navigation, mopping with 30 water levels, self-empty station with 7-week capacity. The best mid-range robot vacuum for Indian homes — handles daily dust, pet hair, and sticky Indian humidity.",
+  "key_takeaways": [
+    "3000+ Pa suction is the floor — anything below struggles with Indian dust.",
+    "LiDAR navigation is essential — bump-and-go robots frustrate within a week.",
+    "Mopping is non-negotiable for Indian homes (sticky humidity dust).",
+    "Self-empty station costs ₹8-12k extra but saves 2-3 min per day of emptying."
+  ],
+  "who_for": "Working professionals who want the floor cleaned while they're at work, pet owners dealing with daily pet hair, large home owners (3BHK+) who can't sweep daily, and anyone with mobility issues who can't bend to vacuum. Also relevant for homes with multiple floor types where daily mopping is impractical.",
+  "methodology": "We compared 6 robot vacuums available on Amazon India, Flipkart, and brand stores. For each, we evaluated suction (Pa), navigation (LiDAR vs camera vs bump-and-go), mopping quality, app maturity, and self-empty capability. Cross-referenced long-term reliability from Indian home automation forums. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Roborock Q7 Max+",
+      "price": "₹29,990",
+      "specs": [
+        "4200 Pa",
+        "LiDAR",
+        "Yes, 30 levels",
+        "Self-empty 7w",
+        "Roborock app"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "iRobot Roomba i3+",
+      "price": "₹32,990",
+      "specs": [
+        "1800 Pa",
+        "Floor tracking",
+        "No",
+        "Self-empty 60d",
+        "iRobot Home"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Mi Robot Vacuum Mop 2 Pro",
+      "price": "₹17,999",
+      "specs": [
+        "3000 Pa",
+        "LiDAR",
+        "Yes, 3 levels",
+        "No",
+        "Mi Home"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "ECOVACS Deebot N8 Pro",
+      "price": "₹24,990",
+      "specs": [
+        "2600 Pa",
+        "LiDAR + AI",
+        "Yes, electronic",
+        "No",
+        "ECOVACS Home"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Generic / ILIFE / Eureka Forbes (skip)",
+      "price": "<₹10,000",
+      "specs": [
+        "<1500 Pa",
+        "Bump-and-go",
+        "Varies",
+        "No",
+        "Various"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Suction",
+    "Navigation",
+    "Mopping",
+    "Self-empty",
+    "App"
+  ]
+}

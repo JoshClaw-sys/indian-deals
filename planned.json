@@ -104,7 +104,8 @@
   {
     "slug": "best-washer-dryer-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:34:54.387692+00:00"
   },
   {
     "slug": "best-smartwatch-under-2000-india",
@@ -127,12 +128,14 @@
   {
     "slug": "best-soundbar-under-5000-india",
     "category": "soundbar",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:34:54.387728+00:00"
   },
   {
     "slug": "best-soundbar-under-20000-india",
     "category": "soundbar",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:34:54.387741+00:00"
   },
   {
     "slug": "best-vacuum-cleaner-under-10000-india",
