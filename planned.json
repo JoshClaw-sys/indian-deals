@@ -140,17 +140,20 @@
   {
     "slug": "best-vacuum-cleaner-under-10000-india",
     "category": "vacuum",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:39:48.952447+00:00"
   },
   {
     "slug": "best-robot-vacuum-india",
     "category": "vacuum",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:39:48.952478+00:00"
   },
   {
     "slug": "best-microwave-under-15000-india",
     "category": "microwave",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-08T03:39:48.952488+00:00"
   },
   {
     "slug": "best-convection-microwave-india",

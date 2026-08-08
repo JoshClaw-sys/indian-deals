@@ -585,5 +585,74 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-08-08T03:35:29.942989+00:00"
     }
+  },
+  "best-vacuum-cleaner-under-10000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-08T03:39:49.455253+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-08T03:40:24.455580+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-08T03:40:24.455679+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-vacuum-cleaner-under-10000-in-india-2026-cordless-canister-ll7",
+      "id": 4345703,
+      "timestamp": "2026-08-08T03:40:26.088429+00:00"
+    }
+  },
+  "best-robot-vacuum-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-08T03:41:36.104271+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-08T03:42:11.104614+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-08T03:42:11.104742+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-robot-vacuum-in-india-2026-lidar-mopping-picks-39hj",
+      "id": 4345707,
+      "timestamp": "2026-08-08T03:42:12.381491+00:00"
+    }
+  },
+  "best-microwave-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-08T03:43:22.397149+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-08T03:43:57.397452+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-08T03:43:57.397544+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-microwave-under-15000-in-india-2026-convection-picks-h9p",
+      "id": 4345708,
+      "timestamp": "2026-08-08T03:43:58.866878+00:00"
+    }
   }
 }
