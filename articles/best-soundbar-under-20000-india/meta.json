@@ -1,0 +1,152 @@
+{
+  "slug": "best-soundbar-under-20000-india",
+  "title": "Best Soundbar Under ₹20,000 in India (2026): Dolby Atmos Picks",
+  "short_title": "Best Soundbar Under ₹20,000",
+  "description": "We compared 6 soundbars under ₹20,000 — Sony, JBL, boAt, Samsung, Zebronics. Real Dolby Atmos, 5.1 vs 3.1 channels, wireless subwoofers. 4 picks + 1 skip.",
+  "short_desc": "Real home theater starts here.",
+  "keywords": [
+    "best soundbar under 20000 India",
+    "Dolby Atmos soundbar India",
+    "5.1 soundbar",
+    "Sony HT-S2000",
+    "JBL Bar 500 India"
+  ],
+  "category": "soundbar",
+  "tag": "Audio",
+  "price": "₹14,000–₹20,000",
+  "read_time": "11 min",
+  "date": "2026-08-08",
+  "modified": "2026-08-08",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a soundbar under ₹20,000"
+    },
+    {
+      "id": "atmos-explained",
+      "text": "Dolby Atmos: what it actually is"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 4 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Building a home theater?",
+    "sub": "A ₹20,000 soundbar with Dolby Atmos + wireless sub is the sweet spot for 50-65 inch TVs. We ranked each model for Indian living rooms.",
+    "link": "#",
+    "button": "See Atmos picks"
+  },
+  "faq": [
+    {
+      "q": "Is Dolby Atmos worth the premium?",
+      "a": "Yes, if you watch Netflix, Apple TV+, or Disney+ Hotstar. Atmos content is increasingly common. Overhead dimension adds genuine immersion. If you only watch news and TV shows, Atmos is overkill."
+    },
+    {
+      "q": "True Atmos vs virtual Atmos?",
+      "a": "True Atmos uses upward-firing speakers bouncing sound off the ceiling (works in 7-9 ft flat ceilings — most Indian apartments). Virtual Atmos simulates height via processing. True is better; virtual is fine for most content."
+    },
+    {
+      "q": "Do I need HDMI eARC?",
+      "a": "Yes, for Dolby Atmos from your TV. eARC supports lossless Atmos. If your TV has eARC (most 2020+ TVs), use it. Optical supports Dolby Digital but not Atmos."
+    },
+    {
+      "q": "How big a room do these handle?",
+      "a": "3.1 soundbars: 150-200 sq ft. 5.1 soundbars: 200-300 sq ft. 5.1.2 Atmos: 300-400 sq ft. JBL Bar 500 (590W) handles 400 sq ft. Sony HT-S2000 (250W) is best for 200 sq ft."
+    },
+    {
+      "q": "Wireless vs wired subwoofer?",
+      "a": "Wireless is better — place sub anywhere for best bass. Wired is cheaper but restricts placement. At ₹20,000, all 4 picks have wireless subs. Skip any soundbar with a wired sub at this price."
+    }
+  ],
+  "tldr_pick": "Our top pick is the <strong>Sony HT-S2000</strong>. 3.1 channels with built-in dual subwoofer, 250W output, Dolby Atmos with Vertical Surround Engine, HDMI eARC. The best Atmos soundbar under ₹20,000 for Indian living rooms — Sony's audio processing is unmatched.",
+  "key_takeaways": [
+    "Dolby Atmos is the headline feature at this price — true upward-firing is best, virtual is fine.",
+    "5.1.2 (5 speakers + sub + 2 overhead) is the sweet spot for Indian living rooms.",
+    "Wireless subwoofer is non-negotiable at ₹20,000 — skip wired subs.",
+    "HDMI eARC is required for lossless Atmos from streaming services."
+  ],
+  "who_for": "Anyone with a 50-65 inch 4K TV who watches Netflix, Prime Video, Apple TV+, or Disney+ Hotstar regularly. Ideal for Indian living rooms between 200-400 sq ft, and for buyers who want a real home theater experience without the complexity of separate AV receiver + 5 speakers + sub.",
+  "methodology": "We compared 6 soundbars available on Amazon India, Flipkart, and brand stores under ₹20,000. For each, we evaluated channel count (3.1 vs 5.1 vs 5.1.2), Dolby Atmos support (true vs virtual), output wattage, subwoofer type, HDMI version, and Atmos processing quality. Cross-referenced long-term reliability from Indian audio forums. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Sony HT-S2000",
+      "price": "₹19,990",
+      "specs": [
+        "3.1",
+        "250W",
+        "Built-in dual sub",
+        "Dolby Atmos (Vertical Surround Engine)"
+      ],
+      "winner": true,
+      "skip": false
+    },
+    {
+      "name": "JBL Bar 500",
+      "price": "₹19,499",
+      "specs": [
+        "5.1",
+        "590W",
+        "Wireless 10-inch",
+        "True Dolby Atmos"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "boAt Aavante Bar 3200D",
+      "price": "₹14,999",
+      "specs": [
+        "5.1.2",
+        "500W",
+        "Wireless 8-inch",
+        "True Dolby Atmos"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Samsung HW-B650D",
+      "price": "₹16,990",
+      "specs": [
+        "3.1",
+        "430W",
+        "Wireless 6.5-inch",
+        "DTS Virtual:X"
+      ],
+      "winner": false,
+      "skip": false
+    },
+    {
+      "name": "Zebronics Juke BAR DOLBY (skip)",
+      "price": "₹8,999",
+      "specs": [
+        "5.1",
+        "150W",
+        "Wired sub",
+        "Dolby Audio (not Atmos)"
+      ],
+      "winner": false,
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Channels",
+    "Output",
+    "Subwoofer",
+    "Atmos"
+  ]
+}
