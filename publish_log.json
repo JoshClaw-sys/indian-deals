@@ -654,5 +654,71 @@
       "id": 4345708,
       "timestamp": "2026-08-08T03:43:58.866878+00:00"
     }
+  },
+  "best-convection-microwave-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-09T03:36:42.865618+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-09T03:37:17.865926+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-09T03:37:17.866014+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-09T03:37:17.866074+00:00"
+    }
+  },
+  "best-geyser-under-10000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-09T03:38:27.882603+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-09T03:39:02.882900+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-09T03:39:02.882986+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-09T03:39:02.883044+00:00"
+    }
+  },
+  "best-instant-geyser-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-09T03:40:12.898694+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-09T03:40:47.899008+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-09T03:40:47.899087+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-09T03:40:47.899145+00:00"
+    }
   }
 }

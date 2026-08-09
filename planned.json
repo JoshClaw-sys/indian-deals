@@ -158,17 +158,20 @@
   {
     "slug": "best-convection-microwave-india",
     "category": "microwave",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-09T03:36:41.947104+00:00"
   },
   {
     "slug": "best-geyser-under-10000-india",
     "category": "geyser",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-09T03:36:41.947133+00:00"
   },
   {
     "slug": "best-instant-geyser-india",
     "category": "geyser",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-09T03:36:41.947144+00:00"
   },
   {
     "slug": "best-trimmer-under-2000-india",
