@@ -176,17 +176,20 @@
   {
     "slug": "best-trimmer-under-2000-india",
     "category": "trimmer",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-10T03:44:54.700283+00:00"
   },
   {
     "slug": "best-body-groomer-india",
     "category": "trimmer",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-10T03:44:54.700313+00:00"
   },
   {
     "slug": "best-water-purifier-under-15000-india",
     "category": "water-purifier",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-10T03:44:54.700322+00:00"
   },
   {
     "slug": "best-ro-water-purifier-india",
