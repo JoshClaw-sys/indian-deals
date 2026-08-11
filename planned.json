@@ -194,17 +194,20 @@
   {
     "slug": "best-ro-water-purifier-india",
     "category": "water-purifier",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-11T03:40:49.688461+00:00"
   },
   {
     "slug": "best-mixer-grinder-under-5000-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-11T03:40:49.688495+00:00"
   },
   {
     "slug": "best-tablet-under-20000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-11T03:40:49.688508+00:00"
   },
   {
     "slug": "best-tablet-under-15000-india",
