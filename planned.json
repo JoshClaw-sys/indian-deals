@@ -236,16 +236,19 @@
   {
     "slug": "best-43-inch-smart-tv-under-30000-india",
     "category": "tv",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-14T03:33:17.615102+00:00"
   },
   {
     "slug": "best-room-air-cooler-india",
     "category": "air-cooler",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-14T03:33:17.615139+00:00"
   },
   {
     "slug": "best-fully-automatic-washing-machine-7kg-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-14T03:33:17.615152+00:00"
   }
 ]
