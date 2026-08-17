@@ -250,5 +250,20 @@
     "category": "washing-machine",
     "status": "done",
     "done_at": "2026-08-14T03:33:17.615152+00:00"
+  },
+  {
+    "slug": "best-air-fryer-under-10000-india",
+    "category": "air-fryers",
+    "status": "todo"
+  },
+  {
+    "slug": "best-smartwatch-under-15000-india",
+    "category": "smartwatch",
+    "status": "todo"
+  },
+  {
+    "slug": "best-handheld-vacuum-cleaner-india",
+    "category": "vacuum",
+    "status": "todo"
   }
 ]
