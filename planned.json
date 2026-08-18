@@ -268,5 +268,20 @@
     "category": "vacuum",
     "status": "done",
     "done_at": "2026-08-17T03:41:20.052085+00:00"
+  },
+  {
+    "slug": "best-induction-cooktop-india",
+    "category": "induction-cooktop",
+    "status": "todo"
+  },
+  {
+    "slug": "best-power-bank-india",
+    "category": "power-bank",
+    "status": "todo"
+  },
+  {
+    "slug": "best-ceiling-fan-india",
+    "category": "ceiling-fan",
+    "status": "todo"
   }
 ]
