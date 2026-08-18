@@ -272,16 +272,19 @@
   {
     "slug": "best-storage-geyser-under-15000-india",
     "category": "geyser",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-18T03:39:46.997743+00:00"
   },
   {
     "slug": "best-55-inch-smart-tv-under-50000-india",
     "category": "tv",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-18T03:39:46.997773+00:00"
   },
   {
     "slug": "best-double-door-fridge-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-18T03:39:46.997783+00:00"
   }
 ]
