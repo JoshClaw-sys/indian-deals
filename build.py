@@ -45,6 +45,9 @@ CATEGORIES = {
     "trimmer": {"title": "Trimmers", "icon": "✂️", "desc": "Beard and body trimmers — battery, blades, water resistance.", "crumb": "Trimmers"},
     "tv": {"title": "Smart TVs", "icon": "📺", "desc": "43-inch, 50-inch, 4K smart TVs ranked by panel type, sound and warranty.", "crumb": "Smart TVs"},
     "air-cooler": {"title": "Air Coolers", "icon": "🌬️", "desc": "Room coolers for dry, humid and mixed climates — tank size and blower type ranked.", "crumb": "Air Coolers"},
+    "air-purifier": {"title": "Air Purifiers", "icon": "🌫️", "desc": "HEPA, ionic, and smart air purifiers -- CADR, filter cost and room coverage ranked for Indian AQI conditions.", "crumb": "Air Purifiers"},
+    "ceiling-fan": {"title": "Ceiling Fans", "icon": "🌀", "desc": "BLDC energy-efficient ceiling fans -- wattage, BEE star rating and service network compared.", "crumb": "Ceiling Fans"},
+    "hair-dryer": {"title": "Hair Dryers", "icon": "💨", "desc": "Ionic, ceramic and travel-friendly hair dryers ranked for Indian hair types -- from Rs 800 to salon-grade.", "crumb": "Hair Dryers"},
 }
 
 BUDGETS = {

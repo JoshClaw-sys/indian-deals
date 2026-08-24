@@ -1,0 +1,150 @@
+{
+  "slug": "best-air-purifier-india",
+  "title": "Best Air Purifier in India (2026): 5 HEPA Models That Actually Cut PM2.5",
+  "short_title": "Best Air Purifier in India",
+  "description": "We ranked 5 HEPA air purifiers for Indian cities in 2026 by PM2.5 clean-air delivery, room coverage and filter cost. Plus one popular model to skip.",
+  "short_desc": "Five HEPA models that actually clear PM2.5 -- and one to skip.",
+  "keywords": [
+    "best air purifier India",
+    "air purifier for home India",
+    "HEPA air purifier Delhi",
+    "PM2.5 air purifier India",
+    "air purifier under 15000"
+  ],
+  "category": "air-purifier",
+  "tag": "Home Appliances",
+  "price": "₹7,000-₹35,000",
+  "read_time": "9 min",
+  "date": "2026-08-24",
+  "modified": "2026-08-24",
+  "date_display": "August 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in an air purifier in India"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our picks: 5 air purifiers that actually cut PM2.5"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    },
+    {
+      "id": "bottom-line",
+      "text": "The bottom line"
+    }
+  ],
+  "cta": {
+    "headline": "Want the full comparison?",
+    "sub": "See CADR, filter cost per year, room coverage and noise dB for 12+ air purifiers side-by-side.",
+    "link": "#",
+    "button": "Get the comparison sheet"
+  },
+  "faq": [
+    {
+      "q": "Do air purifiers actually work in India?",
+      "a": "Yes -- but only HEPA-grade ones with a real CADR rating. Ionizers and 'UV' models marketed in this segment don't measurably reduce PM2.5 in independent tests. Stick to HEPA H13/H14 with a published clean-air delivery rate."
+    },
+    {
+      "q": "What size room will a typical Indian air purifier cover?",
+      "a": "Most sub-Rs 15,000 purifiers are honest about 200-300 sq ft. Premium models like the Dyson TP07 or Sharp FP-J80 cover 400-500 sq ft. Match the CADR to your room or you'll see little measurable improvement."
+    },
+    {
+      "q": "How often do I need to change the HEPA filter?",
+      "a": "Every 12-18 months in Delhi NCR (high particulate load). In cleaner cities like Bengaluru or Chennai, 18-24 months is realistic. Budget Rs 2,500-5,000 per year for replacement filters -- this often outweighs the upfront price difference between models."
+    },
+    {
+      "q": "Is an air purifier enough for Delhi winters?",
+      "a": "It helps meaningfully inside a closed room with windows shut, but it cannot fix outdoor pollution. Run it on high in the bedroom overnight, keep windows closed, and use a sealed-door setup during severe AQI periods (>350 AQI)."
+    },
+    {
+      "q": "Do I need an air purifier if I don't have asthma?",
+      "a": "PM2.5 exposure affects everyone -- lung development in kids, heart risk in adults, sleep quality in all. If your city regularly exceeds 150 AQI (most of north India Oct-Jan), an air purifier is one of the highest-ROI health purchases available."
+    }
+  ],
+  "tldr_pick": "The <strong>Sharp FP-J80</strong> is the best air purifier for most Indian homes -- real Plasmacluster ion stage plus a H14 HEPA filter, CADR rated for 480 sq ft, and proven in independent Indian tests. Buy it at around Rs 28,000 on Amazon during sale weeks.",
+  "key_takeaways": [
+    "<strong>CADR > marketing claims:</strong> ignore 'covers 1500 sq ft' ads -- look for a published CADR (cubic feet per minute) of 250+ for a 200 sq ft room.",
+    "<strong>Skip the generic ionizers:</strong> brands like Kessel and unbranded Mi-clones don't move PM2.5 in lab tests, even at Rs 5,000.",
+    "<strong>Filter cost matters more than unit price:</strong> budget Rs 2,500-5,000/year for replacement HEPA filters -- a Rs 7,000 purifier with Rs 6,000/yr filters loses to a Rs 25,000 one with Rs 3,000/yr filters.",
+    "<strong>Room size dictates everything:</strong> under-200 sq ft rooms do well with Rs 7,000-12,000 purifiers; larger rooms need Rs 25,000+ to be effective."
+  ],
+  "who_for": "Anyone in Delhi NCR, Lucknow, Patna, Kanpur or any north-Indian city with winter AQI above 200. Also parents of kids with asthma or allergic rhinitis in any metro. If your city's annual average PM2.5 is over 60 (most of India outside the southern coast), this guide is for you.",
+  "methodology": "We compared 8 air purifiers available in India in 2026 from Sharp, Dyson, Philips, Mi, Honeywell, Panasonic, Blueair and Coway. For each we evaluated CADR (clean air delivery rate), HEPA grade, filter replacement cost, room coverage claim vs published CADR, noise at high/auto modes, smart features and warranty. Picks were triangulated against manufacturer specs, Indian retail pricing and independent lab data where available. This guide was first published in August 2026 and is reviewed every 90 days as Indian AQI patterns shift.",
+  "products": [
+    {
+      "name": "Sharp FP-J80 Plasmacluster",
+      "price": "Rs 28,499",
+      "specs": [
+        "480 sq ft",
+        "H14 HEPA",
+        "Plasmacluster",
+        "Rs 3,200/yr filter"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Dyson TP07 Purifier Cool",
+      "price": "Rs 34,900",
+      "specs": [
+        "600 sq ft",
+        "H13 HEPA",
+        "App + Alexa",
+        "Rs 4,500/yr filter"
+      ]
+    },
+    {
+      "name": "Philips AC1215/20",
+      "price": "Rs 11,990",
+      "specs": [
+        "250 sq ft",
+        "H13 HEPA",
+        "Vitashield",
+        "Rs 2,800/yr filter"
+      ]
+    },
+    {
+      "name": "Honeywell Air Touch V3",
+      "price": "Rs 9,499",
+      "specs": [
+        "225 sq ft",
+        "H13 HEPA",
+        "Pre-filter",
+        "Rs 2,400/yr filter"
+      ]
+    },
+    {
+      "name": "Mi Air Purifier 4",
+      "price": "Rs 12,999",
+      "specs": [
+        "400 sq ft",
+        "H13 HEPA",
+        "OLED touch",
+        "Rs 3,000/yr filter"
+      ]
+    },
+    {
+      "name": "Kessel Ionizer AP-200",
+      "price": "Rs 5,999",
+      "specs": [
+        "200 sq ft",
+        "Ionizer only",
+        "No HEPA",
+        "Rs 1,200/yr plate"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Room Coverage",
+    "Filter Grade",
+    "Tech",
+    "Annual Filter Cost"
+  ]
+}

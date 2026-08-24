@@ -286,5 +286,23 @@
     "category": "refrigerator",
     "status": "done",
     "done_at": "2026-08-18T03:39:46.997783+00:00"
+  },
+  {
+    "slug": "best-air-purifier-india",
+    "category": "air-purifier",
+    "status": "todo",
+    "topic": "Air Purifier"
+  },
+  {
+    "slug": "best-ceiling-fan-india",
+    "category": "ceiling-fan",
+    "status": "todo",
+    "topic": "Ceiling Fan"
+  },
+  {
+    "slug": "best-hair-dryer-india",
+    "category": "hair-dryer",
+    "status": "todo",
+    "topic": "Hair Dryer"
   }
 ]
