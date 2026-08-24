@@ -290,19 +290,22 @@
   {
     "slug": "best-air-purifier-india",
     "category": "air-purifier",
-    "status": "todo",
-    "topic": "Air Purifier"
+    "status": "done",
+    "topic": "Air Purifier",
+    "done_at": "2026-08-24T03:36:28.503574+00:00"
   },
   {
     "slug": "best-ceiling-fan-india",
     "category": "ceiling-fan",
-    "status": "todo",
-    "topic": "Ceiling Fan"
+    "status": "done",
+    "topic": "Ceiling Fan",
+    "done_at": "2026-08-24T03:36:28.503609+00:00"
   },
   {
     "slug": "best-hair-dryer-india",
     "category": "hair-dryer",
-    "status": "todo",
-    "topic": "Hair Dryer"
+    "status": "done",
+    "topic": "Hair Dryer",
+    "done_at": "2026-08-24T03:36:28.503622+00:00"
   }
 ]

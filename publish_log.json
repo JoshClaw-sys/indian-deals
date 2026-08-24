@@ -1120,5 +1120,74 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-08-18T03:43:52.847338+00:00"
     }
+  },
+  "best-air-purifier-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-24T03:36:29.380334+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-24T03:37:04.380751+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-24T03:37:04.380864+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-air-purifier-in-india-2026-5-hepa-models-that-actually-cut-pm25-3ff3",
+      "id": 4471132,
+      "timestamp": "2026-08-24T03:37:05.796863+00:00"
+    }
+  },
+  "best-ceiling-fan-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-24T03:38:15.810727+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-24T03:38:50.811039+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-24T03:38:50.811128+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ceiling-fan-in-india-2026-6-bldc-picks-that-slash-your-bill-1ch7",
+      "id": 4471143,
+      "timestamp": "2026-08-24T03:38:52.349361+00:00"
+    }
+  },
+  "best-hair-dryer-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-24T03:40:02.362644+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-24T03:40:37.362979+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-24T03:40:37.363070+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-hair-dryer-in-india-2026-6-picks-from-rs-800-to-rs-8000-510o",
+      "id": 4471148,
+      "timestamp": "2026-08-24T03:40:38.255208+00:00"
+    }
   }
 }
