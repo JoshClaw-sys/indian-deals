@@ -1189,5 +1189,49 @@
       "id": 4471148,
       "timestamp": "2026-08-24T03:40:38.255208+00:00"
     }
+  },
+  "best-air-cooler-under-10000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-26T03:39:57.154813+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-26T03:40:32.155100+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-26T03:40:32.155155+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-26T03:40:32.155189+00:00"
+    }
+  },
+  "best-trimmer-under-1000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-26T03:41:42.175024+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-26T03:42:17.175320+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-26T03:42:17.175404+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-08-26T03:42:17.175463+00:00"
+    }
   }
 }

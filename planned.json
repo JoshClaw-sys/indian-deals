@@ -311,16 +311,19 @@
   {
     "slug": "best-air-cooler-under-10000-india",
     "category": "air-cooler",
-    "status": "pending"
+    "status": "done",
+    "done_at": "2026-08-26T03:39:56.304983+00:00"
   },
   {
     "slug": "best-trimmer-under-1000-india",
     "category": "trimmer",
-    "status": "pending"
+    "status": "done",
+    "done_at": "2026-08-26T03:39:56.305012+00:00"
   },
   {
     "slug": "best-microwave-under-10000-india",
     "category": "microwave",
-    "status": "pending"
+    "status": "done",
+    "done_at": "2026-08-26T03:39:56.305023+00:00"
   }
 ]
