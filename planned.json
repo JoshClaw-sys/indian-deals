@@ -307,5 +307,20 @@
     "status": "done",
     "topic": "Hair Dryer",
     "done_at": "2026-08-24T03:36:28.503622+00:00"
+  },
+  {
+    "slug": "best-air-cooler-under-10000-india",
+    "category": "air-cooler",
+    "status": "pending"
+  },
+  {
+    "slug": "best-trimmer-under-1000-india",
+    "category": "trimmer",
+    "status": "pending"
+  },
+  {
+    "slug": "best-microwave-under-10000-india",
+    "category": "microwave",
+    "status": "pending"
   }
 ]
