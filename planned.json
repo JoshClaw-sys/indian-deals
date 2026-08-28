@@ -329,16 +329,19 @@
   {
     "slug": "best-soundbar-under-30000-india",
     "category": "soundbar",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-28T03:39:08.709085+00:00"
   },
   {
     "slug": "best-microwave-under-20000-india",
     "category": "microwave",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-28T03:39:08.709120+00:00"
   },
   {
     "slug": "best-washing-machine-under-30000-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-28T03:39:08.709134+00:00"
   }
 ]
