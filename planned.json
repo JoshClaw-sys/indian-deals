@@ -343,5 +343,20 @@
     "category": "washing-machine",
     "status": "done",
     "done_at": "2026-08-28T03:39:08.709134+00:00"
+  },
+  {
+    "slug": "best-laptop-under-40000-india",
+    "category": "laptops",
+    "status": "todo"
+  },
+  {
+    "slug": "best-phone-under-15000-india",
+    "category": "smartphones",
+    "status": "todo"
+  },
+  {
+    "slug": "best-50-inch-smart-tv-under-40000-india",
+    "category": "tv",
+    "status": "todo"
   }
 ]

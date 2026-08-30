@@ -4,3 +4,4 @@ __pycache__/
 *.swp
 .vscode/
 .idea/
+gen_seed_*.py

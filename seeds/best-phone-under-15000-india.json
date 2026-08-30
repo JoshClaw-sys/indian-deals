@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "slug": "best-phone-under-15000-india",
+    "title": "Best Phone Under ₹15,000 in India (2026): AMOLED and 5G Picks Ranked",
+    "short_title": "Best Phone Under ₹15,000",
+    "description": "Best phone under ₹15,000 in India 2026: AMOLED, 5G and big-battery picks from POCO, Redmi, Realme and Samsung, ranked on chipset and updates.",
+    "short_desc": "AMOLED, 5G, 45W charging — the budget phones worth buying under ₹15,000.",
+    "keywords": [
+      "best phone under 15000",
+      "best 5G phone under 15000",
+      "best phone under 15000 India 2026",
+      "AMOLED phone under 15000",
+      "budget smartphone India",
+      "POCO M7 Pro price"
+    ],
+    "category": "smartphones",
+    "tag": "Smartphones",
+    "price": "₹11,000–₹15,000",
+    "read_time": "10 min",
+    "date": "2026-08-30",
+    "modified": "2026-08-30",
+    "date_display": "August 2026",
+    "headings": [
+      {
+        "id": "what-matters",
+        "text": "What actually matters in a phone under ₹15,000"
+      },
+      {
+        "id": "our-picks",
+        "text": "Our top 5 picks"
+      },
+      {
+        "id": "skip",
+        "text": "The one we recommend skipping"
+      },
+      {
+        "id": "frequently-asked",
+        "text": "Frequently asked questions"
+      }
+    ],
+    "cta": {
+      "headline": "Have a little more to spend?",
+      "sub": "Our phone under ₹25,000 guide covers 120Hz AMOLED flagships-lite with telephoto cameras and 80W charging.",
+      "link": "#",
+      "button": "See the ₹25,000 guide"
+    },
+    "tldr_pick": "The <strong>POCO M7 Pro 5G</strong> is the best phone under ₹15,000 in India for most buyers in 2026: a 6.67-inch 120Hz AMOLED panel with Gorilla Glass 5, the 6nm MediaTek Dimensity 7025 Ultra, a 5,110mAh battery with 45W charging, and a 50MP main sensor — the only phone in the band that gets the display, chipset and charging right at the same time.",
+    "key_takeaways": [
+      "<strong>AMOLED is the upgrade you will actually notice every day</strong> — deeper blacks, better outdoor visibility and an always-on display that LCD panels in this band cannot match.",
+      "<strong>A 6nm chipset matters more than a headline core count</strong> — the Dimensity 7025 Ultra runs cooler and drains less battery than older 12nm parts with similar benchmark scores.",
+      "<strong>Check the update policy before the camera megapixels</strong> — two OS updates plus three years of security patches is the realistic ceiling under ₹15,000, and some brands offer far less.",
+      "<strong>45W charging is now standard in this band</strong> — an 18W charger on a 5,000mAh battery means a two-hour top-up, which is the single biggest daily annoyance."
+    ],
+    "who_for": "First-time smartphone buyers, students, secondary-phone buyers and anyone who needs reliable 5G, a good display and all-day battery on a budget under ₹15,000. Not aimed at photography enthusiasts or heavy gamers, who need the ₹20,000–₹30,000 band for telephoto lenses and flagship-class chipsets.",
+    "methodology": "We compared the 16 most widely sold smartphones between ₹11,000 and ₹15,000 in India in 2026 on the five specifications that determine how a budget phone feels after a year of daily use: panel technology and refresh rate, chipset process node, battery capacity paired with real charging wattage, camera sensor and stabilisation, and the manufacturer's published software update commitment. We relied on brand-published specifications and launch pricing rather than synthetic scores, because in this band the difference between a good buy and a bad one is almost always an LCD panel, a 12nm chipset that throttles, or a brand that ships one OS update and stops.",
+    "products": [
+      {
+        "name": "POCO M7 Pro 5G",
+        "price": "₹14,000–₹15,000",
+        "specs": [
+          "Dimensity 7025 Ultra (6nm)",
+          "6.67\" 120Hz AMOLED",
+          "5,110mAh / 45W",
+          "50MP OIS main"
+        ],
+        "winner": true
+      },
+      {
+        "name": "Redmi 14C 5G",
+        "price": "₹11,000–₹12,500",
+        "specs": [
+          "Snapdragon 4 Gen 2 (4nm)",
+          "6.88\" 120Hz HD+ LCD",
+          "5,160mAh / 18W",
+          "50MP main"
+        ]
+      },
+      {
+        "name": "Samsung Galaxy M17 5G",
+        "price": "₹13,500–₹15,000",
+        "specs": [
+          "Exynos 1330 (5nm)",
+          "6.7\" 90Hz Super AMOLED",
+          "5,000mAh / 25W",
+          "50MP OIS main"
+        ]
+      },
+      {
+        "name": "Realme P3 5G",
+        "price": "₹13,000–₹15,000",
+        "specs": [
+          "Snapdragon 6 Gen 4 (4nm)",
+          "6.67\" 120Hz AMOLED",
+          "6,000mAh / 45W",
+          "50MP main"
+        ]
+      },
+      {
+        "name": "iQOO Z10x 5G",
+        "price": "₹12,500–₹14,500",
+        "specs": [
+          "Dimensity 7300 (4nm)",
+          "6.72\" 120Hz LCD",
+          "6,500mAh / 44W",
+          "50MP main"
+        ]
+      },
+      {
+        "name": "Sub-₹8,000 4G phones with 3GB RAM",
+        "price": "₹6,000–₹8,000",
+        "specs": [
+          "Helio G36 / entry SoC",
+          "6.5\" 60Hz HD+ LCD",
+          "5,000mAh / 10W",
+          "13MP main"
+        ],
+        "skip": true
+      }
+    ],
+    "spec_headers": [
+      "Chipset",
+      "Display",
+      "Battery",
+      "Camera"
+    ],
+    "faq": [
+      {
+        "q": "Is 5G worth it under ₹15,000 in India?",
+        "a": "Yes, and it is no longer a premium feature — every pick in this list supports 5G, and Jio and Airtel 5G coverage now reaches most tier-1 and tier-2 cities. What matters is band support: check that the phone covers n78 (3500MHz), which carries the bulk of Indian 5G traffic, and n28 (700MHz) for indoor and rural coverage. A phone listing many 5G bands but missing n78 will fall back to 4G in most places."
+      },
+      {
+        "q": "AMOLED or a higher refresh rate LCD — which should I prioritise?",
+        "a": "AMOLED, in almost every case. A 120Hz LCD scrolls smoothly but still shows grey-black instead of true black, has lower contrast and is noticeably dimmer outdoors. AMOLED at 90Hz beats LCD at 120Hz for daily use because contrast and outdoor brightness affect every minute of use while the extra 30Hz only shows in fast scrolling. The POCO M7 Pro and Realme P3 give you both AMOLED and 120Hz, which is why they lead this list."
+      },
+      {
+        "q": "How many software updates will I get on a ₹15,000 phone?",
+        "a": "Two major OS updates plus three years of security patches is the best on offer in this band, and Samsung publishes the strongest commitment of the brands here. POCO and Redmi typically promise two OS updates and three to four years of security patches. Realme and iQOO are usually similar on paper but historically slower to deliver. Treat the published policy as a ceiling, not a guarantee, and factor it in if you plan to keep the phone beyond three years."
+      },
+      {
+        "q": "Is 6GB RAM enough, or should I pay for 8GB?",
+        "a": "6GB is workable for browsing, messaging, streaming and casual games, which is what most buyers in this band actually do. The ₹2,000 step to 8GB mainly buys you more apps staying resident in the background rather than reloading. If your budget is tight, prefer the 6GB variant of a better phone over the 8GB variant of a weaker one — the chipset and panel matter more. Ignore any listing that advertises 'virtual RAM' or 'extended RAM' as real memory; it is swap on the storage chip and much slower."
+      },
+      {
+        "q": "Do these phones have OIS for photos and video?",
+        "a": "Only some. The POCO M7 Pro and Samsung Galaxy M17 include optical image stabilisation on the main sensor, which visibly helps low-light stills and handheld video. The Redmi 14C, Realme P3 and iQOO Z10x rely on electronic stabilisation, which crops the frame and cannot rescue a genuinely dark scene. If you shoot a lot of video or evening photos, treat OIS as the single most valuable camera feature in this band — far more so than the secondary 2MP macro sensors most of these phones list."
+      }
+    ]
+  },
+  "body": "<h2 id=\"what-matters\">What actually matters in a phone under ₹15,000</h2>\n<p>The sub-₹15,000 band is the highest-volume slice of the Indian smartphone market and the one where specification sheets are least trustworthy. Every phone here advertises 5G, a 50MP camera and a 5,000mAh-plus battery. Those three numbers are close to identical across the band, which means they tell you almost nothing about which phone will still feel good in a year.</p>\n<p>Four things actually separate these phones: <strong>panel technology, chipset process node, real charging wattage, and the published software update policy</strong>. Get those right and a ₹14,000 phone stays pleasant for three years. Get them wrong and you have a phone that dims in sunlight, throttles while gaming, takes two hours to charge, and stops receiving patches after eighteen months.</p>\n<blockquote>If you only buy one thing from this list: the <strong>POCO M7 Pro 5G</strong>. It is the only phone under ₹15,000 that pairs a 120Hz AMOLED panel with a 6nm chipset, 45W charging and OIS on the main camera — the four specifications that matter most, without a compromise on any of them.</blockquote>\n<h3>Display: AMOLED first, refresh rate second</h3>\n<p>An AMOLED panel lights each pixel individually, so black is genuinely black, contrast is effectively infinite, and peak brightness in a sunlit window is far better than any LCD in this price band manages. It also enables an always-on display without meaningful battery cost. The practical difference is not subtle: side by side, an AMOLED phone looks like it costs ₹5,000 more.</p>\n<p>Refresh rate is the secondary consideration. <strong>120Hz</strong> makes scrolling smoother and is now common even on budget LCDs, which is precisely why it is a weak differentiator. Note also that some phones in this band pair 120Hz with only an <strong>HD+ (1600 x 720)</strong> resolution rather than full HD+ — the Redmi 14C is the notable example. On a 6.88-inch screen, HD+ is visibly soft on text.</p>\n<h3>Chipset: the process node tells you more than the name</h3>\n<p>Every chipset in this list is fast enough for messaging, streaming and casual gaming. What varies is efficiency, and that is governed by the manufacturing process. A <strong>4nm or 6nm</strong> chip — Dimensity 7025 Ultra, Dimensity 7300, Snapdragon 4 Gen 2, Snapdragon 6 Gen 4, Exynos 1330 — does the same work with less heat and less battery drain than an older 12nm part with a comparable benchmark score.</p>\n<p>This matters most under sustained load. A 12nm chip running a game for twenty minutes gets hot, throttles its clocks, and drains the battery quickly; the 4nm and 6nm parts here hold their frequencies far longer. When comparing two phones at the same price, check the fabrication node before the core count.</p>\n<h3>Battery and charging: capacity is table stakes, wattage is not</h3>\n<p>Every phone in this band ships with 5,000mAh or more, and two of the picks here go past 6,000mAh. Capacity is therefore not a differentiator — <strong>charging speed</strong> is. A 5,160mAh battery on an 18W charger needs roughly two hours for a full cycle. The same capacity on 45W is done in about an hour, and gets to 50 per cent in twenty-odd minutes.</p>\n<p>Two details to verify on the listing. First, whether the fast charger is <strong>included in the box</strong> — most Indian variants still include it, but some do not. Second, the phone’s own supported wattage rather than the cable rating: a phone rated for 18W will not charge faster on a 65W brick.</p>\n<h2 id=\"our-picks\">Our top 5 picks</h2>\n<div class=\"product-card\">\n  <span class=\"badge top\">⭐ Top Pick</span>\n  <h3>1. POCO M7 Pro 5G (6GB / 128GB)</h3>\n  <div class=\"price-line\">Usually ₹14,000–₹15,000</div>\n  <div class=\"quick-specs\"><div><strong>Chipset</strong>Dimensity 7025 Ultra, 6nm</div><div><strong>Display</strong>6.67\" FHD+ 120Hz AMOLED</div><div><strong>Battery</strong>5,110mAh, 45W</div><div><strong>Camera</strong>50MP OIS + 2MP</div></div>\n  <p>The M7 Pro is the most complete phone under ₹15,000. The 6.67-inch full HD+ AMOLED panel runs at 120Hz and is protected by Gorilla Glass 5, which is unusual at this price. The 6nm Dimensity 7025 Ultra stays cool under sustained load, 45W charging refills the 5,110mAh cell in about an hour, and the 50MP main sensor includes optical stabilisation — the single most valuable camera feature in this band.</p>\n  <p>Best for: buyers who want the best display and charging combination under ₹15,000 with no obvious weak point. POCO publishes two OS updates and four years of security patches for this model. The launch price was ₹14,999 for 6GB / 128GB and ₹16,999 for 8GB / 256GB, so the base variant is the one that fits this budget.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>✓ What works</h4><ul><li>120Hz full HD+ AMOLED with Gorilla Glass 5</li><li>45W charging — roughly an hour for a full cycle</li><li>OIS on the 50MP main sensor</li><li>6nm chipset runs cool under sustained gaming</li></ul></div><div class=\"cons\"><h4>✗ Trade-offs</h4><ul><li>Secondary 2MP sensor is close to useless</li><li>HyperOS ships with preinstalled apps that need removing</li><li>No microSD expansion</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price →</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge budget\">💰 Budget Pick</span>\n  <h3>2. Redmi 14C 5G (4GB / 128GB)</h3>\n  <div class=\"price-line\">Usually ₹11,000–₹12,500</div>\n  <div class=\"quick-specs\"><div><strong>Chipset</strong>Snapdragon 4 Gen 2, 4nm</div><div><strong>Display</strong>6.88\" HD+ 120Hz LCD</div><div><strong>Battery</strong>5,160mAh, 18W</div><div><strong>Camera</strong>50MP main</div></div>\n  <p>The Redmi 14C 5G is the cheapest way into reliable 5G with a modern 4nm chipset. The Snapdragon 4 Gen 2 is efficient and handles everyday use without complaint, and the 6.88-inch screen is the largest in this list. Two compromises define it: the panel is <strong>HD+ LCD</strong> rather than full HD+ AMOLED, and charging is 18W, which means a full cycle takes close to two hours.</p>\n  <p>Best for: first-time buyers, secondary phones, and anyone whose ceiling is ₹12,000. If your budget can stretch ₹2,500 further, the POCO M7 Pro is a materially better phone on every axis that matters. At ₹11,000 the 14C is still the strongest value in its own narrower band.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>✓ What works</h4><ul><li>Cheapest 4nm 5G chipset in the Indian market</li><li>Very large 6.88-inch display</li><li>5,160mAh battery lasts a full day comfortably</li><li>Widest Xiaomi service network across small towns</li></ul></div><div class=\"cons\"><h4>✗ Trade-offs</h4><ul><li>HD+ resolution is visibly soft on a 6.88-inch panel</li><li>LCD rather than AMOLED — weaker contrast and outdoor visibility</li><li>18W charging means a roughly two-hour full cycle</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price →</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge runner\">🥈 Best Software Support</span>\n  <h3>3. Samsung Galaxy M17 5G (6GB / 128GB)</h3>\n  <div class=\"price-line\">Usually ₹13,500–₹15,000</div>\n  <div class=\"quick-specs\"><div><strong>Chipset</strong>Exynos 1330, 5nm</div><div><strong>Display</strong>6.7\" FHD+ 90Hz Super AMOLED</div><div><strong>Battery</strong>5,000mAh, 25W</div><div><strong>Camera</strong>50MP OIS + ultrawide</div></div>\n  <p>The Galaxy M17 is the pick when long-term software support matters more than raw specification. Samsung’s update commitment in this band is the strongest of any brand here, and One UI receives features from the flagship line for longer. The 6.7-inch Super AMOLED panel is excellent, and the 50MP main sensor includes OIS. The trade-offs are a 90Hz refresh rate rather than 120Hz and 25W charging.</p>\n  <p>Best for: buyers who plan to keep the phone four years or more, and anyone who values Samsung’s service network and resale value. The Exynos 1330 is slightly behind the Dimensity 7025 Ultra in sustained performance but comfortably ahead of anything at ₹12,000.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>✓ What works</h4><ul><li>Longest software update commitment in the band</li><li>Excellent Super AMOLED panel calibration</li><li>OIS plus a genuine ultrawide, not a filler macro sensor</li><li>Strong resale value and the widest service network in India</li></ul></div><div class=\"cons\"><h4>✗ Trade-offs</h4><ul><li>90Hz rather than 120Hz refresh rate</li><li>25W charging is slower than the 45W competition</li><li>Exynos 1330 trails the Dimensity 7025 Ultra under load</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price →</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge runner\">🔋 Best Battery</span>\n  <h3>4. Realme P3 5G (6GB / 128GB)</h3>\n  <div class=\"price-line\">Usually ₹13,000–₹15,000</div>\n  <div class=\"quick-specs\"><div><strong>Chipset</strong>Snapdragon 6 Gen 4, 4nm</div><div><strong>Display</strong>6.67\" FHD+ 120Hz AMOLED</div><div><strong>Battery</strong>6,000mAh, 45W</div><div><strong>Camera</strong>50MP main</div></div>\n  <p>The Realme P3 pairs a 6,000mAh battery with 45W charging and a 120Hz full HD+ AMOLED panel, which is an unusually strong combination under ₹15,000. The Snapdragon 6 Gen 4 is a 4nm part that performs close to the Dimensity 7025 Ultra. For heavy users — long commutes, video, hotspot duty — the extra 900mAh over the POCO is genuinely useful.</p>\n  <p>Best for: heavy users who want two-day battery without giving up AMOLED or fast charging. The main gap against the POCO M7 Pro is the absence of OIS on the main camera, which shows in low-light stills and handheld video.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>✓ What works</h4><ul><li>6,000mAh battery with 45W charging</li><li>120Hz full HD+ AMOLED</li><li>4nm Snapdragon 6 Gen 4 runs cool</li><li>Comfortably two days of light-to-moderate use</li></ul></div><div class=\"cons\"><h4>✗ Trade-offs</h4><ul><li>No OIS on the main camera</li><li>Heavier than the POCO and Samsung picks</li><li>Realme UI ships with more preinstalled apps than most</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price →</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge runner\">🎮 Best for Gaming</span>\n  <h3>5. iQOO Z10x 5G (6GB / 128GB)</h3>\n  <div class=\"price-line\">Usually ₹12,500–₹14,500</div>\n  <div class=\"quick-specs\"><div><strong>Chipset</strong>Dimensity 7300, 4nm</div><div><strong>Display</strong>6.72\" FHD+ 120Hz LCD</div><div><strong>Battery</strong>6,500mAh, 44W</div><div><strong>Camera</strong>50MP main</div></div>\n  <p>The Z10x has the strongest chipset in this list. The 4nm Dimensity 7300 outperforms every other part here in sustained gaming, and the 6,500mAh battery is the largest. The compromise is the panel: it is a 120Hz full HD+ <strong>LCD</strong>, not AMOLED, so contrast and outdoor brightness fall short of the POCO, Samsung and Realme picks.</p>\n  <p>Best for: buyers whose priority is frame rates and battery life over display quality — typically heavy mobile gamers. If you mostly scroll, stream and shoot photos, one of the AMOLED picks will be more satisfying day to day.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>✓ What works</h4><ul><li>Strongest sustained gaming performance in the band</li><li>Largest battery here at 6,500mAh</li><li>44W charging despite the bigger cell</li><li>Holds frame rates longer than the alternatives under load</li></ul></div><div class=\"cons\"><h4>✗ Trade-offs</h4><ul><li>LCD panel — weaker contrast and outdoor visibility</li><li>No OIS on the main camera</li><li>Heaviest phone in this list</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price →</a>\n</div>\n<h2 id=\"skip\">The one we recommend skipping</h2>\n<div class=\"product-card\"><span class=\"badge skip\">⚠️ Skip</span><h3>Sub-₹8,000 4G phones with 3GB RAM</h3><div class=\"quick-specs\"><div><strong>Chipset</strong>Helio G36 or entry SoC</div><div><strong>Display</strong>6.5\" HD+ 60Hz LCD</div><div><strong>Battery</strong>5,000mAh, 10W</div><div><strong>Camera</strong>13MP main</div></div>\n<p>The ₹6,000–₹8,000 tier is the most common regret in Indian phone buying. These handsets pair an entry chipset with <strong>3GB of RAM</strong>, a 60Hz HD+ LCD, 10W charging and no 5G. The RAM is the fatal specification: WhatsApp, a browser and one more app is enough to force constant reloading, and no software update will fix it.</p>\n<p>The gap to the Redmi 14C 5G is roughly ₹3,500–₹4,000, and it buys a 4nm 5G chipset, 4GB of RAM, a 120Hz panel and a far larger screen. We would also skip any phone in this band still shipping <strong>4G only</strong> — 5G is standard under ₹12,000 now, and a 4G-only phone bought in 2026 will feel dated well before it wears out.</p></div>\n<h2 id=\"bottom-line\">The bottom line</h2>\n<p>Buy the <strong>POCO M7 Pro 5G</strong> if you want the best phone under ₹15,000 with no significant weak point: a 120Hz full HD+ AMOLED panel, a 6nm chipset, 45W charging and OIS on the main camera. The <strong>Samsung Galaxy M17 5G</strong> is the pick if you intend to keep the phone four years or more, because its update commitment and service network are the strongest here.</p>\n<p>On a tighter budget, the <strong>Redmi 14C 5G</strong> is the cheapest sensible 5G phone in India, provided you accept an HD+ LCD panel and 18W charging. The <strong>Realme P3 5G</strong> is the choice for heavy users who want 6,000mAh with AMOLED, and the <strong>iQOO Z10x 5G</strong> is the gaming pick if you will trade display quality for sustained frame rates. Whichever you choose, verify the RAM and storage variant on the listing and confirm n78 5G band support before you pay.</p>\n<h2 id=\"frequently-asked\">Frequently asked questions</h2>\n<h3>Is 5G worth it under ₹15,000 in India?</h3>\n<p>Yes, and it is no longer a premium feature — every pick in this list supports 5G, and Jio and Airtel 5G coverage now reaches most tier-1 and tier-2 cities. What matters is band support: check that the phone covers n78 (3500MHz), which carries the bulk of Indian 5G traffic, and n28 (700MHz) for indoor and rural coverage. A phone listing many 5G bands but missing n78 will fall back to 4G in most places.</p>\n<h3>AMOLED or a higher refresh rate LCD — which should I prioritise?</h3>\n<p>AMOLED, in almost every case. A 120Hz LCD scrolls smoothly but still shows grey-black instead of true black, has lower contrast and is noticeably dimmer outdoors. AMOLED at 90Hz beats LCD at 120Hz for daily use because contrast and outdoor brightness affect every minute of use while the extra 30Hz only shows in fast scrolling. The POCO M7 Pro and Realme P3 give you both AMOLED and 120Hz, which is why they lead this list.</p>\n<h3>How many software updates will I get on a ₹15,000 phone?</h3>\n<p>Two major OS updates plus three years of security patches is the best on offer in this band, and Samsung publishes the strongest commitment of the brands here. POCO and Redmi typically promise two OS updates and three to four years of security patches. Realme and iQOO are usually similar on paper but historically slower to deliver. Treat the published policy as a ceiling, not a guarantee, and factor it in if you plan to keep the phone beyond three years.</p>\n<h3>Is 6GB RAM enough, or should I pay for 8GB?</h3>\n<p>6GB is workable for browsing, messaging, streaming and casual games, which is what most buyers in this band actually do. The ₹2,000 step to 8GB mainly buys you more apps staying resident in the background rather than reloading. If your budget is tight, prefer the 6GB variant of a better phone over the 8GB variant of a weaker one — the chipset and panel matter more. Ignore any listing that advertises 'virtual RAM' or 'extended RAM' as real memory; it is swap on the storage chip and much slower.</p>\n<h3>Do these phones have OIS for photos and video?</h3>\n<p>Only some. The POCO M7 Pro and Samsung Galaxy M17 include optical image stabilisation on the main sensor, which visibly helps low-light stills and handheld video. The Redmi 14C, Realme P3 and iQOO Z10x rely on electronic stabilisation, which crops the frame and cannot rescue a genuinely dark scene. If you shoot a lot of video or evening photos, treat OIS as the single most valuable camera feature in this band — far more so than the secondary 2MP macro sensors most of these phones list.</p>\n<div class=\"cta-block\"><h3>Have a little more to spend?</h3><p>Our phone under ₹25,000 guide covers 120Hz AMOLED flagships-lite with telephoto cameras and 80W charging.</p><a href=\"#\" class=\"cta\">See the ₹25,000 guide →</a></div>"
+}
