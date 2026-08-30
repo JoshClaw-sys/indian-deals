@@ -1277,5 +1277,74 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-08-28T03:41:29.509816+00:00"
     }
+  },
+  "best-laptop-under-40000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-30T03:44:05.241816+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-30T03:44:40.242133+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-30T03:44:40.242228+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-laptop-under-40000-in-india-2026-16gb-ram-picks-that-actually-last-5g20",
+      "id": 4525982,
+      "timestamp": "2026-08-30T03:44:42.048239+00:00"
+    }
+  },
+  "best-phone-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-30T03:45:52.065632+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-30T03:46:27.066074+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-30T03:46:27.066170+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-phone-under-15000-in-india-2026-amoled-and-5g-picks-ranked-5a5a",
+      "id": 4525991,
+      "timestamp": "2026-08-30T03:46:28.615930+00:00"
+    }
+  },
+  "best-50-inch-smart-tv-under-40000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-08-30T03:47:38.633697+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-08-30T03:48:13.634001+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-08-30T03:48:13.634089+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-50-inch-smart-tv-under-40000-in-india-2026-qled-picks-ranked-291f",
+      "id": 4525997,
+      "timestamp": "2026-08-30T03:48:15.171935+00:00"
+    }
   }
 }
