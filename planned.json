@@ -365,16 +365,19 @@
   {
     "slug": "best-bldc-ceiling-fan-india",
     "category": "ceiling-fan",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-31T03:42:04.157809+00:00"
   },
   {
     "slug": "best-mixer-grinder-under-10000-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-31T03:42:04.157839+00:00"
   },
   {
     "slug": "best-hair-dryer-under-3000-india",
     "category": "hair-dryer",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-08-31T03:42:04.157849+00:00"
   }
 ]
