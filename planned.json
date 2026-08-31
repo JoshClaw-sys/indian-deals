@@ -361,5 +361,20 @@
     "category": "tv",
     "status": "done",
     "done_at": "2026-08-30T03:44:04.296201+00:00"
+  },
+  {
+    "slug": "best-bldc-ceiling-fan-india",
+    "category": "ceiling-fan",
+    "status": "todo"
+  },
+  {
+    "slug": "best-mixer-grinder-under-10000-india",
+    "category": "mixer-grinder",
+    "status": "todo"
+  },
+  {
+    "slug": "best-hair-dryer-under-3000-india",
+    "category": "hair-dryer",
+    "status": "todo"
   }
 ]
