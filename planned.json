@@ -379,5 +379,20 @@
     "category": "hair-dryer",
     "status": "done",
     "done_at": "2026-08-31T03:42:04.157849+00:00"
+  },
+  {
+    "slug": "best-smartphone-under-60000-india",
+    "category": "smartphones",
+    "status": "todo"
+  },
+  {
+    "slug": "best-32-inch-smart-tv-under-20000-india",
+    "category": "tv",
+    "status": "todo"
+  },
+  {
+    "slug": "best-camera-under-60000-india",
+    "category": "smartphones",
+    "status": "todo"
   }
 ]
