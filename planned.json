@@ -383,16 +383,19 @@
   {
     "slug": "best-smartphone-under-60000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-01T03:36:16.353510+00:00"
   },
   {
     "slug": "best-32-inch-smart-tv-under-20000-india",
     "category": "tv",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-01T03:36:16.353541+00:00"
   },
   {
     "slug": "best-camera-under-60000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-01T03:36:16.353555+00:00"
   }
 ]
