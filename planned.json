@@ -401,16 +401,19 @@
   {
     "slug": "best-tws-earbuds-under-1000-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-02T03:37:37.626052+00:00"
   },
   {
     "slug": "best-mini-fridge-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-02T03:37:37.626085+00:00"
   },
   {
     "slug": "best-kitchen-chopper-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-02T03:37:37.626099+00:00"
   }
 ]

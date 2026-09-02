@@ -1434,5 +1434,71 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-09-01T03:38:37.160543+00:00"
     }
+  },
+  "best-tws-earbuds-under-1000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-02T03:37:38.276521+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-02T03:38:13.276845+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-02T03:38:13.276938+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-09-02T03:38:13.276996+00:00"
+    }
+  },
+  "best-mini-fridge-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-02T03:39:23.291624+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-02T03:39:58.291869+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-02T03:39:58.291952+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-09-02T03:39:58.292008+00:00"
+    }
+  },
+  "best-kitchen-chopper-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-02T03:41:08.306429+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-02T03:41:43.306749+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-02T03:41:43.306831+00:00"
+    },
+    "Dev.to": {
+      "status": "skipped",
+      "reason": "DEVTO_API_KEY not set",
+      "timestamp": "2026-09-02T03:41:43.306887+00:00"
+    }
   }
 }
