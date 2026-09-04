@@ -415,5 +415,20 @@
     "category": "mixer-grinder",
     "status": "done",
     "done_at": "2026-09-02T03:37:37.626099+00:00"
+  },
+  {
+    "slug": "best-tws-earbuds-under-3000-india",
+    "category": "earbuds",
+    "status": "todo"
+  },
+  {
+    "slug": "best-smartwatch-under-25000-india",
+    "category": "smartwatch",
+    "status": "todo"
+  },
+  {
+    "slug": "best-mixer-grinder-under-15000-india",
+    "category": "mixer-grinder",
+    "status": "todo"
   }
 ]
