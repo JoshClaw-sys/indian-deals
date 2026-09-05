@@ -437,16 +437,19 @@
   {
     "slug": "best-air-purifier-under-15000-india",
     "category": "air-purifier",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-05T03:36:49.603647+00:00"
   },
   {
     "slug": "best-ceiling-fan-under-2000-india",
     "category": "ceiling-fan",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-05T03:36:49.603682+00:00"
   },
   {
     "slug": "best-trimmer-under-3000-india",
     "category": "trimmer",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-05T03:36:49.603759+00:00"
   }
 ]

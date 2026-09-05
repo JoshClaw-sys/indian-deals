@@ -1569,5 +1569,74 @@
       "id": 4575820,
       "timestamp": "2026-09-04T15:48:08.435558+00:00"
     }
+  },
+  "best-air-purifier-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-05T03:36:50.399268+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-05T03:37:25.399536+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-05T03:37:25.399658+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-air-purifier-under-15000-in-india-2026-real-hepa-picks-that-cut-pm25-15lb",
+      "id": 4579186,
+      "timestamp": "2026-09-05T03:37:26.721550+00:00"
+    }
+  },
+  "best-ceiling-fan-under-2000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-05T03:38:36.736563+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-05T03:39:11.736857+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-05T03:39:11.736944+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ceiling-fan-under-2000-in-india-2026-top-budget-picks-that-actually-cool-531p",
+      "id": 4579193,
+      "timestamp": "2026-09-05T03:39:13.196544+00:00"
+    }
+  },
+  "best-trimmer-under-3000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-05T03:40:23.211956+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-05T03:40:58.212833+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-05T03:40:58.212915+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-trimmer-under-3000-in-india-2026-premium-picks-worth-the-upgrade-53b5",
+      "id": 4579200,
+      "timestamp": "2026-09-05T03:40:59.613424+00:00"
+    }
   }
 }
