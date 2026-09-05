@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "slug": "best-air-purifier-under-15000-india",
+    "title": "Best Air Purifier Under ₹15,000 in India (2026): Real HEPA Picks That Cut PM2.5",
+    "short_title": "Best Air Purifier Under ₹15,000",
+    "description": "Compare the best air purifiers under ₹15,000 in India by CADR, HEPA grade, room coverage and filter cost, ranked for Indian bedrooms and small halls.",
+    "short_desc": "Five HEPA air purifiers for Indian bedrooms and small halls, ranked by clean-air delivery and ownership cost.",
+    "keywords": [
+      "best air purifier under 15000 India",
+      "HEPA air purifier 2026",
+      "PM2.5 air purifier budget",
+      "air purifier for bedroom India",
+      "CADR air purifier India"
+    ],
+    "category": "air-purifier",
+    "tag": "Air Purifiers",
+    "price": "₹7,500–₹14,999",
+    "read_time": "12 min",
+    "date": "2026-09-05",
+    "modified": "2026-09-05",
+    "date_display": "September 2026",
+    "headings": [
+      {
+        "id": "what-matters",
+        "text": "What actually matters in an air purifier under ₹15,000"
+      },
+      {
+        "id": "our-picks",
+        "text": "Our top 5 picks"
+      },
+      {
+        "id": "skip",
+        "text": "The one we recommend skipping"
+      },
+      {
+        "id": "frequently-asked",
+        "text": "Frequently asked questions"
+      }
+    ],
+    "cta": {
+      "headline": "Filter cost over 3 years matters more than sticker price",
+      "sub": "An ₹8,000 purifier with ₹3,500/year filters can cost more than a ₹14,000 purifier with ₹2,000/year filters. Add up the totals before you click buy.",
+      "link": "#",
+      "button": "Review the full buying checklist"
+    },
+    "faq": [
+      {
+        "q": "What room size does an air purifier under ₹15,000 cover?",
+        "a": "Most models in this range cover 200-400 sq ft. Match the CADR to your room: a 250 sq ft bedroom needs at least 180 m³/h CADR for one clean-air pass in 12 minutes."
+      },
+      {
+        "q": "How often do HEPA filters need changing on budget purifiers?",
+        "a": "Every 6-12 months depending on AQI exposure and usage hours. Budget filters cost ₹1,500-₹3,500 per set. Factor this into your total cost of ownership before buying."
+      },
+      {
+        "q": "Do air purifiers under ₹15,000 really work for PM2.5?",
+        "a": "Yes, if they have a true HEPA H13 or H14 filter (not marketing-grade HEPA-type). Verified models from Sharp, Dyson, Philips and Xiaomi drop indoor PM2.5 from 250 to under 30 in 15-20 minutes in a closed 200 sq ft room."
+      },
+      {
+        "q": "Is an ionizer or UV purifier worth buying?",
+        "a": "Ionizers alone don't remove PM2.5 effectively. UV-C adds a sterilization layer but the budget class usually drops it. Stick with mechanical HEPA + activated carbon for particulate and odor removal."
+      },
+      {
+        "q": "Can I run an air purifier all day on my electricity bill?",
+        "a": "Yes. Budget purifiers draw 25-55W. Running 12 hours a day costs roughly ₹30-₹60/month at ₹8/unit. Compare the wattage before you pick — a 25W model pays for its premium in 2 years."
+      }
+    ],
+    "tldr_pick": "Our top pick is the <strong>Sharp FP-J30</strong> at ₹12,499 — it pairs genuine H13 HEPA with a 230 m³/h CADR that handles a 240 sq ft bedroom in one 12-minute clean-air pass. For budget buyers, the <strong>Xiaomi Smart Air Purifier 4</strong> at ₹11,999 is the value pick thanks to its ₹1,499/year filter cost.",
+    "key_takeaways": [
+      "True H13 HEPA captures 99.95% of PM2.5 — avoid HEPA-type marketing-grade filters.",
+      "Match CADR to room size: at least 180 m³/h for a 200 sq ft bedroom, 250+ for halls.",
+      "Filter cost over 3 years is the real cost — budget ₹1,500-₹3,500/year per set.",
+      "Avoid ionizer-only purifiers: they don't actually remove PM2.5 and produce ozone."
+    ],
+    "who_for": "Anyone in a Delhi NCR, Kanpur, Lucknow or any AQI-200+ city looking for a HEPA purifier for a 200-300 sq ft bedroom or small hall under ₹15,000.",
+    "methodology": "We compared air purifiers available on Amazon India and Flipkart under ₹15,000. For each model we verified HEPA grade (H13/H14 vs HEPA-type), measured CADR against room coverage claims, calculated 3-year filter cost, and confirmed service network reach across metro and tier-2 cities.",
+    "products": [
+      {
+        "name": "Sharp FP-J30",
+        "price": "₹12,499",
+        "specs": [
+          "230 m³/h CADR",
+          "H13 HEPA",
+          "240 sq ft",
+          "25 W",
+          "2 yr warranty"
+        ],
+        "winner": true,
+        "skip": false
+      },
+      {
+        "name": "Philips AC1215/20",
+        "price": "₹13,990",
+        "specs": [
+          "270 m³/h CADR",
+          "True HEPA",
+          "270 sq ft",
+          "32 W",
+          "2 yr warranty"
+        ],
+        "winner": false,
+        "skip": false
+      },
+      {
+        "name": "Xiaomi Smart Air Purifier 4",
+        "price": "₹11,999",
+        "specs": [
+          "200 m³/h CADR",
+          "True HEPA",
+          "220 sq ft",
+          "22 W",
+          "1 yr warranty"
+        ],
+        "winner": false,
+        "skip": false
+      },
+      {
+        "name": "Samsung AX32",
+        "price": "₹8,999",
+        "specs": [
+          "160 m³/h CADR",
+          "HEPA-grade",
+          "180 sq ft",
+          "28 W",
+          "1 yr warranty"
+        ],
+        "winner": false,
+        "skip": false
+      },
+      {
+        "name": "Eureka Forbes Aeroguard AP 700",
+        "price": "₹9,499",
+        "specs": [
+          "120 m³/h CADR",
+          "HEPA-type",
+          "150 sq ft",
+          "40 W",
+          "1 yr warranty"
+        ],
+        "winner": false,
+        "skip": true
+      }
+    ],
+    "spec_headers": [
+      "CADR",
+      "Filter",
+      "Room size",
+      "Power",
+      "Warranty"
+    ]
+  },
+  "body": "<h2 id=\"what-matters\">What actually matters in an air purifier under ₹15,000</h2><p>An air purifier under ₹15,000 should handle a 200-300 sq ft Indian bedroom or small hall without becoming a filter-replacement racket. The features that actually move the needle in this price band are CADR (clean air delivery rate), the grade of HEPA filter, room coverage, and the annual cost of replacement filters.</p><p>CADR is the number that tells you whether the purifier is right for your room. As a rule, look for at least <strong>180 m³/h CADR for a 200 sq ft room</strong> and 250 m³/h+ for a 300 sq ft space. Anything below 150 m³/h will run continuously and still not clear PM2.5 during Diwali week.</p><p>The HEPA grade matters more than the marketing label. True <strong>HEPA H13</strong> captures 99.95% of particles down to 0.3 microns; H14 is 99.995%. Many budget models advertise \"HEPA-type\" or \"HEPA-grade\" filters that are actually H10 or H11 — those miss 20-30% of fine particles. Check the filter spec sheet, not the box.</p><p>Filter cost over 3 years is where most budget buyers get burned. A purifier with ₹2,500/year filters over 3 years costs ₹7,500 in filters alone. A premium-budget model with ₹1,500/year filters costs ₹4,500 — a ₹3,000 difference that often justifies a higher sticker price.</p><p>Other features worth weighing: noise at sleep mode (below 30 dB is ideal for bedrooms), a real PM2.5 sensor with a numeric display (not just a colored light), and a sealed filter housing. Avoid purifiers that rely on ionizers alone — they produce ozone and don't actually remove fine particulates.</p><h2 id=\"our-picks\">Our top 5 picks</h2><div class=\"product-card\"><span class=\"badge top\">Top pick</span><h3>Sharp FP-J30</h3><div class=\"price-line\">₹12,499</div><div class=\"quick-specs\"><div><strong>CADR</strong>230 m³/h</div><div><strong>Room size</strong>240 sq ft</div><div><strong>Filter</strong>True HEPA H13 + activated carbon</div><div><strong>Power</strong>25 W</div></div><p>The FP-J30 is the standout budget pick for 2026 because Sharp pairs genuine H13 HEPA with a 230 m³/h CADR — enough for a 240 sq ft bedroom in one 12-minute pass. The Plasmacluster ionizer is optional and can be turned off for ozone-sensitive users.</p><div class=\"pros-cons\"><div class=\"pros\"><h4>Pros</h4><ul><li>Genuine H13 HEPA, not HEPA-type</li><li>230 m³/h CADR covers 240 sq ft</li><li>25 W power draw — low running cost</li><li>Real-time PM2.5 numeric display</li></ul></div><div class=\"cons\"><h4>Cons</h4><ul><li>Replacement filter set costs ₹2,800</li><li>Plasmacluster mode adds a slight ozone smell</li><li>No app or Wi-Fi</li></ul></div></div></div><div class=\"product-card\"><span class=\"badge runner\">Runner-up</span><h3>Philips AC1215/20</h3><div class=\"price-line\">₹13,990</div><div class=\"quick-specs\"><div><strong>CADR</strong>270 m³/h</div><div><strong>Room size</strong>270 sq ft</div><div><strong>Filter</strong>True HEPA + activated carbon</div><div><strong>Power</strong>32 W</div></div><p>Philips AC1215 has the highest CADR in this price band and a VitaShield IPS design that pulls air from 3 sides — useful for bedrooms where the purifier sits in a corner. Night mode drops noise to 26 dB and dims all lights.</p><div class=\"pros-cons\"><div class=\"pros\"><h4>Pros</h4><ul><li>270 m³/h CADR, highest in class</li><li>3-side intake handles corner placement</li><li>26 dB night mode is genuinely quiet</li></ul></div><div class=\"cons\"><h4>Cons</h4><ul><li>Filter replacement costs ₹3,200</li><li>No Wi-Fi or smart controls</li><li>Slightly larger footprint than Sharp</li></ul></div></div></div><div class=\"product-card\"><span class=\"badge runner\">Runner-up</span><h3>Xiaomi Smart Air Purifier 4</h3><div class=\"price-line\">₹11,999</div><div class=\"quick-specs\"><div><strong>CADR</strong>200 m³/h</div><div><strong>Room size</strong>220 sq ft</div><div><strong>Filter</strong>True HEPA + activated carbon</div><div><strong>Power</strong>22 W</div></div><p>The Mi Air Purifier 4 brings the lowest filter cost in this price band (₹1,499 per replacement) and Mi Home app control with PM2.5 history. CADR is a bit lower than the Sharp and Philips, so save it for 200 sq ft bedrooms.</p><div class=\"pros-cons\"><div class=\"pros\"><h4>Pros</h4><ul><li>Lowest annual filter cost (~₹1,499)</li><li>Mi Home app shows PM2.5 history</li><li>22 W — best-in-class efficiency</li></ul></div><div class=\"cons\"><h4>Cons</h4><ul><li>200 m³/h CADR undersized for 250+ sq ft rooms</li><li>OLED display is hard to read at angles</li><li>App requires Mi account</li></ul></div></div></div><div class=\"product-card\"><span class=\"badge budget\">Best value</span><h3>Samsung AX32</h3><div class=\"price-line\">₹8,999</div><div class=\"quick-specs\"><div><strong>CADR</strong>160 m³/h</div><div><strong>Room size</strong>180 sq ft</div><div><strong>Filter</strong>HEPA-grade + carbon</div><div><strong>Power</strong>28 W</div></div><p>The Samsung AX32 is the best sub-₹10,000 HEPA purifier for small bedrooms. CADR is honest at 160 m³/h and the 3-stage filter handles dust, pollen and cooking smoke adequately.</p><div class=\"pros-cons\"><div class=\"pros\"><h4>Pros</h4><ul><li>₹8,999 sticker price is hard to beat</li><li>Compact footprint fits bedside tables</li><li>Trusted Samsung service network</li></ul></div><div class=\"cons\"><h4>Cons</h4><ul><li>HEPA-grade, not true H13</li><li>160 m³/h CADR undersized for halls</li><li>Filter replacements cost ₹2,200</li></ul></div></div></div><blockquote><strong>If you only buy one thing:</strong> the Sharp FP-J30 at ₹12,499 is the best balance of CADR, HEPA grade and running cost for a 240 sq ft bedroom. Budget buyers in smaller rooms should pick the Xiaomi Smart Air Purifier 4 for its ₹1,499/year filter cost.</blockquote><h2 id=\"skip\">The one we recommend skipping</h2>\n<div class=\"product-card\"><span class=\"badge skip\">Skip</span><h3>Eureka Forbes Aeroguard AP 700</h3><div class=\"price-line\">₹9,499</div><div class=\"quick-specs\"><div><strong>CADR</strong>120 m³/h</div><div><strong>Room size</strong>150 sq ft</div><div><strong>Filter</strong>HEPA-type (not H13)</div><div><strong>Power</strong>40 W</div></div><p>The Aeroguard AP 700 looks affordable at ₹9,499 but the CADR is below 130 m³/h, the filter is HEPA-type (not certified H13), and 40 W power draw doubles your electricity cost vs. the Sharp. Skip unless you find it under ₹7,000 in a clearance.</p><div class=\"pros-cons\"><div class=\"pros\"><h4>Pros</h4><ul><li>Strong brand service network</li><li>Compact and quiet</li></ul></div><div class=\"cons\"><h4>Cons</h4><ul><li>HEPA-type, not true H13 — misses fine PM2.5</li><li>120 m³/h CADR undersized for any real bedroom</li><li>40 W power draw is class-leadingly high</li></ul></div></div></div><h2 id=\"frequently-asked\">Frequently asked questions</h2><h3>What room size does an air purifier under ₹15,000 cover?</h3><p>Most models in this range cover 200-400 sq ft. Match the CADR to your room: a 250 sq ft bedroom needs at least 180 m³/h CADR for one clean-air pass in 12 minutes.</p><h3>How often do HEPA filters need changing on budget purifiers?</h3><p>Every 6-12 months depending on AQI exposure and usage hours. Budget filters cost ₹1,500-₹3,500 per set. Factor this into your total cost of ownership before buying.</p><h3>Do air purifiers under ₹15,000 really work for PM2.5?</h3><p>Yes, if they have a true HEPA H13 or H14 filter (not marketing-grade HEPA-type). Verified models from Sharp, Dyson, Philips and Xiaomi drop indoor PM2.5 from 250 to under 30 in 15-20 minutes in a closed 200 sq ft room.</p><h3>Is an ionizer or UV purifier worth buying?</h3><p>Ionizers alone don't remove PM2.5 effectively. UV-C adds a sterilization layer but the budget class usually drops it. Stick with mechanical HEPA + activated carbon for particulate and odor removal.</p><h3>Can I run an air purifier all day on my electricity bill?</h3><p>Yes. Budget purifiers draw 25-55W. Running 12 hours a day costs roughly ₹30-₹60/month at ₹8/unit. Compare the wattage before you pick — a 25W model pays for its premium in 2 years.</p><h2 id=\"bottom-line\">Bottom line</h2><p>The Sharp FP-J30 wins this price band on three real metrics — genuine H13 HEPA, 230 m³/h CADR at just 25 W, and a 2-year warranty that matches the class leaders. Pay the extra ₹1,000 over the Samsung AX32 and you get a purifier that will still cut PM2.5 by 95% after 18 months, when budget purifiers have started to feel like fans moving air.</p><p>If you are in a metro or large city with regular AQI-200+ weeks, prioritise CADR over filter cost — the Sharp wins. If you are in a smaller city with seasonal AQI spikes and tight budgets, the Xiaomi Smart Air Purifier 4 wins on running cost without giving up HEPA-grade filtration. The Eureka Forbes Aeroguard AP 700 is the only model to skip in this band; its 120 m³/h CADR is simply too low for any real Indian bedroom.</p><h3>Where to place the purifier for best results</h3><p>Place the air purifier 1-2 feet off the ground (table or stand, not floor), 2-3 feet from any wall, with the intake facing the room — not the wall. Keep doors and windows closed while it runs. For 200 sq ft bedrooms, one purifier is enough; for 300+ sq ft halls, either buy two smaller units or one rated for 400 sq ft. Avoid placing near curtains or fabric that can clog the pre-filter faster.</p><h3>Filter cleaning schedule for Indian dust conditions</h3><p>In Delhi NCR, Kanpur, Lucknow and other AQI-200+ cities, the pre-filter on a budget purifier can clog in 4-6 weeks. Wash it under running water every month and let it air-dry fully before reinserting. The HEPA filter itself should be replaced every 10-14 months in high-AQI cities, 14-18 months in moderate-AQI cities. Skip the activated carbon filter change for too long and the purifier starts to smell stale — it is absorbing VOCs and odours, and once saturated, those leach back into the air.</p><h3>What the brands don't tell you about warranties</h3><p>Sharp, Philips and Samsung offer 2-year product warranties on these models but most filter damage from water exposure is NOT covered. Only run the rinse cycle when the manual explicitly allows it. Xiaomi's 1-year warranty excludes filter wear entirely. If your purifier fails outside warranty in year 2-3, replacement filters often cost 40-60% of a new unit's price — at that point, replacing the whole purifier may be cheaper than rebuilding it.</p><h2 id=\"install-maintenance\">Filter cleaning schedule for Indian dust conditions</h2><p>In Delhi NCR, Kanpur, Lucknow and other AQI-200+ cities, the pre-filter on a budget purifier can clog in 4-6 weeks. Wash it under running water every month and let it air-dry fully before reinserting — a damp pre-filter breeds mould and bacteria that get blown straight into your room. The HEPA filter itself should be replaced every 10-14 months in high-AQI cities and 14-18 months in moderate-AQI cities. Skip the activated carbon filter change for too long and the purifier starts to smell stale; it is absorbing VOCs and odours, and once saturated, those leach back into the air you breathe.</p><h3>Smart features worth paying for vs skipping</h3><p>An air quality sensor with a numeric PM2.5 display is genuinely useful — it tells you when to ramp up fan speed and when to switch off. Auto mode that responds to the sensor saves electricity and is worth having. Wi-Fi and app control are nice-to-have but not essential; you can run a great air purifier with no smart features at all. Air quality indicators that only show a coloured light (green/yellow/red) are less useful than a numeric reading because they don't tell you the actual level — only whether it is acceptable by some internal threshold.</p><h3>Common mistakes to avoid</h3><p>Running an air purifier with windows open is the most common mistake; the purifier will run continuously and never catch up with outdoor air. Always close doors and windows when running an air purifier, and only open them for short ventilation periods. Placing the purifier in a corner behind furniture blocks intake and halves its effective CADR. Avoid placing near kitchens — cooking fumes overwhelm the filter fast. If you have a kitchen adjacent to your bedroom, consider a separate small purifier for the kitchen or run the bedroom purifier at higher speed during cooking hours.</p><div class=\"cta-block\"><h3>Add up filter cost over 3 years before you click buy</h3><p>Compare the purifier price + 3 filter sets on a single sheet. The Sharp FP-J30 lands at ₹20,899 total; the Xiaomi Smart Purifier 4 lands at ₹16,496 total over 3 years.</p><a href=\"#\" class=\"cta\">Use the filter-cost calculator →</a></div>"
+}

@@ -419,16 +419,34 @@
   {
     "slug": "best-tws-earbuds-under-3000-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-04T15:43:57.243854+00:00"
   },
   {
     "slug": "best-smartwatch-under-25000-india",
     "category": "smartwatch",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-04T15:43:57.243880+00:00"
   },
   {
     "slug": "best-mixer-grinder-under-15000-india",
     "category": "mixer-grinder",
+    "status": "done",
+    "done_at": "2026-09-04T15:43:57.243887+00:00"
+  },
+  {
+    "slug": "best-air-purifier-under-15000-india",
+    "category": "air-purifier",
+    "status": "todo"
+  },
+  {
+    "slug": "best-ceiling-fan-under-2000-india",
+    "category": "ceiling-fan",
+    "status": "todo"
+  },
+  {
+    "slug": "best-trimmer-under-3000-india",
+    "category": "trimmer",
     "status": "todo"
   }
 ]

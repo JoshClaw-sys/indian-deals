@@ -1500,5 +1500,74 @@
       "reason": "DEVTO_API_KEY not set",
       "timestamp": "2026-09-02T03:41:43.306887+00:00"
     }
+  },
+  "best-tws-earbuds-under-3000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-04T15:43:58.034075+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-04T15:44:33.034337+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-04T15:44:33.034428+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-tws-earbuds-under-3000-in-india-2026-real-anc-real-battery-real-calls-4h10",
+      "id": 4575798,
+      "timestamp": "2026-09-04T15:44:34.712353+00:00"
+    }
+  },
+  "best-smartwatch-under-25000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-04T15:45:45.125458+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-04T15:46:20.125718+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-04T15:46:20.125776+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-smartwatch-under-25000-in-india-2026-amoled-gps-and-7-day-battery-23a5",
+      "id": 4575810,
+      "timestamp": "2026-09-04T15:46:22.055455+00:00"
+    }
+  },
+  "best-mixer-grinder-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-04T15:47:32.068943+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-04T15:48:07.069222+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-04T15:48:07.069294+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-mixer-grinder-under-15000-in-india-2026-powerful-motors-that-grind-real-indian-food-5f9n",
+      "id": 4575820,
+      "timestamp": "2026-09-04T15:48:08.435558+00:00"
+    }
   }
 }
