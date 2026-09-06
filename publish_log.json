@@ -1638,5 +1638,74 @@
       "id": 4579200,
       "timestamp": "2026-09-05T03:40:59.613424+00:00"
     }
+  },
+  "best-phone-under-20000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-06T03:35:06.572862+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-06T03:35:41.573145+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-06T03:35:41.573239+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-phone-under-20000-in-india-2026-6-models-that-punch-above-their-price-3820",
+      "id": 4585550,
+      "timestamp": "2026-09-06T03:35:43.123057+00:00"
+    }
+  },
+  "best-1-5-ton-ac-under-45000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-06T03:36:53.139477+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-06T03:37:28.139789+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-06T03:37:28.139873+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-15-ton-ac-under-45000-in-india-2026-5-inverter-split-acs-ranked-56g1",
+      "id": 4585553,
+      "timestamp": "2026-09-06T03:37:29.398106+00:00"
+    }
+  },
+  "best-front-load-washing-machine-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-06T03:38:39.414642+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-06T03:39:14.414940+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-06T03:39:14.415023+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-front-load-washing-machine-in-india-2026-6-models-that-actually-clean-2cdh",
+      "id": 4585559,
+      "timestamp": "2026-09-06T03:39:15.725094+00:00"
+    }
   }
 }

@@ -455,16 +455,19 @@
   {
     "slug": "best-phone-under-20000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-06T03:35:05.792537+00:00"
   },
   {
     "slug": "best-1-5-ton-ac-under-45000-india",
     "category": "ac",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-06T03:35:05.792573+00:00"
   },
   {
     "slug": "best-front-load-washing-machine-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-06T03:35:05.792587+00:00"
   }
 ]
