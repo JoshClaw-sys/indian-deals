@@ -1,0 +1,160 @@
+{
+  "slug": "best-phone-under-20000-india",
+  "title": "Best Phone Under ₹20,000 in India (2026): 6 Models That Punch Above Their Price",
+  "short_title": "Best Phone Under ₹20,000",
+  "description": "Ranked: the 6 best phones under ₹20,000 in India for 2026. Compare AMOLED, 5G, camera, battery and chipset across Redmi, Realme, Samsung and more.",
+  "short_desc": "Six phones that punch above ₹20,000 -- and one to skip.",
+  "keywords": [
+    "best phone under 20000 India",
+    "smartphone under 20000 India 2026",
+    "5G phone under 20000",
+    "Redmi Note 14 Pro",
+    "Samsung Galaxy M35"
+  ],
+  "category": "smartphones",
+  "tag": "Smartphones",
+  "price": "₹12,999–₹19,999",
+  "read_time": "9 min",
+  "date": "2026-09-06",
+  "modified": "2026-09-06",
+  "date_display": "September 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a phone under ₹20,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our picks: 6 phones that punch above their price"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want the full spreadsheet?",
+    "sub": "Compare 30+ phones side-by-side -- chipset, battery, charging, real camera samples.",
+    "link": "#",
+    "button": "Get the comparison sheet"
+  },
+  "faq": [
+    {
+      "q": "Is 5G worth it on a phone under ₹20,000?",
+      "a": "Yes -- every phone in this list supports 5G, and Jio/Airtel 5G is now live in most metros. Hold on to a 5G phone for the next 3 years."
+    },
+    {
+      "q": "Which is better: AMOLED or LCD under ₹20,000?",
+      "a": "AMOLED -- the colours, blacks, and in-display fingerprint readers on AMOLED are noticeably better. Every pick on this list uses AMOLED except the budget option."
+    },
+    {
+      "q": "How much RAM do I actually need?",
+      "a": "8 GB minimum in 2026. 6 GB will work but you'll see apps reload when switching between heavy ones. All six picks here have 8 GB or more."
+    },
+    {
+      "q": "Should I wait for the next Redmi Note launch?",
+      "a": "Not unless your current phone is broken. The Redmi Note 14 series is already in this list, and prices will drop ₹1,000-2,000 in October once stocks settle."
+    }
+  ],
+  "tldr_pick": "The <strong>Redmi Note 14 Pro+ 5G</strong> is the best phone under ₹20,000 in India -- it ships with a Snapdragon 7s Gen 2, a 200 MP main camera with OIS, and a 1.5K AMOLED screen. Buy it at ₹19,999 on Mi.com.",
+  "key_takeaways": [
+    "<strong>AMOLED + 5G is now standard:</strong> skip any new phone in 2026 that ships with LCD or 4G.",
+    "<strong>Skip the Tecno Pova 6 Pro:</strong> ₹17,999 for a heavy, plastic phone with a dim screen -- better value exists.",
+    "<strong>8 GB RAM minimum:</strong> 6 GB will feel sluggish within 12 months of WhatsApp-heavy use.",
+    "<strong>67W+ charging is the sweet spot:</strong> 0 to 100% in under 45 minutes -- life-changing if you forget to charge overnight."
+  ],
+  "who_for": "Anyone buying a phone between ₹15,000 and ₹20,000 in 2026 -- first-time 5G buyers, students, parents upgrading from a 3-year-old budget phone, or anyone who wants flagship-grade cameras without paying ₹40,000+.",
+  "methodology": "We compared 9 phones priced ₹12,999 to ₹19,999 on Amazon India and Flipkart in September 2026. For each, we evaluated chipset performance (AnTuTu/geekbench where published), display quality (panel type, peak brightness, refresh rate), camera sensor size and OIS, charging speed, battery capacity, and user-reported reliability. Picks were cross-checked against GSMArena specs and current sale pricing.",
+  "products": [
+    {
+      "name": "Redmi Note 14 Pro+ 5G",
+      "price": "₹19,999",
+      "specs": [
+        "Snapdragon 7s Gen 2",
+        "200 MP + OIS",
+        "1.5K AMOLED 120Hz",
+        "90W",
+        "5100 mAh"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Realme 13 Pro+ 5G",
+      "price": "₹19,999",
+      "specs": [
+        "Dimensity 7050",
+        "50 MP Sony LYT-701",
+        "FHD+ AMOLED 120Hz",
+        "67W",
+        "5200 mAh"
+      ]
+    },
+    {
+      "name": "Samsung Galaxy M35 5G",
+      "price": "₹19,499",
+      "specs": [
+        "Exynos 1380",
+        "50 MP OIS",
+        "FHD+ sAMOLED 120Hz",
+        "25W",
+        "6000 mAh"
+      ]
+    },
+    {
+      "name": "iQOO Z9 5G",
+      "price": "₹17,999",
+      "specs": [
+        "Dimensity 7200",
+        "50 MP Sony IMX882",
+        "FHD+ AMOLED 120Hz",
+        "44W",
+        "5000 mAh"
+      ]
+    },
+    {
+      "name": "Poco X6 5G",
+      "price": "₹15,999",
+      "specs": [
+        "Snapdragon 7s Gen 2",
+        "64 MP OIS",
+        "1.5K AMOLED 120Hz",
+        "67W",
+        "5100 mAh"
+      ]
+    },
+    {
+      "name": "Motorola G85 5G",
+      "price": "₹15,999",
+      "specs": [
+        "Snapdragon 6s Gen 3",
+        "50 MP OIS",
+        "FHD+ pOLED 120Hz",
+        "33W",
+        "5000 mAh"
+      ]
+    },
+    {
+      "name": "Tecno Pova 6 Pro 5G",
+      "price": "₹17,999",
+      "specs": [
+        "Dimensity 6080",
+        "108 MP",
+        "FHD+ AMOLED 120Hz",
+        "70W",
+        "6000 mAh"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Chipset",
+    "Main Camera",
+    "Display",
+    "Charging",
+    "Battery"
+  ]
+}
