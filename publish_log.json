@@ -1707,5 +1707,74 @@
       "id": 4585559,
       "timestamp": "2026-09-06T03:39:15.725094+00:00"
     }
+  },
+  "best-65-inch-smart-tv-under-80000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-07T03:52:29.679617+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-07T03:53:04.680020+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-07T03:53:04.680148+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-65-inch-smart-tv-under-80000-in-india-2026-mini-led-picks-ranked-4i6d",
+      "id": 4591644,
+      "timestamp": "2026-09-07T03:53:06.695171+00:00"
+    }
+  },
+  "best-top-load-washing-machine-under-20000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-07T03:54:16.714077+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-07T03:54:51.714452+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-07T03:54:51.714550+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-top-load-washing-machine-under-20000-in-india-2026-5-picks-ranked-2ng3",
+      "id": 4591648,
+      "timestamp": "2026-09-07T03:54:52.800198+00:00"
+    }
+  },
+  "best-side-by-side-refrigerator-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-07T03:56:02.819722+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-07T03:56:37.820039+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-07T03:56:37.820156+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-side-by-side-refrigerator-in-india-2026-5-picks-from-60000-3f57",
+      "id": 4591652,
+      "timestamp": "2026-09-07T03:56:39.586739+00:00"
+    }
   }
 }

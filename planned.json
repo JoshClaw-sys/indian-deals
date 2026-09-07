@@ -473,16 +473,19 @@
   {
     "slug": "best-65-inch-smart-tv-under-80000-india",
     "category": "tv",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-07T03:52:28.815045+00:00"
   },
   {
     "slug": "best-top-load-washing-machine-under-20000-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-07T03:52:28.815080+00:00"
   },
   {
     "slug": "best-side-by-side-refrigerator-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-07T03:52:28.815093+00:00"
   }
 ]
