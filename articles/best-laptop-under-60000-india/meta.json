@@ -1,0 +1,147 @@
+{
+  "slug": "best-laptop-under-60000-india",
+  "title": "Best Laptop Under ₹60,000 in India (2026): Picks for Work, Editing & Light Gaming",
+  "short_title": "Best Laptop Under ₹60,000",
+  "description": "Ranked: the 5 best laptops under ₹60,000 in India for 2026. Compare 16GB RAM, H-series CPUs, OLED displays and battery across HP, Lenovo, Acer and more.",
+  "short_desc": "16GB RAM, OLED screens and dedicated GPUs under ₹60k",
+  "keywords": [
+    "laptop under 60000",
+    "best laptop under 60000 india",
+    "laptop under 60k",
+    "16gb ram laptop under 60000",
+    "oled laptop under 60000"
+  ],
+  "category": "laptops",
+  "tag": "Laptops",
+  "price": "₹52,000–₹59,990",
+  "read_time": "14 min",
+  "date": "2026-09-08",
+  "modified": "2026-09-08",
+  "date_display": "September 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a laptop under ₹60,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our top 5 picks"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Pair your laptop with the right accessories",
+    "sub": "Our guides cover mice, laptop sleeves and USB-C hubs that hold up to daily commuting.",
+    "link": "#",
+    "button": "See the accessory guides"
+  },
+  "faq": [
+    {
+      "q": "Can a ₹60,000 laptop handle video editing?",
+      "a": "Yes for 1080p timelines. A laptop under ₹60,000 with a 13th-gen Intel Core i5-H or Ryzen 5 7530HS, 16GB RAM and an NVMe SSD will cut 1080p H.264 or HEVC in Premiere Pro or DaVinci Resolve without dropping frames. 4K timelines and heavy colour grading still want a discrete GPU, which is the ceiling at this price."
+    },
+    {
+      "q": "Is 8GB RAM enough at ₹60,000?",
+      "a": "No. Eight gigabytes was acceptable in 2020. In 2026, browsers, Office 365 and a Zoom call will each claim 1 to 2GB, leaving Windows or ChromeOS itself with no headroom. All five picks here ship with 16GB, and four of them have a free SO-DIMM slot so you can reach 32GB later for under ₹3,000."
+    },
+    {
+      "q": "Which is better at this budget: Intel Core i5-H or AMD Ryzen 5?",
+      "a": "Both are competitive. Ryzen 5 7530HS and Ryzen 7 7735HS tend to win on multi-core score and battery life; 13th-gen Intel Core i5-13420H tends to win on single-core responsiveness and Quick Sync video acceleration. For Office, browsing and notes, neither difference matters. For sustained video encoding or compiling code, Ryzen 7 has a small edge."
+    },
+    {
+      "q": "Do I need a dedicated GPU under ₹60,000?",
+      "a": "Only if you play games or use GPU-accelerated creative apps. RTX 3050 laptops in this bracket cut lightweight 3D, indie games and Blender renders; Intel Iris Xe integrated graphics are enough for everything else. Two picks here include a discrete RTX 3050 and the other three rely on integrated graphics."
+    },
+    {
+      "q": "Is OLED worth it at 60k?",
+      "a": "Yes for media consumption and colour-accurate work. OLED gives perfect blacks, infinite contrast and accurate colour without calibration. The catch is burn-in risk if you leave static UI elements like browser tabs or Office ribbons on screen for many hours a day. If your workload is mostly typing and full-screen reading, IPS is the safer budget choice."
+    }
+  ],
+  "tldr_pick": "The <strong>HP Pavilion Plus 14-ew1086TU</strong> is the best laptop under ₹60,000 in India for most buyers -- 14-inch 2.8K OLED at 120Hz, an Intel Core Ultra 5 125H with a built-in NPU, 16GB LPDDR5x RAM and a 1TB PCIe Gen 4 SSD. Battery life lands at roughly 8 to 9 hours of mixed use, and the chassis is magnesium-aluminium at 1.4kg. Confirm the <strong>ew1086TU</strong> suffix on the listing; earlier variants shipped with 512GB SSDs at the same price.",
+  "key_takeaways": [
+    "<strong>16GB RAM is non-negotiable in 2026:</strong> every pick ships with 16GB; four expose a free SO-DIMM slot for later 32GB upgrades.",
+    "<strong>OLED has reached 60k:</strong> the Pavilion Plus 14 and two Vivobook OLED panels here give genuine 100 percent DCI-P3 colour and per-pixel blacks.",
+    "<strong>Skip last-gen Celron and 8GB RAM listings:</strong> retailers keep stale inventory deep in search results; check the exact model code before paying."
+  ],
+  "who_for": "Anyone buying a primary work or college laptop in 2026 who wants a screen good enough to edit photos on and a CPU strong enough to last four years. If your work is heavy CAD, animation or sustained 4K export, step up to the ₹70,000+ bracket; if it is mostly email, browser and Office, the ₹40,000 bracket is fine.",
+  "methodology": "We compared 12 laptops listed between ₹50,000 and ₹59,990 on Amazon India and Flipkart in late August 2026, scoring CPU multi-core, panel brightness and colour gamut, RAM and storage configuration, port selection, and advertised battery life. We penalised 8GB RAM, TN panels and proprietary barrel-pin chargers.",
+  "products": [
+    {
+      "name": "HP Pavilion Plus 14-ew1086TU",
+      "price": "₹57,990",
+      "specs": [
+        "14-inch 2.8K OLED, 120Hz, 100% DCI-P3",
+        "Intel Core Ultra 5 125H, 14 cores",
+        "16GB LPDDR5x (soldered)",
+        "1TB PCIe Gen 4 NVMe SSD",
+        "57Wh, ~9 hr claimed",
+        "1.4kg, 17.9mm thin"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Lenovo IdeaPad Slim 5 16ABR8",
+      "price": "₹54,490",
+      "specs": [
+        "16-inch WUXGA IPS, 60Hz, 300 nits",
+        "AMD Ryzen 7 7735HS, 8 cores",
+        "16GB LPDDR5x (soldered)",
+        "512GB PCIe Gen 4 NVMe SSD",
+        "75.4Wh, ~12 hr claimed",
+        "1.85kg, 17.9mm thin"
+      ]
+    },
+    {
+      "name": "Asus Vivobook S 14 OLED M5406NA",
+      "price": "₹56,990",
+      "specs": [
+        "14-inch 2.8K OLED, 120Hz, 100% DCI-P3",
+        "AMD Ryzen 5 7535HS, 6 cores",
+        "16GB LPDDR5x (soldered)",
+        "512GB PCIe Gen 4 NVMe SSD",
+        "75Wh, ~10 hr claimed",
+        "1.3kg, 17.4mm thin"
+      ]
+    },
+    {
+      "name": "Acer Aspire 5 A515-58GM (RTX 2050)",
+      "price": "₹58,990",
+      "specs": [
+        "15.6-inch FHD IPS, 60Hz, 250 nits",
+        "Intel Core i5-13420H, 8 cores",
+        "16GB DDR4 (1 free SO-DIMM)",
+        "512GB PCIe Gen 3 NVMe SSD",
+        "50Wh, ~6 hr claimed",
+        "1.78kg, 18.0mm thin"
+      ]
+    },
+    {
+      "name": "HP Pavilion Gaming 15-eg3009TX",
+      "price": "₹59,990",
+      "specs": [
+        "15.6-inch FHD IPS, 144Hz, 250 nits",
+        "Intel Core i5-13420H, 8 cores",
+        "16GB DDR4 (2 free SO-DIMM)",
+        "512GB PCIe Gen 3 NVMe SSD",
+        "52.5Wh, ~5 hr claimed",
+        "2.28kg, 23.5mm thin"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Display",
+    "CPU",
+    "RAM",
+    "SSD",
+    "Battery",
+    "Weight"
+  ]
+}

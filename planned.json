@@ -1,5 +1,20 @@
 [
   {
+    "slug": "best-trimmer-under-1500-india",
+    "category": "trimmer",
+    "status": "todo"
+  },
+  {
+    "slug": "best-55-inch-smart-tv-under-60000-india",
+    "category": "tv",
+    "status": "todo"
+  },
+  {
+    "slug": "best-laptop-under-60000-india",
+    "category": "laptops",
+    "status": "todo"
+  },
+  {
     "slug": "best-laptop-under-70000-india",
     "category": "laptops",
     "status": "done",
