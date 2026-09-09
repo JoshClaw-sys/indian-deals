@@ -1845,5 +1845,74 @@
       "id": 4602335,
       "timestamp": "2026-09-08T03:42:03.329129+00:00"
     }
+  },
+  "best-air-cooler-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-09T03:41:21.428113+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-09T03:41:56.428321+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-09T03:41:56.428375+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-air-cooler-under-rs-15000-in-india-2026-mid-premium-picks-that-beat-window-acs-d54",
+      "id": 4610829,
+      "timestamp": "2026-09-09T03:41:57.653991+00:00"
+    }
+  },
+  "best-storage-geyser-under-20000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-09T03:43:07.661843+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-09T03:43:42.662018+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-09T03:43:42.662071+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-storage-geyser-under-rs-20000-in-india-2026-25l-picks-for-big-families-3n37",
+      "id": 4610834,
+      "timestamp": "2026-09-09T03:43:43.449484+00:00"
+    }
+  },
+  "best-stick-vacuum-cleaner-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-09T03:44:53.457196+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-09T03:45:28.457362+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-09T03:45:28.457412+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-stick-vacuum-cleaner-in-india-2026-cordless-picks-that-actually-work-on-indian-floors-1e23",
+      "id": 4610840,
+      "timestamp": "2026-09-09T03:45:29.942248+00:00"
+    }
   }
 }
