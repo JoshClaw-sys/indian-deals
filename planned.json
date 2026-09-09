@@ -505,5 +505,20 @@
     "category": "refrigerator",
     "status": "done",
     "done_at": "2026-09-07T03:52:28.815093+00:00"
+  },
+  {
+    "slug": "best-air-cooler-under-15000-india",
+    "category": "air-cooler",
+    "status": "todo"
+  },
+  {
+    "slug": "best-storage-geyser-under-20000-india",
+    "category": "geyser",
+    "status": "todo"
+  },
+  {
+    "slug": "best-stick-vacuum-cleaner-india",
+    "category": "vacuum",
+    "status": "todo"
   }
 ]
