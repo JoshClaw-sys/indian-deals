@@ -527,16 +527,19 @@
   {
     "slug": "best-smartwatch-under-1500-india",
     "category": "smartwatch",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-10T03:43:35.790599+00:00"
   },
   {
     "slug": "best-premium-trimmer-india",
     "category": "trimmer",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-10T03:43:35.790625+00:00"
   },
   {
     "slug": "best-water-purifier-under-25000-india",
     "category": "water-purifier",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-10T03:43:35.790632+00:00"
   }
 ]

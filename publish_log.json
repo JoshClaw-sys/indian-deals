@@ -1914,5 +1914,74 @@
       "id": 4610840,
       "timestamp": "2026-09-09T03:45:29.942248+00:00"
     }
+  },
+  "best-smartwatch-under-1500-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-10T03:43:36.657370+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-10T03:44:11.657626+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-10T03:44:11.657703+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-smartwatch-under-1500-in-india-2026-5-picks-that-actually-pair-well-3m7n",
+      "id": 4619023,
+      "timestamp": "2026-09-10T03:44:12.485105+00:00"
+    }
+  },
+  "best-premium-trimmer-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-10T03:45:22.493938+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-10T03:45:57.494149+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-10T03:45:57.494203+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-premium-trimmer-in-india-2026-4-picks-worth-the-rs-3000-5000-price-576d",
+      "id": 4619027,
+      "timestamp": "2026-09-10T03:45:58.769631+00:00"
+    }
+  },
+  "best-water-purifier-under-25000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-10T03:47:08.777772+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-10T03:47:43.778023+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-10T03:47:43.778074+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-water-purifier-under-rs-25000-in-india-2026-4-rouv-picks-ranked-4p1p",
+      "id": 4619037,
+      "timestamp": "2026-09-10T03:47:45.315978+00:00"
+    }
   }
 }
