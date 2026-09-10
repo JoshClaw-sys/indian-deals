@@ -523,5 +523,20 @@
     "category": "vacuum",
     "status": "done",
     "done_at": "2026-09-09T03:41:20.831317+00:00"
+  },
+  {
+    "slug": "best-smartwatch-under-1500-india",
+    "category": "smartwatch",
+    "status": "todo"
+  },
+  {
+    "slug": "best-premium-trimmer-india",
+    "category": "trimmer",
+    "status": "todo"
+  },
+  {
+    "slug": "best-water-purifier-under-25000-india",
+    "category": "water-purifier",
+    "status": "todo"
   }
 ]
