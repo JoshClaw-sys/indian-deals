@@ -1983,5 +1983,74 @@
       "id": 4619037,
       "timestamp": "2026-09-10T03:47:45.315978+00:00"
     }
+  },
+  "best-air-purifier-under-30000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-11T03:37:49.670009+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-11T03:38:24.670759+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-11T03:38:24.670815+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-air-purifier-under-rs-30000-in-india-2026-real-cadr-picks-for-delhi-ncr-aqi-4p87",
+      "id": 4628167,
+      "timestamp": "2026-09-11T03:38:26.238503+00:00"
+    }
+  },
+  "best-hair-dryer-under-1500-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-11T03:39:36.246713+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-11T03:40:11.246954+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-11T03:40:11.247008+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-hair-dryer-under-rs-1500-in-india-2026-ionic-picks-for-indian-hair-types-b1k",
+      "id": 4628173,
+      "timestamp": "2026-09-11T03:40:13.611343+00:00"
+    }
+  },
+  "best-air-cooler-under-25000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-11T03:41:23.619526+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-11T03:41:58.619777+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-11T03:41:58.619829+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-air-cooler-under-rs-25000-in-india-2026-desert-coolers-for-large-rooms-3dj0",
+      "id": 4628180,
+      "timestamp": "2026-09-11T03:42:00.444487+00:00"
+    }
   }
 }
