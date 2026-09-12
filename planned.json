@@ -562,5 +562,20 @@
     "status": "done",
     "added_at": "2026-09-11T03:33:04.016712+00:00",
     "done_at": "2026-09-11T03:37:49.072410+00:00"
+  },
+  {
+    "slug": "best-phone-under-30000-india",
+    "category": "smartphones",
+    "status": "todo"
+  },
+  {
+    "slug": "best-single-door-fridge-under-15000-india",
+    "category": "refrigerator",
+    "status": "todo"
+  },
+  {
+    "slug": "best-soundbar-under-15000-india",
+    "category": "soundbar",
+    "status": "todo"
   }
 ]
