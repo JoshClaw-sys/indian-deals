@@ -2052,5 +2052,74 @@
       "id": 4628180,
       "timestamp": "2026-09-11T03:42:00.444487+00:00"
     }
+  },
+  "best-phone-under-30000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-12T03:32:54.396224+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-12T03:33:29.396471+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-12T03:33:29.396527+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-phone-under-rs-30000-in-india-2026-mid-range-picks-ranked-by-camera-and-battery-4n4a",
+      "id": 4636080,
+      "timestamp": "2026-09-12T03:33:30.890558+00:00"
+    }
+  },
+  "best-single-door-fridge-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-12T03:34:40.899226+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-12T03:35:15.899481+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-12T03:35:15.899540+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-single-door-fridge-under-rs-15000-in-india-2026-compact-picks-for-bachelors-and-small-52a7",
+      "id": 4636088,
+      "timestamp": "2026-09-12T03:35:17.259756+00:00"
+    }
+  },
+  "best-soundbar-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-12T03:36:27.268212+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-12T03:37:02.268426+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-12T03:37:02.268481+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-soundbar-under-rs-15000-in-india-2026-dolby-atmos-picks-for-living-rooms-4c9a",
+      "id": 4636097,
+      "timestamp": "2026-09-12T03:37:03.662298+00:00"
+    }
   }
 }
