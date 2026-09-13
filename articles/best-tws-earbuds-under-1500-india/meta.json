@@ -63,5 +63,74 @@
       "q": "Do all TWS work with iPhone and Android?",
       "a": "Yes for the standard SBC and AAC codecs. AptX support depends on the chipset and is rare below 1,500. Both iPhone and Android support SBC and AAC, which is what most TWS in this band use. The pairing experience is smooth on Android 10+ with Fast Pair; iPhone requires manual pairing via the case button."
     }
+  ],
+  "tldr_pick": "<strong>boAt Airdopes 141</strong> is the default TWS under 1,500 for 2026: BT 5.3, IPX4, ENC-tuned mic, USB-C charging and a bass-forward 8 mm driver tuned for Bollywood and Punjabi playlists. Outdoor runners who sweat heavily should pick the Boult X30 (IPX5). Podcast listeners who want balanced sound at the same price should pick the Mivi Duopods M40.",
+  "key_takeaways": [
+    "<strong>BT 5.3 is the floor</strong>; anything below BT 5.2 will struggle in crowded metro environments.",
+    "<strong>ENC mics matter more than ANC</strong> at this price band: clean voice on calls beats weak incoming noise cancellation.",
+    "<strong>USB-C charging is now standard</strong>; micro-USB cases in 2026 are a red flag.",
+    "<strong>Bass weight depends on the 8-10 mm driver</strong>: bigger does not mean better, tuning matters more."
+  ],
+  "who_for": "Commuters, students, working professionals taking calls on the move, and gym-goers in budget metro India. Audiophiles should expect meaningful limitations versus TWS above 5,000, but everyday listening on this list is genuinely usable.",
+  "methodology": "Ranked on BT chipset version, mic ENC quality, battery life at 70 percent volume, water resistance rating and service reach. Active Noise Cancellation excluded from ranking as it is rarely meaningful below 1,500.",
+  "products": [
+    {
+      "name": "boAt Airdopes 141",
+      "price": "1,100-1,400",
+      "specs": [
+        "8 mm dynamic",
+        "42 hr total, 6 hr per charge",
+        "IPX4",
+        "SBC, AAC"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Boult X30",
+      "price": "1,200-1,500",
+      "specs": [
+        "10 mm dynamic",
+        "40 hr total, 7 hr per charge",
+        "IPX5",
+        "SBC, AAC"
+      ]
+    },
+    {
+      "name": "Mivi Duopods M40",
+      "price": "1,000-1,300",
+      "specs": [
+        "6 mm dynamic",
+        "40 hr total, 5.5 hr per charge",
+        "IPX4",
+        "SBC, AAC"
+      ]
+    },
+    {
+      "name": "Noise Buds X",
+      "price": "1,200-1,500",
+      "specs": [
+        "10 mm dynamic",
+        "35 hr total, 6 hr per charge",
+        "IPX4",
+        "SBC, AAC"
+      ]
+    },
+    {
+      "name": "pTron Bassbuds EZW",
+      "price": "700-950",
+      "specs": [
+        "8 mm dynamic",
+        "20 hr total, 3.5 hr per charge",
+        "Not rated",
+        "SBC only"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Driver",
+    "Battery",
+    "IPX",
+    "Codec"
   ]
 }

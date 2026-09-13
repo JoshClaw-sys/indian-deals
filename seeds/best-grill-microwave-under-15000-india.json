@@ -20,10 +20,22 @@
     "modified": "2026-08-13",
     "date_display": "August 2026",
     "headings": [
-      {"id": "what-matters", "text": "What actually matters in a grill microwave under 15,000"},
-      {"id": "our-picks", "text": "Our top 4 picks"},
-      {"id": "skip", "text": "The one we recommend skipping"},
-      {"id": "frequently-asked", "text": "Frequently asked questions"}
+      {
+        "id": "what-matters",
+        "text": "What actually matters in a grill microwave under 15,000"
+      },
+      {
+        "id": "our-picks",
+        "text": "Our top 4 picks"
+      },
+      {
+        "id": "skip",
+        "text": "The one we recommend skipping"
+      },
+      {
+        "id": "frequently-asked",
+        "text": "Frequently asked questions"
+      }
     ],
     "cta": {
       "headline": "Live prices across Amazon and Flipkart",
@@ -32,11 +44,95 @@
       "button": "See the comparison sheet"
     },
     "faq": [
-      {"q": "Is a grill microwave better than a convection microwave?", "a": "For Indian cooking, a convection microwave is more versatile. A grill microwave cooks everything a solo microwave does, plus tandoor-style crisping on kebabs, paneer tikka and papad, but it cannot bake a cake. If you want one appliance that microwaves, grills and bakes, step up to a convection microwave under 20,000."},
-      {"q": "Can a grill microwave replace a traditional microwave oven?", "a": "Yes for reheating, defrosting, cooking dal-rice-sabzi and the typical Indian microwave use cases, plus grilling. It will not bake a cake or a pizza from raw dough the way a convection microwave does. Most Indian households using a microwave for reheating and occasional tandoor-style cooking are well served by a grill unit."},
-      {"q": "What wattage should I look for in a grill microwave?", "a": "Microwave output of 800-900 W and a separate grill element of 1,000-1,200 W is the right combination at this price. Below 800 W microwave output, reheating gets slow. Below 1,000 W grill output, kebabs won't brown properly."},
-      {"q": "How big a grill microwave do I need?", "a": "20 to 23 litres covers a family of 4 for typical Indian use. If you cook whole chickens or bake in casserole dishes, step up to 25-28 litres. Below 20 litres, you cannot fit a standard dinner plate inside."},
-      {"q": "Does a grill microwave need an exhaust or special wiring?", "a": "It plugs into a standard 15 A socket on a dedicated line. Sharing with a fridge or induction is generally safe at this wattage but a 16 A socket is preferred. No exhaust needed for home use; keep 5 cm clearance at the back and 10 cm on the sides."}
+      {
+        "q": "Is a grill microwave better than a convection microwave?",
+        "a": "For Indian cooking, a convection microwave is more versatile. A grill microwave cooks everything a solo microwave does, plus tandoor-style crisping on kebabs, paneer tikka and papad, but it cannot bake a cake. If you want one appliance that microwaves, grills and bakes, step up to a convection microwave under 20,000."
+      },
+      {
+        "q": "Can a grill microwave replace a traditional microwave oven?",
+        "a": "Yes for reheating, defrosting, cooking dal-rice-sabzi and the typical Indian microwave use cases, plus grilling. It will not bake a cake or a pizza from raw dough the way a convection microwave does. Most Indian households using a microwave for reheating and occasional tandoor-style cooking are well served by a grill unit."
+      },
+      {
+        "q": "What wattage should I look for in a grill microwave?",
+        "a": "Microwave output of 800-900 W and a separate grill element of 1,000-1,200 W is the right combination at this price. Below 800 W microwave output, reheating gets slow. Below 1,000 W grill output, kebabs won't brown properly."
+      },
+      {
+        "q": "How big a grill microwave do I need?",
+        "a": "20 to 23 litres covers a family of 4 for typical Indian use. If you cook whole chickens or bake in casserole dishes, step up to 25-28 litres. Below 20 litres, you cannot fit a standard dinner plate inside."
+      },
+      {
+        "q": "Does a grill microwave need an exhaust or special wiring?",
+        "a": "It plugs into a standard 15 A socket on a dedicated line. Sharing with a fridge or induction is generally safe at this wattage but a 16 A socket is preferred. No exhaust needed for home use; keep 5 cm clearance at the back and 10 cm on the sides."
+      }
+    ],
+    "tldr_pick": "<strong>LG MH2044DN</strong> is the default 20-litre grill microwave under 15,000 for 2026: 800 W microwave output, 1,000 W grill element, 36 Indian-tuned presets, anti-bacterial cavity coating and a tactile jog dial. Budget-tier buyers should drop to the Bajaj MTBX 2016; families that need a 23-litre cavity should stretch to the Samsung MG23A3515.",
+    "key_takeaways": [
+      "<strong>Grill wattage of 1,000 W+</strong> is the threshold for proper crisping of kebabs and paneer tikka.",
+      "<strong>20-litre cavity</strong> fits a standard dinner plate; 23 L fits two plates or a casserole for larger families.",
+      "<strong>Anti-bacterial cavity coating</strong> keeps the interior cleaner longer, especially in oil-heavy north Indian cooking.",
+      "<strong>Skip solo microwaves</strong> at this price band: a grill unit costs the same or less and adds tandoor capability."
+    ],
+    "who_for": "Indian families that reheat daily and want paneer tikka, papad, kebab and basic tandoor cooking without a separate OTG. Buyers who bake regularly should step up to a convection microwave under 20,000.",
+    "methodology": "Ranked on microwave output, grill wattage, cavity size, child-lock, preset-menu tuning for Indian dishes, and service reach. Convection capability excluded as the brief is grill-only at this price band.",
+    "products": [
+      {
+        "name": "LG 20 L Grill Microwave Oven (MH2044DN)",
+        "price": "11,500-13,500",
+        "specs": [
+          "20 L",
+          "800 W",
+          "1,000 W",
+          "1 year"
+        ],
+        "winner": true
+      },
+      {
+        "name": "IFB 20 L Grill Microwave Oven (20PG4S)",
+        "price": "10,500-12,500",
+        "specs": [
+          "20 L",
+          "800 W",
+          "1,000 W",
+          "1 year"
+        ]
+      },
+      {
+        "name": "Bajaj 20 L Grill Microwave Oven (MTBX 2016)",
+        "price": "9,000-10,500",
+        "specs": [
+          "20 L",
+          "700 W",
+          "900 W",
+          "1 year"
+        ]
+      },
+      {
+        "name": "Samsung 23 L Grill Microwave Oven (MG23A3515)",
+        "price": "12,500-14,500",
+        "specs": [
+          "23 L",
+          "800 W",
+          "1,100 W",
+          "1 year"
+        ]
+      },
+      {
+        "name": "Godrej 17 L Solo Microwave (GMO 17CA1)",
+        "price": "7,500-9,000",
+        "specs": [
+          "17 L",
+          "700 W",
+          "None",
+          "1 year"
+        ],
+        "skip": true
+      }
+    ],
+    "spec_headers": [
+      "Capacity",
+      "Microwave output",
+      "Grill output",
+      "Warranty"
     ]
   },
   "body": "<h2 id=\"what-matters\">What actually matters in a grill microwave under 15,000</h2>\n<p>A grill microwave is the right pick for Indian kitchens that reheat and cook daily but rarely bake. At the under-15,000 band, manufacturers differentiate on <strong>grill output wattage, cavity size, child lock, and ease of cleaning</strong>. Most buyers never use the full preset menu; a handful of well-tuned manual modes plus a high-wattage grill element cover almost every Indian use case.</p>\n<p>The grill element is what makes a grill microwave a grill microwave. A separate heating coil sits above the cavity, typically 1,000-1,200 W. The coil browns paneer, kebabs, papad, and bread while the magnetron simultaneously heats food from inside. Look for grill ratings of 1,000 W and above; below that, food steams instead of crisping.</p>\n<p>Cavity size matters more than buyers expect. A 20-litre cavity fits a standard dinner plate with 1 cm of room around the edges. A 23-litre cavity fits a casserole, two dinner plates side by side, and most Indian tiffin sizes. Families of 4 should not go below 20 litres; singles or couples can accept 17-19 litres.</p>\n<p>Cleaning is a recurring pain point. Cavities with anti-bacterial coatings or steam-clean cycles stay cleaner longer. Stainless steel interiors last but show grease. Painted interiors clean easily but stain over years. Most 2026 models ship an anti-bacterial cavity that combines the durability of stainless steel with the cleanability of paint.</p>\n<p>Child lock is the safety feature Indian households want most. A press-and-hold-to-lock button deactivates the control panel until the same gesture is repeated. All four recommendations below include child lock by default.</p>\n<p>Preset menus are mostly marketing. Buyers usually only use 4-6 menus: reheat, defrost, rice, dal, pizza/papad, and beverage. Pick a model whose control layout makes the 5 modes you use most easy to reach. Avoid models that bury common modes inside three-level sub-menus.</p>\n<h2 id=\"our-picks\">Our top 4 picks</h2>\n<div class=\"product-card\">\n  <span class=\"badge top\">Top Pick</span>\n  <h3>1. LG 20 L Grill Microwave Oven (MH2044DN)</h3>\n  <div class=\"price-line\">Usually 11,500-13,500</div>\n  <div class=\"quick-specs\"><div><strong>Capacity</strong>20 L</div><div><strong>Microwave output</strong>800 W</div><div><strong>Grill output</strong>1,000 W</div><div><strong>Warranty</strong>1 year</div></div>\n  <p>The LG MH2044DN is the default 20-litre grill microwave in India in 2026. The 800 W microwave output handles reheating and defrosting in standard times, the separate 1,000 W grill element browns kebabs and paneer tikka, and the anti-bacterial cavity coating keeps the inside from smelling stale.</p>\n  <p>Build quality is the strongest in this segment. The door hinge stays firm after years of daily use, the keypad buttons are tactile, and the cavity's enamel coating wipes clean in seconds. The 36 auto-cook menus cover Indian dishes well; paneer tikka and dal are both single-button operations.</p>\n  <p>The control panel uses a jog dial plus physical buttons, a layout most users find forgiving. Child lock is a 4-second press-and-hold, accessible but not in the way of normal use.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>What works</h4><ul><li>Reliable 1,000 W grill for crisping kebabs and papad</li><li>Anti-bacterial cavity coating that wipes clean</li><li>Indian-tuned 36-preset menu</li><li>Tactile jog dial plus physical buttons</li><li>Wide service network</li></ul></div><div class=\"cons\"><h4>Trade-offs</h4><ul><li>No convection (cannot bake)</li><li>20-litre cavity is tight for large casseroles</li><li>Interior light is functional but dim</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price &rarr;</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge runner\">Runner-Up</span>\n  <h3>2. IFB 20 L Grill Microwave Oven (20PG4S)</h3>\n  <div class=\"price-line\">Usually 10,500-12,500</div>\n  <div class=\"quick-specs\"><div><strong>Capacity</strong>20 L</div><div><strong>Microwave output</strong>800 W</div><div><strong>Grill output</strong>1,000 W</div><div><strong>Warranty</strong>1 year</div></div>\n  <p>The IFB 20PG4S ships the same 800 W microwave and 1,000 W grill element, plus IFB's distinctive steam-clean cycle. The cavity runs a brief 5-minute steam-clean routine that loosens grease; buyers in oil-heavy north Indian cooking appreciate this feature most.</p>\n  <p>IFB's auto-cook menu lists 24 Indian-tuned options, fewer than LG but more precisely aimed at paneer, dal, and rice dishes. The cavity interior is anti-bacterial stainless. The control panel is fully digital with a flat numeric keypad that takes some getting used to but is precise after the first week.</p>\n  <p>Where IFB edges out LG is repair responsiveness: IFB ships a large spare-parts inventory and doorstep service within 24 hours in most metros. For buyers who value long-term service over preset-menu count, this is the right pick.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>What works</h4><ul><li>Steam-clean cycle for oil-heavy Indian cooking</li><li>IFB doorstep service reputation</li><li>Anti-bacterial stainless steel cavity</li><li>1,000 W grill that crisps well</li></ul></div><div class=\"cons\"><h4>Trade-offs</h4><ul><li>Only 24 presets versus LG's 36</li><li>Flat keypad has a learning curve</li><li>No convection (cannot bake)</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price &rarr;</a>\n</div>\n<div class=\"product-card\">\n  <span class=\"badge budget\">Budget Pick</span>\n  <h3>3. Bajaj 20 L Grill Microwave Oven (MTBX 2016)</h3>\n  <div class=\"price-line\">Usually 9,000-10,500</div>\n  <div class=\"quick-specs\"><div><strong>Capacity</strong>20 L</div><div><strong>Microwave output</strong>700 W</div><div><strong>Grill output</strong>900 W</div><div><strong>Warranty</strong>1 year</div></div>\n  <p>For buyers on a tight budget, the Bajaj MTBX 2016 lands in the 9,000-10,500 range with a usable grill element. Microwave output is 700 W, which is enough for everyday reheating but slower than LG or IFB; the grill element hits 900 W, fine for papad and basic kebabs but shy of the better units at crisping paneer tikka evenly.</p>\n  <p>The cavity is a painted interior that cleans easily but stains over years. Build quality is acceptable; the door hinge is the part to watch in long-term use. Bajaj service is reliable in tier-2 and tier-3 cities where LG or IFB may be slower.</p>\n  <p>Buy this if the alternative is a microwave-only unit at the same price. The grill feature adds genuine use case even if the wattage is not class-leading.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>What works</h4><ul><li>Lowest price in the segment</li><li>Wide Bajaj service network in smaller cities</li><li>20-litre cavity is family-sized</li><li>Grill feature adds tandoor capability</li></ul></div><div class=\"cons\"><h4>Trade-offs</h4><ul><li>700 W microwave output is on the slow side</li><li>900 W grill doesn't crisp paneer tikka evenly</li><li>Painted cavity stains over years</li><li>Fewer presets than LG or IFB</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price &rarr;</a>\n</div>\n<div class=\"product-card\">\n  <h3>4. Samsung 23 L Grill Microwave Oven (MG23A3515)</h3>\n  <div class=\"price-line\">Usually 12,500-14,500</div>\n  <div class=\"quick-specs\"><div><strong>Capacity</strong>23 L</div><div><strong>Microwave output</strong>800 W</div><div><strong>Grill output</strong>1,100 W</div><div><strong>Warranty</strong>1 year</div></div>\n  <p>The Samsung MG23A3515 is the largest cavity at this price band with the strongest grill output. The 23-litre interior fits a casserole or two dinner plates side by side, and the 1,100 W grill element is the class leader. Paneer tikka, chicken tikka and fish kebabs all brown well, even when stacked in a single layer.</p>\n  <p>The triple-distribution microwave system improves reheat uniformity, which is the single most-used function in most Indian households. The auto-cook menu is slim but well-tuned. The ceramic enamel cavity is the most durable in the segment.</p>\n  <p>Downside: Samsung service coverage in smaller cities is weaker than LG or IFB. The control panel is a touch-sensitive membrane that some users find hard to operate with wet hands.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>What works</h4><ul><li>23-litre cavity is the largest in the segment</li><li>1,100 W grill is the strongest available</li><li>Ceramic enamel cavity, durable and easy to clean</li><li>Triple-distribution microwave for even reheating</li></ul></div><div class=\"cons\"><h4>Trade-offs</h4><ul><li>Touch panel is hard to use with wet hands</li><li>Samsung service network weaker in tier-3 cities</li><li>No convection (cannot bake)</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price &rarr;</a>\n</div>\n<h2 id=\"skip\">The one we recommend skipping</h2>\n<div class=\"product-card\">\n  <span class=\"badge skip\">Skip</span>\n  <h3>5. Godrej 17 L Solo Microwave (GMO 17CA1)</h3>\n  <div class=\"price-line\">Usually 7,500-9,000</div>\n  <div class=\"quick-specs\"><div><strong>Capacity</strong>17 L</div><div><strong>Microwave output</strong>700 W</div><div><strong>Grill output</strong>None</div><div><strong>Warranty</strong>1 year</div></div>\n  <p>The Godrej GMO 17CA1 is a solo microwave, not a grill microwave, despite a price band that overlaps with grill units. The lack of a grill element means no tandoor-style crisping. The 17-litre cavity is too small for most dinner plates, restricting it to reheating cups of coffee and small bowls.</p>\n  <p>At this price point, the LG MH2044DN or Bajaj MTBX 2016 add a grill feature for a similar or lower cost. Buy a grill unit instead.</p>\n  <div class=\"pros-cons\"><div class=\"pros\"><h4>What works</h4><ul><li>Lowest upfront price in the segment</li><li>Compact for small kitchens</li><li>Godrej service is reachable in metros</li></ul></div><div class=\"cons\"><h4>Trade-offs</h4><ul><li>No grill element (solo microwave only)</li><li>17-litre cavity is too small for most dinner plates</li><li>Better grill units exist at similar price</li></ul></div></div>\n  <a href=\"#\" class=\"cta\">Check current price &rarr;</a>\n</div>\n<blockquote><strong>If you only buy one thing:</strong> the LG MH2044DN is the default 20-litre grill microwave under 15,000 for 2026. For tighter budgets, drop to the Bajaj MTBX 2016. For larger families that need a 23-litre cavity, the Samsung MG23A3515 is worth the stretch.</blockquote>\n<h2 id=\"bottom-line\">The bottom line</h2>\n<p>Grill microwaves under 15,000 have converged on a confident recipe: 800 W microwave output, 1,000 W grill element, 20-litre cavity, anti-bacterial cavity coating. The differentiation is now in build quality, service reach, and preset-menu tuning. Spend a few extra rupees over a solo microwave for the grill feature; the gap pays for itself in any kitchen that ever makes papad or paneer tikka.</p>\n<h2 id=\"frequently-asked\">Frequently asked questions</h2>\n<h3>Can a grill microwave make naan or roti?</h3>\n<p>Grill microwaves can warm and lightly crisp pre-made naan and roti. They cannot replicate the open-flame tandoor texture of freshly made naan. For at-home naan that browns evenly, a convection microwave with a baking rack is the better tool.</p>\n<h3>What is the difference between grill and convection microwaves?</h3>\n<p>A grill microwave has a heating coil at the top of the cavity that crisps and browns. A convection microwave adds a fan-forced heating element that circulates hot air, enabling baking, roasting and crisping from all sides. Convection is the more versatile technology for Indian baking use cases.</p>\n<h3>Is 20 litres enough for a family of 4?</h3>\n<p>Yes, for typical Indian reheating and cooking: dal, sabzi, rice, paneer tikka, papad. Not enough for large baking dishes or whole chicken in a single shot. Families that regularly cook for 4+ should consider 23-25 litres.</p>\n<h3>Are microwave presets really useful?</h3>\n<p>For specific common dishes like paneer tikka, dal, rice and beverages, a tuned preset saves the guesswork. For one-off dishes, manual mode with timed power level is more flexible. Most buyers eventually use 4-6 presets regularly.</p>\n<h3>How long do microwave ovens last?</h3>\n<p>Expect 7-10 years of daily use. The magnetron has a finite operating life, but it lasts longer than most buyers expect when the cavity is kept clean and the door seal is intact. Avoid slamming the door; that's the most common cause of early failure.</p>"

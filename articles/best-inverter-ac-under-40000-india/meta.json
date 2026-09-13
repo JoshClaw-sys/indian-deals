@@ -63,5 +63,74 @@
       "q": "How loud is a quiet inverter AC at night?",
       "a": "Look for noise ratings below 38 dB indoor. The best 2026 inverter ACs hover around 28-32 dB at the lowest fan speed, which is quieter than a ceiling fan on low. Outdoor unit noise varies by installation; pad-mount the compressor on a rubber base and add a sound blanket if you have close neighbours."
     }
+  ],
+  "tldr_pick": "<strong>LG PS-Q19YNZE</strong> is the default inverter AC under 40,000 for 2026: 5.2 ISEER, 31 dB low-fan indoor noise, dual-inverter compressor, R-32 refrigerant and a 10-year compressor warranty. For rooms under 120 sq ft, drop to the Daikin 1 ton; for adjustable capacity on a budget, the Voltas 185V covers room-size variations on a single SKU.",
+  "key_takeaways": [
+    "<strong>ISEER 5.0+</strong> matters most: at 8 hours per night, the gap from 3.8 to 5.2 ISEER saves 1,500-2,500 rupees per year.",
+    "<strong>Dual-inverter compressor</strong> with a 10-year warranty is the right specification for a long ownership cycle.",
+    "<strong>Skip 3-star ISEER units</strong> at this price band: better inverter ACs at the same cost are widely available.",
+    "<strong>Wide voltage tolerance</strong> (145-290 V) eliminates the need for an external stabilizer in most Indian homes."
+  ],
+  "who_for": "Indian households in metros and tier-2 cities running an AC 6+ hours a night, planning a 7-10 year ownership. Buyers in tier-3 cities should weight service network above thin feature lists; LG and Voltas both run wider service reach than competitors.",
+  "methodology": "Ranked on ISEER rating, indoor noise at low fan, compressor warranty, voltage tolerance and service reach. Real-world bill impact calculated at typical metro tariff of 7 rupees per kWh with 8 hours of nightly use.",
+  "products": [
+    {
+      "name": "LG 1.5 Ton 5 Star Inverter Split AC (PS-Q19YNZE)",
+      "price": "36,000-39,500",
+      "specs": [
+        "1.5 Ton",
+        "5.2 ISEER",
+        "R-32",
+        "1+10 years"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Voltas 1.5 Ton 5 Star Inverter Adjustable AC (185V Vectra Elegant)",
+      "price": "33,500-37,000",
+      "specs": [
+        "1.5 Ton adjustable",
+        "5.0 ISEER",
+        "R-32",
+        "1+10 years"
+      ]
+    },
+    {
+      "name": "Daikin 1 Ton 5 Star Inverter Split AC (MTKL50U)",
+      "price": "32,000-35,500",
+      "specs": [
+        "1 Ton",
+        "5.2 ISEER",
+        "R-32",
+        "1+10 years"
+      ]
+    },
+    {
+      "name": "Lloyd 1.5 Ton 5 Star Inverter Split AC (GLS18I5CWBMV)",
+      "price": "34,500-37,500",
+      "specs": [
+        "1.5 Ton",
+        "5.0 ISEER",
+        "R-32",
+        "1+10 years"
+      ]
+    },
+    {
+      "name": "Blue Star 1.5 Ton 3 Star Inverter Split AC (IC518YNURS)",
+      "price": "33,000-36,500",
+      "specs": [
+        "1.5 Ton",
+        "3.8 ISEER",
+        "R-32",
+        "1+10 years"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Capacity",
+    "ISEER",
+    "Refrigerant",
+    "Warranty"
   ]
 }
