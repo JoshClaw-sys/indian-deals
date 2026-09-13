@@ -580,5 +580,20 @@
     "category": "soundbar",
     "status": "done",
     "done_at": "2026-09-12T03:32:53.707920+00:00"
+  },
+  {
+    "slug": "best-inverter-ac-under-40000-india",
+    "category": "ac",
+    "status": "todo"
+  },
+  {
+    "slug": "best-grill-microwave-under-15000-india",
+    "category": "microwave",
+    "status": "todo"
+  },
+  {
+    "slug": "best-tws-earbuds-under-1500-india",
+    "category": "earbuds",
+    "status": "todo"
   }
 ]
