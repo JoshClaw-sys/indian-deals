@@ -584,16 +584,19 @@
   {
     "slug": "best-inverter-ac-under-40000-india",
     "category": "ac",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-13T03:34:14.361504+00:00"
   },
   {
     "slug": "best-grill-microwave-under-15000-india",
     "category": "microwave",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-13T03:34:14.361530+00:00"
   },
   {
     "slug": "best-tws-earbuds-under-1500-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-13T03:34:14.361537+00:00"
   }
 ]

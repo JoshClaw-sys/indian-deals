@@ -2121,5 +2121,74 @@
       "id": 4636097,
       "timestamp": "2026-09-12T03:37:03.662298+00:00"
     }
+  },
+  "best-inverter-ac-under-40000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-13T03:34:14.923675+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-13T03:34:49.923915+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-13T03:34:49.923975+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-inverter-ac-under-40000-in-india-2026-real-bills-quiet-compressors-hae",
+      "id": 4641938,
+      "timestamp": "2026-09-13T03:34:51.532690+00:00"
+    }
+  },
+  "best-grill-microwave-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-13T03:36:01.540645+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-13T03:36:36.540895+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-13T03:36:36.540950+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-grill-microwave-oven-under-15000-in-india-2026-crisp-tandoor-at-home-3p19",
+      "id": 4641945,
+      "timestamp": "2026-09-13T03:36:37.813381+00:00"
+    }
+  },
+  "best-tws-earbuds-under-1500-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-13T03:37:47.823365+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-13T03:38:22.823613+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-13T03:38:22.823679+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-tws-earbuds-under-1500-in-india-2026-real-sound-real-battery-248h",
+      "id": 4641949,
+      "timestamp": "2026-09-13T03:38:24.740271+00:00"
+    }
   }
 }
