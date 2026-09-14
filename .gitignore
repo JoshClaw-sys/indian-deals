@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 .idea/
 gen_seed_*.py
+gen_batch_*.py

@@ -598,5 +598,26 @@
     "category": "earbuds",
     "status": "done",
     "done_at": "2026-09-13T03:34:14.361537+00:00"
+  },
+  {
+    "slug": "best-phone-under-12000-india",
+    "category": "smartphones",
+    "status": "todo",
+    "topic": "Best phone under 12000",
+    "added_at": "2026-09-14"
+  },
+  {
+    "slug": "best-uv-water-purifier-india",
+    "category": "water-purifier",
+    "status": "todo",
+    "topic": "Best UV water purifier India",
+    "added_at": "2026-09-14"
+  },
+  {
+    "slug": "best-air-fryer-under-15000-india",
+    "category": "air-fryers",
+    "status": "todo",
+    "topic": "Best air fryer under 15000",
+    "added_at": "2026-09-14"
   }
 ]
