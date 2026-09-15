@@ -622,5 +622,26 @@
     "topic": "Best air fryer under 15000",
     "added_at": "2026-09-14",
     "done_at": "2026-09-14T03:38:56.726084+00:00"
+  },
+  {
+    "slug": "best-43-inch-smart-tv-under-25000-india",
+    "category": "tv",
+    "status": "todo",
+    "topic": "Best 43-inch smart TV under 25000",
+    "added_at": "2026-09-15"
+  },
+  {
+    "slug": "best-refrigerator-under-20000-india",
+    "category": "refrigerator",
+    "status": "todo",
+    "topic": "Best refrigerator under 20000",
+    "added_at": "2026-09-15"
+  },
+  {
+    "slug": "best-tws-earbuds-under-4000-india",
+    "category": "earbuds",
+    "status": "todo",
+    "topic": "Best TWS earbuds under 4000",
+    "added_at": "2026-09-15"
   }
 ]
