@@ -650,19 +650,22 @@
   {
     "slug": "best-phone-under-40000-india",
     "category": "smartphones",
-    "status": "todo",
-    "topic": "Best phone under 40000"
+    "status": "done",
+    "topic": "Best phone under 40000",
+    "done_at": "2026-09-16T03:34:15.175735+00:00"
   },
   {
     "slug": "best-tws-earbuds-under-8000-india",
     "category": "earbuds",
-    "status": "todo",
-    "topic": "Best TWS earbuds under 8000"
+    "status": "done",
+    "topic": "Best TWS earbuds under 8000",
+    "done_at": "2026-09-16T03:34:15.175768+00:00"
   },
   {
     "slug": "best-gaming-laptop-under-100000-india",
     "category": "laptops",
-    "status": "todo",
-    "topic": "Best gaming laptop under 100000"
+    "status": "done",
+    "topic": "Best gaming laptop under 100000",
+    "done_at": "2026-09-16T03:34:15.175777+00:00"
   }
 ]

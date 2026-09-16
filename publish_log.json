@@ -2259,5 +2259,74 @@
       "id": 4654761,
       "timestamp": "2026-09-15T03:35:22.009331+00:00"
     }
+  },
+  "best-phone-under-40000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-16T03:34:15.750278+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-16T03:34:50.750532+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-16T03:34:50.750617+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-phone-under-40000-in-india-2026-6-phones-that-rival-the-flagships-2d9i",
+      "id": 4663321,
+      "timestamp": "2026-09-16T03:34:51.979477+00:00"
+    }
+  },
+  "best-tws-earbuds-under-8000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-16T03:36:01.988516+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-16T03:36:36.988762+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-16T03:36:36.988816+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-tws-earbuds-under-8000-in-india-2026-premium-anc-that-beats-15000-pairs-17lg",
+      "id": 4663332,
+      "timestamp": "2026-09-16T03:36:38.023589+00:00"
+    }
+  },
+  "best-gaming-laptop-under-100000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-16T03:37:48.032750+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-16T03:38:23.032968+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-16T03:38:23.033023+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-gaming-laptop-under-100000-in-india-2026-5-rtx-laptops-that-actually-run-aaa-games-14gm",
+      "id": 4663347,
+      "timestamp": "2026-09-16T03:38:24.884980+00:00"
+    }
   }
 }
