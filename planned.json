@@ -646,5 +646,23 @@
     "topic": "Best TWS earbuds under 4000",
     "added_at": "2026-09-15",
     "done_at": "2026-09-15T03:34:44.891555+00:00"
+  },
+  {
+    "slug": "best-phone-under-40000-india",
+    "category": "smartphones",
+    "status": "todo",
+    "topic": "Best phone under 40000"
+  },
+  {
+    "slug": "best-tws-earbuds-under-8000-india",
+    "category": "earbuds",
+    "status": "todo",
+    "topic": "Best TWS earbuds under 8000"
+  },
+  {
+    "slug": "best-gaming-laptop-under-100000-india",
+    "category": "laptops",
+    "status": "todo",
+    "topic": "Best gaming laptop under 100000"
   }
 ]
