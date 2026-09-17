@@ -2328,5 +2328,74 @@
       "id": 4663347,
       "timestamp": "2026-09-16T03:38:24.884980+00:00"
     }
+  },
+  "best-ceiling-fan-under-1500-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-17T07:22:37.941063+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-17T07:23:12.941277+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-17T07:23:12.941340+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-ceiling-fan-under-1500-in-india-2026-5-budget-picks-that-actually-cool-6k",
+      "id": 4673565,
+      "timestamp": "2026-09-17T07:23:13.856659+00:00"
+    }
+  },
+  "best-wet-dry-vacuum-cleaner-under-8000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-17T07:24:23.876228+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-17T07:24:58.876442+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-17T07:24:58.876500+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-wet-dry-vacuum-cleaner-under-8000-in-india-2026-5-picks-ranked-5h14",
+      "id": 4673586,
+      "timestamp": "2026-09-17T07:25:00.052327+00:00"
+    }
+  },
+  "best-semi-automatic-washing-machine-under-15000-india": {
+    "Medium": {
+      "status": "skipped",
+      "reason": "MEDIUM_TOKEN not set",
+      "timestamp": "2026-09-17T07:26:10.060007+00:00"
+    },
+    "LinkedIn": {
+      "status": "skipped",
+      "reason": "LinkedIn credentials not set (need LINKEDIN_ACCESS_TOKEN + LINKEDIN_AUTHOR_URN)",
+      "timestamp": "2026-09-17T07:26:45.060243+00:00"
+    },
+    "Hashnode": {
+      "status": "skipped",
+      "reason": "Hashnode credentials not set (need HASHNODE_TOKEN + HASHNODE_PUBLICATION_ID)",
+      "timestamp": "2026-09-17T07:26:45.060304+00:00"
+    },
+    "Dev.to": {
+      "status": "ok",
+      "url": "https://dev.to/jivinsardine/best-semi-automatic-washing-machine-under-15000-in-india-2026-5-picks-ranked-imi",
+      "id": 4673603,
+      "timestamp": "2026-09-17T07:26:46.291051+00:00"
+    }
   }
 }
