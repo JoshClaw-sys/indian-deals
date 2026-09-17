@@ -667,5 +667,20 @@
     "status": "done",
     "topic": "Best gaming laptop under 100000",
     "done_at": "2026-09-16T03:34:15.175777+00:00"
+  },
+  {
+    "slug": "best-ceiling-fan-under-1500-india",
+    "category": "ceiling-fan",
+    "status": "todo"
+  },
+  {
+    "slug": "best-wet-dry-vacuum-cleaner-under-8000-india",
+    "category": "vacuum",
+    "status": "todo"
+  },
+  {
+    "slug": "best-semi-automatic-washing-machine-under-15000-india",
+    "category": "washing-machine",
+    "status": "todo"
   }
 ]
