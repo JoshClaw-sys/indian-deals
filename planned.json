@@ -685,5 +685,23 @@
     "category": "washing-machine",
     "status": "done",
     "done_at": "2026-09-17T07:22:36.781230+00:00"
+  },
+  {
+    "slug": "best-smartwatch-under-3000-india",
+    "category": "smartwatch",
+    "status": "todo",
+    "added_at": "2026-09-18T03:00:00+00:00"
+  },
+  {
+    "slug": "best-air-fryer-under-2000-india",
+    "category": "air-fryers",
+    "status": "todo",
+    "added_at": "2026-09-18T03:00:00+00:00"
+  },
+  {
+    "slug": "best-1-5-ton-ac-under-35000-india",
+    "category": "ac",
+    "status": "todo",
+    "added_at": "2026-09-18T03:00:00+00:00"
   }
 ]
