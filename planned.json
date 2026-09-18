@@ -689,19 +689,22 @@
   {
     "slug": "best-smartwatch-under-3000-india",
     "category": "smartwatch",
-    "status": "todo",
-    "added_at": "2026-09-18T03:00:00+00:00"
+    "status": "done",
+    "added_at": "2026-09-18T03:00:00+00:00",
+    "done_at": "2026-09-18T03:38:08.699590+00:00"
   },
   {
     "slug": "best-air-fryer-under-2000-india",
     "category": "air-fryers",
-    "status": "todo",
-    "added_at": "2026-09-18T03:00:00+00:00"
+    "status": "done",
+    "added_at": "2026-09-18T03:00:00+00:00",
+    "done_at": "2026-09-18T03:38:08.699616+00:00"
   },
   {
     "slug": "best-1-5-ton-ac-under-35000-india",
     "category": "ac",
-    "status": "todo",
-    "added_at": "2026-09-18T03:00:00+00:00"
+    "status": "done",
+    "added_at": "2026-09-18T03:00:00+00:00",
+    "done_at": "2026-09-18T03:38:08.699623+00:00"
   }
 ]
