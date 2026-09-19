@@ -706,5 +706,23 @@
     "status": "done",
     "added_at": "2026-09-18T03:00:00+00:00",
     "done_at": "2026-09-18T03:38:08.699623+00:00"
+  },
+  {
+    "slug": "best-tws-earbuds-under-6000-india",
+    "category": "earbuds",
+    "status": "todo",
+    "added_at": "2026-09-19T03:37:19.807685+00:00"
+  },
+  {
+    "slug": "best-smartwatch-under-20000-india",
+    "category": "smartwatch",
+    "status": "todo",
+    "added_at": "2026-09-19T03:37:19.807745+00:00"
+  },
+  {
+    "slug": "best-phone-under-50000-india",
+    "category": "smartphones",
+    "status": "todo",
+    "added_at": "2026-09-19T03:37:19.807789+00:00"
   }
 ]
