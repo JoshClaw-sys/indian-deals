@@ -731,16 +731,19 @@
   {
     "slug": "best-laptop-under-80000-india",
     "category": "laptops",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-20T03:35:10.634732+00:00"
   },
   {
     "slug": "best-tws-earbuds-under-10000-india",
     "category": "earbuds",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-20T03:35:10.634758+00:00"
   },
   {
     "slug": "best-air-purifier-under-25000-india",
     "category": "air-purifier",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-20T03:35:10.634764+00:00"
   }
 ]
