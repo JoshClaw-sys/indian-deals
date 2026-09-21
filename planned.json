@@ -749,16 +749,19 @@
   {
     "slug": "best-tablet-under-30000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-21T03:39:17.877812+00:00"
   },
   {
     "slug": "best-juicer-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-21T03:39:17.877837+00:00"
   },
   {
     "slug": "best-ac-under-35000-india",
     "category": "ac",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-21T03:39:17.877843+00:00"
   }
 ]
