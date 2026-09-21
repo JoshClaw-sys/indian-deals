@@ -745,5 +745,20 @@
     "category": "air-purifier",
     "status": "done",
     "done_at": "2026-09-20T03:35:10.634764+00:00"
+  },
+  {
+    "slug": "best-tablet-under-30000-india",
+    "category": "smartphones",
+    "status": "todo"
+  },
+  {
+    "slug": "best-juicer-india",
+    "category": "mixer-grinder",
+    "status": "todo"
+  },
+  {
+    "slug": "best-ac-under-35000-india",
+    "category": "ac",
+    "status": "todo"
   }
 ]
