@@ -767,19 +767,22 @@
   {
     "slug": "best-tws-earbuds-under-20000-india",
     "category": "earbuds",
-    "status": "todo",
-    "topic": "Premium TWS earbuds under Rs 20,000 — ANC, LDAC, multi-point"
+    "status": "done",
+    "topic": "Premium TWS earbuds under Rs 20,000 — ANC, LDAC, multi-point",
+    "done_at": "2026-09-22T03:36:52.819498+00:00"
   },
   {
     "slug": "best-soundbar-under-50000-india",
     "category": "soundbar",
-    "status": "todo",
-    "topic": "Dolby Atmos soundbars under Rs 50,000 — flagship tier home theater"
+    "status": "done",
+    "topic": "Dolby Atmos soundbars under Rs 50,000 — flagship tier home theater",
+    "done_at": "2026-09-22T03:36:52.819524+00:00"
   },
   {
     "slug": "best-trimmer-under-500-india",
     "category": "trimmer",
-    "status": "todo",
-    "topic": "Budget beard/body trimmers under Rs 500 — Philips, Havells, Wahl"
+    "status": "done",
+    "topic": "Budget beard/body trimmers under Rs 500 — Philips, Havells, Wahl",
+    "done_at": "2026-09-22T03:36:52.819531+00:00"
   }
 ]
