@@ -788,16 +788,19 @@
   {
     "slug": "best-single-door-fridge-under-25000-india",
     "category": "refrigerator",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-23T03:35:13.127178+00:00"
   },
   {
     "slug": "best-top-load-washing-machine-under-25000-india",
     "category": "washing-machine",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-23T03:35:13.127203+00:00"
   },
   {
     "slug": "best-storage-geyser-under-10000-india",
     "category": "geyser",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-23T03:35:13.127209+00:00"
   }
 ]
