@@ -784,5 +784,20 @@
     "status": "done",
     "topic": "Budget beard/body trimmers under Rs 500 — Philips, Havells, Wahl",
     "done_at": "2026-09-22T03:36:52.819531+00:00"
+  },
+  {
+    "slug": "best-single-door-fridge-under-25000-india",
+    "category": "refrigerator",
+    "status": "todo"
+  },
+  {
+    "slug": "best-top-load-washing-machine-under-25000-india",
+    "category": "washing-machine",
+    "status": "todo"
+  },
+  {
+    "slug": "best-storage-geyser-under-10000-india",
+    "category": "geyser",
+    "status": "todo"
   }
 ]
