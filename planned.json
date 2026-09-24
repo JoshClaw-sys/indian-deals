@@ -802,5 +802,20 @@
     "category": "geyser",
     "status": "done",
     "done_at": "2026-09-23T03:35:13.127209+00:00"
+  },
+  {
+    "slug": "best-mixer-grinder-under-7000-india",
+    "category": "mixer-grinder",
+    "status": "todo"
+  },
+  {
+    "slug": "best-ceiling-fan-under-3000-india",
+    "category": "ceiling-fan",
+    "status": "todo"
+  },
+  {
+    "slug": "best-tablet-under-10000-india",
+    "category": "smartphones",
+    "status": "todo"
   }
 ]
