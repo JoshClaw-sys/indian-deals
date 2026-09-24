@@ -806,16 +806,19 @@
   {
     "slug": "best-mixer-grinder-under-7000-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-24T03:34:15.020080+00:00"
   },
   {
     "slug": "best-ceiling-fan-under-3000-india",
     "category": "ceiling-fan",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-24T03:34:15.020114+00:00"
   },
   {
     "slug": "best-tablet-under-10000-india",
     "category": "smartphones",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-24T03:34:15.020128+00:00"
   }
 ]
