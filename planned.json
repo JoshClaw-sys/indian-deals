@@ -820,5 +820,23 @@
     "category": "smartphones",
     "status": "done",
     "done_at": "2026-09-24T03:34:15.020128+00:00"
+  },
+  {
+    "slug": "best-tws-earbuds-under-300-india",
+    "category": "earbuds",
+    "topic": "Best TWS under 300 — mass market",
+    "status": "todo"
+  },
+  {
+    "slug": "best-phone-under-70000-india",
+    "category": "smartphones",
+    "topic": "Best phone under 70000 — premium camera tier",
+    "status": "todo"
+  },
+  {
+    "slug": "best-soundbar-under-25000-india",
+    "category": "soundbar",
+    "topic": "Best soundbar under 25000 — Dolby Atmos tier",
+    "status": "todo"
   }
 ]
