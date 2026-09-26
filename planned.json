@@ -845,16 +845,19 @@
   {
     "slug": "best-tv-under-15000-india",
     "category": "tv",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-26T03:37:30.207099+00:00"
   },
   {
     "slug": "best-laptop-under-25000-india",
     "category": "laptops",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-26T03:37:30.207122+00:00"
   },
   {
     "slug": "best-mixer-grinder-under-2000-india",
     "category": "mixer-grinder",
-    "status": "todo"
+    "status": "done",
+    "done_at": "2026-09-26T03:37:30.207128+00:00"
   }
 ]
