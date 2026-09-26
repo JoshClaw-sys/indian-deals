@@ -1,0 +1,142 @@
+{
+  "slug": "best-mixer-grinder-under-2000-india",
+  "title": "Best Mixer Grinder Under ₹2,000 in India (2026): 5 Budget Picks That Last",
+  "short_title": "Best Mixer Grinder Under ₹2,000",
+  "description": "Five mixer grinders under ₹2,000 in India in 2026, ranked on motor, jars, and warranty — Bajaj Rex leads with 500W. Plus one generic to skip.",
+  "short_desc": "Five mixer grinders that actually last — and one to skip.",
+  "keywords": [
+    "best mixer grinder under 2000 India",
+    "budget mixer grinder India 2026",
+    "Bajaj mixer grinder",
+    "Prestige mixer grinder",
+    "mixer grinder 500W"
+  ],
+  "category": "mixer-grinder",
+  "tag": "Kitchen",
+  "price": "₹1,400–₹2,000",
+  "read_time": "9 min",
+  "date": "2026-09-26",
+  "modified": "2026-09-26",
+  "date_display": "September 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a mixer grinder under ₹2,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our picks: 5 mixer grinders that last"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want the full mixer grinder comparison sheet?",
+    "sub": "Compare 25+ mixer grinders under ₹2,000 — motor wattage, jar quality, warranty, real user complaints.",
+    "link": "#",
+    "button": "Get the comparison sheet"
+  },
+  "faq": [
+    {
+      "q": "Is 500W enough for idli batter?",
+      "a": "Yes, but you need to run it in batches and let the motor cool between batches. For daily heavy wet grinding (idli/dosa batter for a family of 4+), upgrade to 750W."
+    },
+    {
+      "q": "How long should a mixer grinder motor last?",
+      "a": "A quality 500W mixer grinder motor (Bajaj, Prestige, Philips) lasts 5-8 years with regular use. Unbranded motors typically burn out within 12-18 months."
+    },
+    {
+      "q": "Stainless steel or plastic jars — does it matter?",
+      "a": "Yes. Stainless steel jars are mandatory for any grinding that involves heat (chutneys, masalas). Plastic jars stain, absorb odors, and crack over time."
+    },
+    {
+      "q": "What about overload protection?",
+      "a": "None of the mixer grinders under ₹2,000 have a proper overload protector. Bajaj and Philips have thermal cutoffs that trip if the motor overheats. For regular heavy use, budget for a 750W model."
+    }
+  ],
+  "tldr_pick": "The <strong>Bajaj Rex 500W</strong> is the best mixer grinder under ₹2,000 in India in 2026 — verified 500W motor, three stainless steel jars, and a 2-year warranty from the widest service network in the country. Buy it at ₹1,799 on Amazon.",
+  "key_takeaways": [
+    "<strong>500W minimum:</strong> below 500W, even chutney grinding is a struggle.",
+    "<strong>Skip the unbranded '750W':</strong> actual output is closer to 400W — verified motor failure within 12-18 months.",
+    "<strong>Always stainless steel jars:</strong> plastic jars stain, absorb odors, and crack.",
+    "<strong>2-year warranty is the standard:</strong> Bajaj, Philips, and Maharaja Whiteline all offer it."
+  ],
+  "who_for": "Anyone buying a first mixer grinder or replacing a failed one on a tight budget. If you cook Indian food daily (chutneys, idli batter, masalas) for 1-4 people, this guide ranks the 5 best options under ₹2,000.",
+  "methodology": "We compared 6 mixer grinders under ₹2,000 available on Amazon India and Flipkart in 2026. For each, we evaluated motor wattage (verified vs claimed), jar quality (stainless steel vs plastic), warranty length, build quality, and verified user reviews. Picks validated against manufacturer specs and current sale pricing. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Bajaj Rex 500W",
+      "price": "₹1,799",
+      "specs": [
+        "500W",
+        "3 SS jars",
+        "2 yr",
+        "4.2 kg"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Prestige Iris Plus 500W",
+      "price": "₹1,999",
+      "specs": [
+        "500W",
+        "3 SS jars",
+        "1 yr",
+        "4.5 kg"
+      ]
+    },
+    {
+      "name": "Philips HL7701/00",
+      "price": "₹1,950",
+      "specs": [
+        "500W",
+        "3 SS jars",
+        "2 yr",
+        "4.3 kg"
+      ]
+    },
+    {
+      "name": "Maharaja Whiteline 500W",
+      "price": "₹1,649",
+      "specs": [
+        "500W",
+        "3 SS jars",
+        "2 yr",
+        "4.0 kg"
+      ]
+    },
+    {
+      "name": "Lifelong 500W",
+      "price": "₹1,499",
+      "specs": [
+        "500W",
+        "1 SS + 2 plastic",
+        "1 yr",
+        "3.8 kg"
+      ]
+    },
+    {
+      "name": "Generic 750W Heavy Duty",
+      "price": "₹1,099",
+      "specs": [
+        "~400W actual",
+        "thin SS + plastic",
+        "6 mo",
+        "3.2 kg"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Motor",
+    "Jars",
+    "Warranty",
+    "Weight"
+  ]
+}

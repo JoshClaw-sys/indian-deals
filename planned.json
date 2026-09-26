@@ -841,5 +841,20 @@
     "topic": "Best soundbar under 25000 — Dolby Atmos tier",
     "status": "done",
     "done_at": "2026-09-25T03:33:14.906078+00:00"
+  },
+  {
+    "slug": "best-tv-under-15000-india",
+    "category": "tv",
+    "status": "todo"
+  },
+  {
+    "slug": "best-laptop-under-25000-india",
+    "category": "laptops",
+    "status": "todo"
+  },
+  {
+    "slug": "best-mixer-grinder-under-2000-india",
+    "category": "mixer-grinder",
+    "status": "todo"
   }
 ]

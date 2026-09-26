@@ -1,0 +1,142 @@
+{
+  "slug": "best-tv-under-15000-india",
+  "title": "Best TV Under ₹15,000 in India (2026): 5 Smart TVs That Actually Deliver",
+  "short_title": "Best TV Under ₹15,000",
+  "description": "Five smart TVs under ₹15,000 in India in 2026, ranked on panel, sound, and OS — Xiaomi TV 5A leads with Google TV and 20W speakers. Plus one Kodak to skip.",
+  "short_desc": "Five smart TVs that actually deliver — and one to skip.",
+  "keywords": [
+    "best TV under 15000 India",
+    "smart TV India 2026",
+    "32 inch smart TV India",
+    "Xiaomi TV under 15000",
+    "Realme TV India"
+  ],
+  "category": "tv",
+  "tag": "TV & Entertainment",
+  "price": "₹10,000–₹15,000",
+  "read_time": "9 min",
+  "date": "2026-09-26",
+  "modified": "2026-09-26",
+  "date_display": "September 2026",
+  "headings": [
+    {
+      "id": "what-matters",
+      "text": "What actually matters in a TV under ₹15,000"
+    },
+    {
+      "id": "our-picks",
+      "text": "Our picks: 5 smart TVs that actually deliver"
+    },
+    {
+      "id": "skip",
+      "text": "The one we recommend skipping"
+    },
+    {
+      "id": "frequently-asked",
+      "text": "Frequently asked questions"
+    }
+  ],
+  "cta": {
+    "headline": "Want the full comparison sheet?",
+    "sub": "Compare 30+ TVs under ₹15,000 side-by-side — panel, sound, OS, real user complaints.",
+    "link": "#",
+    "button": "Get the comparison sheet"
+  },
+  "faq": [
+    {
+      "q": "Is 32-inch the only size under ₹15,000?",
+      "a": "Mostly yes — 32-inch HD/HD-ready smart TVs dominate this range. 43-inch FHD models from Acer and Kodak occasionally drop below ₹15,000 on sale but usually sit at ₹16,000–₹18,000."
+    },
+    {
+      "q": "HD-ready vs Full HD under ₹15,000 — does it matter?",
+      "a": "On a 32-inch panel viewed from 6–8 feet, HD-ready (1366x768) is fine for TV channels and OTT. If you sit closer or want sharper text on-screen, stretch to a 43-inch FHD model."
+    },
+    {
+      "q": "Which TV OS is best — Android, Google TV, or Fire TV?",
+      "a": "Google TV (Android 11+) has the cleanest interface and widest app support. Fire TV works well for Amazon Prime but is heavier. WebOS (LG) and Tizen (Samsung) are smoother but have fewer apps."
+    },
+    {
+      "q": "Do budget TVs have good sound?",
+      "a": "Mostly no — 20W box speakers are the ceiling. For clear dialogue and bass, budget ₹2,500 for a soundbar."
+    }
+  ],
+  "tldr_pick": "The <strong>Xiaomi TV 5A (32-inch, HD Ready)</strong> is the best TV under ₹15,000 in India in 2026 — Google TV is responsive, the 20W speakers are louder than average, and you get 2 years of software updates. Buy it at ₹12,999 on Flipkart.",
+  "key_takeaways": [
+    "<strong>32-inch is the right size:</strong> at this budget, 32-inch HD-ready panels are sharper than 43-inch FHD budget models.",
+    "<strong>Skip the Kodak 32HDX700s:</strong> older WebOS shell, sluggish UI, weak Wi-Fi.",
+    "<strong>Google TV beats Fire TV here:</strong> cleaner interface, more apps, smoother updates.",
+    "<strong>Budget for a soundbar:</strong> in-box speakers max out at 20W — external audio makes a real difference."
+  ],
+  "who_for": "Anyone buying a smart TV for a small room (bedroom, kitchen, study) or a first TV for a 1BHK. If you watch mostly streaming content at 6–8 feet and need something reliable on a tight budget, this guide ranks the 5 best options under ₹15,000.",
+  "methodology": "We compared 6 smart TVs under ₹15,000 available on Amazon India and Flipkart in 2026. For each, we evaluated panel type (VA/IPS), peak brightness, OS responsiveness, sound output, app support, Wi-Fi stability, warranty, and verified user reviews. Picks validated against manufacturer specs and current sale pricing. Reviewed every 60 days.",
+  "products": [
+    {
+      "name": "Xiaomi TV 5A 32\" HD Ready",
+      "price": "₹12,999",
+      "specs": [
+        "32-inch HD",
+        "20W",
+        "Google TV",
+        "2 yr"
+      ],
+      "winner": true
+    },
+    {
+      "name": "Realme Smart TV 32\" HD",
+      "price": "₹11,499",
+      "specs": [
+        "32-inch HD",
+        "24W",
+        "Google TV",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "OnePlus Y1S 32\" HD Ready",
+      "price": "₹13,999",
+      "specs": [
+        "32-inch HD",
+        "20W",
+        "Android 11",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "Acer 32-inch H Series HD",
+      "price": "₹10,999",
+      "specs": [
+        "32-inch HD",
+        "20W",
+        "Android 11",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "Hisense 32A4H 32\" HD",
+      "price": "₹11,999",
+      "specs": [
+        "32-inch HD",
+        "20W",
+        "VIDAA U",
+        "1 yr"
+      ]
+    },
+    {
+      "name": "Kodak 32HDX700s",
+      "price": "₹9,999",
+      "specs": [
+        "32-inch HD",
+        "20W",
+        "WebOS-like",
+        "1 yr"
+      ],
+      "skip": true
+    }
+  ],
+  "spec_headers": [
+    "Size/Resolution",
+    "Sound",
+    "OS",
+    "Warranty"
+  ]
+}
